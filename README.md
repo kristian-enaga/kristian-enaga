@@ -15,7 +15,7 @@ I architect fault-tolerant, sub-5-second automation pipelines for Sales & Market
 #### 2. [Automated B2B Outbound Prospecting Engine](https://github.com/kristian-enaga/Automated-B2B-Outbound-System)
 * **Architecture:** Apify lead scraping, Gemini email copy drafting, interactive Slack Human-in-the-Loop (HITL) approvals, and fault-tolerant logging.
 * **ROI:** Reclaims 70% of sales rep time while protecting domain deliverability.
-* 🎬 [Watch 4-min Loom Demo](https://www.loom.com/share/9ba543dcd7bd4e249911e3895e63447d)
+* 🎬 [Watch 4-min Loom Demo](https://www.loom.com/share/5d3416feda7148bbbd60704ab9b5976e)
 
 #### 3. [n8n Centralized Error Handler & Fail-Safe](https://github.com/kristian-enaga/n8n-Centralized-Error-Handler)
 * **Architecture:** Enterprise fault-tolerance system capturing execution failures, logging diagnostic audit trails to Google Sheets, and dispatching instant Gmail/Slack alerts with 1-click execution debug links.
@@ -24,7 +24,8 @@ I architect fault-tolerant, sub-5-second automation pipelines for Sales & Market
 
 #### 4. [AI Lead Scoring & Priority Router](https://github.com/kristian-enaga/AI-Lead-Scoring-Router)
 * **Architecture:** Real-time inbound lead triage evaluating budget, company size, and urgency with Google Gemini AI.
-* 🎬 [Watch Live Demo](https://github.com/kristian-enaga/AI-Lead-Scoring-Router)
+* **ROI:** Eliminates manual lead review overhead and routes high-intent deals in sub-5 seconds.
+* 🎬 [View Repository Architecture](https://github.com/kristian-enaga/AI-Lead-Scoring-Router#readme)
 
 #### 5. [Instant Speed-to-Lead Alert & CRM Ingestion](https://github.com/kristian-enaga/Speed-to-lead-ingestion-engine)
 * **Architecture:** Webhook lead ingestion, schema normalization, Google Sheets CRM sync, and instant Slack notifications.
