@@ -20,17 +20,17 @@ I architect fault-tolerant, sub-5-second automation pipelines for Sales & Market
 #### 3. [n8n Centralized Error Handler & Fail-Safe](https://github.com/kristian-enaga/n8n-Centralized-Error-Handler)
 * **Architecture:** Enterprise fault-tolerance system capturing execution failures, logging diagnostic audit trails to Google Sheets, and dispatching instant Gmail/Slack alerts with 1-click execution debug links.
 * **ROI:** Prevents silent system downtime and cuts engineering triage time from hours to under 2 minutes per incident.
-* 🎬 [Watch 3-min Loom Demo](https://www.loom.com/share/5361feccbf8e495f87b8f0ca438b4382)
+* 🎬 [Watch 3-min Loom Demo](https://www.loom.com/share/ea1602f3bd8a4086983c96590e49136f)
 
 #### 4. [AI Lead Scoring & Priority Router](https://github.com/kristian-enaga/AI-Lead-Scoring-Router)
 * **Architecture:** Real-time inbound lead triage evaluating budget, company size, and urgency with Google Gemini AI.
 * **ROI:** Saves 15+ hours/week of manual lead qualification and boosts enterprise lead conversion by routing high-value prospects instantly.
-* 🎬 [Watch 3-min Loom Demo](https://www.loom.com/share/9c01dd377a00445d9e5a1bdfd775ea0d)
+* 🎬 [Watch 3-min Loom Demo](https://www.loom.com/share/38164c8a840f4076b3ac0ec62a26e3ce)
 
 #### 5. [Instant Speed-to-Lead Alert & CRM Ingestion](https://github.com/kristian-enaga/Speed-to-lead-ingestion-engine)
 * **Architecture:** Webhook lead ingestion, schema normalization, Google Sheets CRM sync, and instant Slack notifications.
 * **ROI:** Reduces lead contact time by 95% (achieving 5-minute Speed-to-Lead), increasing prospect connection rates by up to 391%.
-* 🎬 [Watch 4-min Loom Demo](https://www.loom.com/share/48b81be92d3b4a2a8ee0a3a78bd6cdd0)
+* 🎬 [Watch 4-min Loom Demo](https://www.loom.com/share/707c78cf35df44a4adf3ee1a04d75b57)
 
 ---
 
