@@ -1,7 +1,7 @@
 # Hi, I'm Kristian Jay Eñaga 👋 
 ### Production AI Automation & Systems Integration Engineer
 
-I architect fault-tolerant, sub-5-second automation pipelines for Sales & Marketing teams. Specializing in **n8n**, **Gemini/OpenAI AI Agents**, **REST APIs**, and **defensive data engineering**.
+I architect fault-tolerant, sub-5-second automation pipelines for Sales & Marketing teams. Specializing in **n8n**, **make**, **Gemini/OpenAI AI Agents**, **REST APIs**, and **defensive data engineering**.
 
 ---
 
