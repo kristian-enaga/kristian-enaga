@@ -25,7 +25,7 @@ I architect fault-tolerant, sub-5-second automation pipelines for Sales & Market
 #### 4. [AI Lead Scoring & Priority Router](https://github.com/kristian-enaga/AI-Lead-Scoring-Router)
 * **Architecture:** Real-time inbound lead triage evaluating budget, company size, and urgency with Google Gemini AI.
 * **ROI:** Eliminates manual lead review overhead and routes high-intent deals in sub-5 seconds.
-* 🎬 [View Repository Architecture](https://github.com/kristian-enaga/AI-Lead-Scoring-Router#readme)
+* 🎬 [Watch 3-min Loom Demo](https://www.loom.com/share/38164c8a840f4076b3ac0ec62a26e3ce)
 
 #### 5. [Instant Speed-to-Lead Alert & CRM Ingestion](https://github.com/kristian-enaga/Speed-to-lead-ingestion-engine)
 * **Architecture:** Webhook lead ingestion, schema normalization, Google Sheets CRM sync, and instant Slack notifications.
