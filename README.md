@@ -31,7 +31,6 @@ I architect fault-tolerant, sub-5-second automation pipelines for Sales & Market
 * **Architecture:** Webhook lead ingestion, schema normalization, Google Sheets CRM sync, and instant Slack notifications.
 * **ROI:** Reduces lead contact time by 95% (achieving 5-minute Speed-to-Lead), increasing prospect connection rates by up to 391%.
 * 🎬 [Watch 4-min Loom Demo](https://www.loom.com/share/707c78cf35df44a4adf3ee1a04d75b57)
-
 ---
 
 ### 🛠️ Technical Stack & Standards
