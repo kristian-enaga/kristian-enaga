@@ -7,6 +7,11 @@ I architect fault-tolerant, sub-5-second automation pipelines for Sales & Market
 
 ### ⚡ Core Production Systems
 
+
+
+
+
+
 **📥 B2B Inbound Lead Acceleration & Qualification**
 #### 1. [Enterprise Inbound Lead Sanitizer & Outreach Engine](https://github.com/kristian-enaga/Inbound-Lead-Sanitizer-Engine)
 * **Architecture:** Sub-5s E.164 phone normalization, bot filtering, Gemini AI intent scoring, HubSpot sync, and dynamic Slack/WhatsApp routing.
@@ -23,11 +28,19 @@ I architect fault-tolerant, sub-5-second automation pipelines for Sales & Market
 * **ROI:** Reduces lead contact time by 95% (achieving 5-minute Speed-to-Lead), increasing prospect connection rates by up to 391%.
 * 🎬 [Watch 4-min Loom Demo](https://www.loom.com/share/707c78cf35df44a4adf3ee1a04d75b57)
 
+
+
+
+
 **📤 B2B Outbound Prospecting & Engagement**
 #### 4. [Automated B2B Outbound Prospecting Engine](https://github.com/kristian-enaga/Automated-B2B-Outbound-System)
 * **Architecture:** Apify lead scraping, Gemini email copy drafting, interactive Slack Human-in-the-Loop (HITL) approvals, and fault-tolerant logging.
 * **ROI:** Reclaims 70% of sales rep prospecting time while protecting domain deliverability with HITL gates.
 * 🎬 [Watch 4-min Loom Demo](https://www.loom.com/share/5d3416feda7148bbbd60704ab9b5976e)
+
+
+
+
 
 **🛒 E-Commerce & Revenue Operations**
 #### 5. [Autonomous Revenue Recovery Engine (E-Commerce)](https://github.com/kristian-enaga/autonomous-revenue-recovery-engine)
