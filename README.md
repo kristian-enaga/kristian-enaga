@@ -14,6 +14,9 @@ I architect fault-tolerant, sub-5-second automation pipelines for Sales & Market
 
 **📥 B2B Inbound Lead Acceleration & Qualification**
 #### 1. [Enterprise Inbound Lead Sanitizer & Outreach Engine](https://github.com/kristian-enaga/Inbound-Lead-Sanitizer-Engine)
+---
+<img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/6364334f-f66b-45db-9b89-3bf2e34e49d0" />
+
 * **Architecture:** Sub-5s E.164 phone normalization, bot filtering, Gemini AI intent scoring, HubSpot sync, and dynamic Slack/WhatsApp routing.
 * **ROI:** Eliminates 100% of invalid CRM entries and slashes response SLA from hours to sub-5 seconds.
 * 🎬 [Watch 4-min Loom Demo](https://www.loom.com/share/c38d37d65eed44129a712e530a8e2446)
