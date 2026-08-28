@@ -39,7 +39,7 @@ I architect fault-tolerant, sub-5-second automation pipelines for Sales & Market
 
 
 
-
+---
 
 **📤 B2B Outbound Prospecting & Engagement**
 #### 4. [Automated B2B Outbound Prospecting Engine](https://github.com/kristian-enaga/Automated-B2B-Outbound-System)
@@ -51,11 +51,15 @@ I architect fault-tolerant, sub-5-second automation pipelines for Sales & Market
 * 🎬 [Watch 4-min Loom Demo](https://www.loom.com/share/5d3416feda7148bbbd60704ab9b5976e)
 
 
+---
+**🤖 Autonomous Job Intelligence & Outreach**
+#### 5. [Autonomous Job Intelligence & High-Intent Outreach Engine](https://github.com/kristian-enaga/autonomous-job-lead-engine)
+---
+<img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/6364334f-f66b-45db-9b89-3bf2e34e49d0" />
 
-
-
+---
 **🛒 E-Commerce & Revenue Operations**
-#### 5. [Autonomous Revenue Recovery Engine (E-Commerce)](https://github.com/kristian-enaga/autonomous-revenue-recovery-engine)
+#### 6. [Autonomous Revenue Recovery Engine (E-Commerce)](https://github.com/kristian-enaga/autonomous-revenue-recovery-engine)
 ---
 <img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/25dbdf59-5569-42aa-9370-9723ec378d1d" />
 
@@ -63,8 +67,10 @@ I architect fault-tolerant, sub-5-second automation pipelines for Sales & Market
 * **ROI:** Eliminates redundant outreach to converted buyers, protects brand sender reputation, and recovers lost e-commerce revenue automatically.
 * 🎬 [Watch 3-min Loom Demo](https://www.loom.com/share/311bfc94eee1429080f6fe5ed3cf62c0)
 
+
+---
 **🛡️ Infrastructure & System Resilience**
-#### 6. [n8n Centralized Error Handler & Fail-Safe](https://github.com/kristian-enaga/n8n-Centralized-Error-Handler)
+#### 7. [n8n Centralized Error Handler & Fail-Safe](https://github.com/kristian-enaga/n8n-Centralized-Error-Handler)
 ---
 <img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/0a6e86a9-b257-4635-868d-f1abcce5d33b" />
 
