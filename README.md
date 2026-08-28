@@ -56,7 +56,11 @@ I architect fault-tolerant, sub-5-second automation pipelines for Sales & Market
 #### 5. [Autonomous Job Intelligence & High-Intent Outreach Engine](https://github.com/kristian-enaga/autonomous-job-lead-engine)
 
 <img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/45d2710a-a5f8-4711-a56d-227eeda4fb19" />
+- **Architecture:** SerpAPI search ingestion, pre-flight 404/duplicate verification, JavaScript RegEx HTML token optimization (~70% cost reduction), Gemini AI + Groq failover, Zod schema validation, Dead Letter Queue (DLQ), and Telegram HITL 1-click approvals.
+- **ROI:** Automates 10+ hours of weekly manual lead sourcing and technical site audits while enforcing zero CRM data corruption through strict schema gates.
+- 🎬 [Watch 3-min Loom Demo](https://www.loom.com)
 
+  
 ---
 **🛒 E-Commerce & Revenue Operations**
 #### 6. [Autonomous Revenue Recovery Engine (E-Commerce)](https://github.com/kristian-enaga/autonomous-revenue-recovery-engine)
