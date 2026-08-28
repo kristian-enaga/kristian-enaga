@@ -55,7 +55,7 @@ I architect fault-tolerant, sub-5-second automation pipelines for Sales & Market
 **🤖 Autonomous Job Intelligence & Outreach**
 #### 5. [Autonomous Job Intelligence & High-Intent Outreach Engine](https://github.com/kristian-enaga/autonomous-job-lead-engine)
 
-<img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/6364334f-f66b-45db-9b89-3bf2e34e49d0" />
+<img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/45d2710a-a5f8-4711-a56d-227eeda4fb19" />
 
 ---
 **🛒 E-Commerce & Revenue Operations**
