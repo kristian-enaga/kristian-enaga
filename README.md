@@ -64,11 +64,6 @@ I build automated lead and revenue engines that save B2B sales teams 15+ hours a
 * 🎬 [Watch 4-min Loom Demo](https://www.loom.com/share/7792580657284a58a7e1dabf99365087)
 
   
----
-
-### 🎥 System Demonstration & Architecture Walkthrough
-
-Watch the complete breakdown of the [1-Click Mobile Pipeline: Automated Job Intelligence & Instant Approval Engine](https://www.loom.com/share/7792580657284a58a7e1dabf99365087) covering API ingestion, schema validation, and mobile Telegram decision gates:
 
 
 ---
