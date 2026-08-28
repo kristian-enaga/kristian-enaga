@@ -56,7 +56,7 @@ I build automated lead and revenue engines that save B2B sales teams 15+ hours a
 
 
 ---
-#### 5. [Autonomous Job Intelligence & High-Intent Outreach Engine](https://github.com/kristian-enaga/kristian-enaga/blob/main/README.md)
+#### 5. [Autonomous Job Intelligence & High-Intent Outreach Engine](https://github.com/kristian-enaga/autonomous-job-lead-engine)
 <img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/45d2710a-a5f8-4711-a56d-227eeda4fb19" />
 
 * **Architecture:** SerpAPI search ingestion, pre-flight 404/duplicate verification, JavaScript RegEx HTML token optimization (~70% cost reduction), Gemini AI + Groq failover, Zod schema validation, Dead Letter Queue (DLQ), and Telegram HITL 1-click approvals.
