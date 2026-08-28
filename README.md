@@ -62,7 +62,13 @@ I build automated lead and revenue engines that save B2B sales teams 15+ hours a
 
 * **Architecture:** SerpAPI search ingestion, pre-flight 404/duplicate verification, JavaScript RegEx HTML token optimization (~70% cost reduction), Gemini AI + Groq failover, Zod schema validation, Dead Letter Queue (DLQ), and Telegram HITL 1-click approvals.
 * **ROI:** Automates 10+ hours of weekly manual lead sourcing and technical site audits while enforcing zero CRM data corruption through strict schema gates.
-* 🎬 [Watch 3-min Loom Demo](https://www.loom.com)
+---
+
+### 🎥 System Demonstration & Architecture Walkthrough
+
+Watch the complete breakdown of the [1-Click Mobile Pipeline: Automated Job Intelligence & Instant Approval Engine](https://www.loom.com/share/7792580657284a58a7e1dabf99365087) covering API ingestion, schema validation, and mobile Telegram decision gates:
+
+[![Watch Full Demo](https://img.shields.io/badge/Watch_Full_Architecture_Demo-Loom-0055FF?style=for-the-badge&logo=loom&logoColor=white)](https://www.loom.com/share/7792580657284a58a7e1dabf99365087)
 ---
 **🛒 E-Commerce & Revenue Operations**
 #### 6. [Autonomous Revenue Recovery Engine (E-Commerce)](https://github.com/kristian-enaga/autonomous-revenue-recovery-engine)
