@@ -1,6 +1,8 @@
 
 # Hi, I'm Kristian Jay Eñaga 👋
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kristian-jay-e%C3%B1aga-85345741a/)
+
 ### Production AI Automation & Systems Integration Engineer
 
 I build automated lead and revenue engines that save B2B sales teams 15+ hours a week and eliminate lost leads through bulletproof error handling. Specializing in **n8n**, **Make.com**, **Gemini/OpenAI**, **AI Agents**, **REST APIs**, and **defensive data engineering**.
