@@ -14,7 +14,7 @@ I architect fault-tolerant, sub-5-second automation pipelines for Sales & Market
 
 **📥 B2B Inbound Lead Acceleration & Qualification**
 #### 1. [Enterprise Inbound Lead Sanitizer & Outreach Engine](https://github.com/kristian-enaga/Inbound-Lead-Sanitizer-Engine)
----
+
 <img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/6364334f-f66b-45db-9b89-3bf2e34e49d0" />
 
 * **Architecture:** Sub-5s E.164 phone normalization, bot filtering, Gemini AI intent scoring, HubSpot sync, and dynamic Slack/WhatsApp routing.
@@ -22,7 +22,7 @@ I architect fault-tolerant, sub-5-second automation pipelines for Sales & Market
 * 🎬 [Watch 4-min Loom Demo](https://www.loom.com/share/c38d37d65eed44129a712e530a8e2446)
 
 #### 2. [AI Lead Scoring & Priority Router](https://github.com/kristian-enaga/AI-Lead-Scoring-Router)
----
+
 <img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/9fee8045-3258-4968-bd11-8208278c4c0d" />
 
 * **Architecture:** Real-time inbound lead triage evaluating budget, company size, and urgency with Google Gemini AI.
@@ -30,7 +30,7 @@ I architect fault-tolerant, sub-5-second automation pipelines for Sales & Market
 * 🎬 [Watch 3-min Loom Demo](https://www.loom.com/share/38164c8a840f4076b3ac0ec62a26e3ce)
 
 #### 3. [Instant Speed-to-Lead Alert & CRM Ingestion](https://github.com/kristian-enaga/Speed-to-lead-ingestion-engine)
----
+
 <img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/93e85a03-7418-4415-a602-1dcdc57bd49a" />
 
 * **Architecture:** Webhook lead ingestion, schema normalization, Google Sheets CRM sync, and instant Slack notifications.
@@ -43,7 +43,7 @@ I architect fault-tolerant, sub-5-second automation pipelines for Sales & Market
 
 **📤 B2B Outbound Prospecting & Engagement**
 #### 4. [Automated B2B Outbound Prospecting Engine](https://github.com/kristian-enaga/Automated-B2B-Outbound-System)
----
+
 <img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/f8bae866-2e23-453a-969b-00af5d0125f5" />
 
 * **Architecture:** Apify lead scraping, Gemini email copy drafting, interactive Slack Human-in-the-Loop (HITL) approvals, and fault-tolerant logging.
@@ -54,13 +54,13 @@ I architect fault-tolerant, sub-5-second automation pipelines for Sales & Market
 ---
 **🤖 Autonomous Job Intelligence & Outreach**
 #### 5. [Autonomous Job Intelligence & High-Intent Outreach Engine](https://github.com/kristian-enaga/autonomous-job-lead-engine)
----
+
 <img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/6364334f-f66b-45db-9b89-3bf2e34e49d0" />
 
 ---
 **🛒 E-Commerce & Revenue Operations**
 #### 6. [Autonomous Revenue Recovery Engine (E-Commerce)](https://github.com/kristian-enaga/autonomous-revenue-recovery-engine)
----
+
 <img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/25dbdf59-5569-42aa-9370-9723ec378d1d" />
 
 * **Architecture:** Make.com scenario engine with webhook ingestion, stateful delay gates, real-time Supabase purchase evaluation, Gemini AI email copy generation, and custom Gmail dispatch.
@@ -71,7 +71,7 @@ I architect fault-tolerant, sub-5-second automation pipelines for Sales & Market
 ---
 **🛡️ Infrastructure & System Resilience**
 #### 7. [n8n Centralized Error Handler & Fail-Safe](https://github.com/kristian-enaga/n8n-Centralized-Error-Handler)
----
+
 <img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/0a6e86a9-b257-4635-868d-f1abcce5d33b" />
 
 * **Architecture:** Enterprise fault-tolerance system capturing execution failures, logging diagnostic audit trails to Google Sheets, and dispatching instant Gmail/Slack alerts with 1-click execution debug links.
