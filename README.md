@@ -71,7 +71,7 @@ I build automated lead and revenue engines for B2B sales and marketing teams.
 
 #### 6. [Autonomous Revenue Recovery Engine (E‑Commerce)](https://github.com/kristian-enaga/autonomous-revenue-recovery-engine)
 
-<img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/25dbdf59-5569-42aa-9370-9723ec378d1f" />
+<img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/25dbdf59-5569-42aa-9370-9723ec378d1d" />
 
 - **What it does:** Recovers lost revenue (e.g., abandoned cart/checkout) with smart, non‑spammy email sequences.  
 - **Architecture:** Make.com scenario, webhook ingestion, stateful delay gates, Supabase purchase evaluation, Gemini AI email copy, custom Gmail dispatch.  
