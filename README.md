@@ -95,11 +95,11 @@ I build automated lead and revenue engines for B2B sales and marketing teams.
 
 ## How I work (engagement model)
 
-- **Discovery:** map GTM process, tools, and data flows. [36]
-- **Data model:** define schemas, identity keys, and quality rules. [37][41]
-- **MVP workflow:** ship a minimal end‑to‑end automation in 1–2 weeks. [36]
-- **Production hardening:** add retries, monitoring, docs, and handover. [31][38]
-- **Iterate:** expand to more use cases (onboarding, CS, attribution, etc.). [35][43]
+- **Discovery:** map GTM process, tools, and data flows. 
+- **Data model:** define schemas, identity keys, and quality rules.
+- **MVP workflow:** ship a minimal end‑to‑end automation in 1–2 weeks. 
+- **Production hardening:** add retries, monitoring, docs, and handover.
+- **Iterate:** expand to more use cases (onboarding, CS, attribution, etc.).
 
 Open to **B2B contract** and **fractional GTM Engineer** engagements.
 
