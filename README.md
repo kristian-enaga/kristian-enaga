@@ -6,9 +6,9 @@
 
 I build automated lead and revenue engines for B2B sales and marketing teams.
 
-- Save 15+ hours/week per rep by automating prospecting, enrichment, routing, and follow‑up. [31][37]
-- Eliminate lost leads with bulletproof error handling, retries, and dead‑letter queues. [31][38]
-- Stack: **n8n**, **Make**, **Gemini/OpenAI**, **AI Agents**, **REST APIs**, **webhooks**, and **defensive data engineering**. [32][36][41]
+- Save 15+ hours/week per rep by automating prospecting, enrichment, routing, and follow‑up. 
+- Eliminate lost leads with bulletproof error handling, retries, and dead‑letter queues. 
+- Stack: **n8n**, **Make**, **Gemini/OpenAI**, **AI Agents**, **REST APIs**, **webhooks**, and **defensive data engineering**.
 
 ---
 
@@ -22,7 +22,7 @@ I build automated lead and revenue engines for B2B sales and marketing teams.
 
 - **What it does:** Sanitizes inbound leads, filters bots, scores intent, syncs to HubSpot, and routes to Slack/WhatsApp.  
 - **Architecture:** Sub‑5s E.164 phone normalization, bot filtering, Gemini AI intent scoring, HubSpot sync, dynamic Slack/WhatsApp routing.  
-- **Outcome:** 100% invalid CRM entries blocked; response SLA from hours → sub‑5 seconds. [31][37]  
+- **Outcome:** 100% invalid CRM entries blocked; response SLA from hours → sub‑5 seconds.
 - 🎬 [Watch 4‑min Loom Demo](https://www.loom.com/share/c38d37d65eed44129a712e530a8e2446)
 
 #### 2. [AI Lead Scoring & Priority Router](https://github.com/kristian-enaga/AI-Lead-Scoring-Router)
@@ -31,7 +31,7 @@ I build automated lead and revenue engines for B2B sales and marketing teams.
 
 - **What it does:** Real‑time triage of inbound leads by budget, company size, and urgency.  
 - **Architecture:** Google Gemini AI scoring + priority routing to reps/channels.  
-- **Outcome:** Saves 15+ hours/week of manual qualification; high‑value prospects routed instantly. [37][38]  
+- **Outcome:** Saves 15+ hours/week of manual qualification; high‑value prospects routed instantly. 
 - 🎬 [Watch 3‑min Loom Demo](https://www.loom.com/share/38164c8a840f4076b3ac0ec62a26e3ce)
 
 #### 3. [Instant Speed‑to‑Lead Alert & CRM Ingestion](https://github.com/kristian-enaga/Speed-to-lead-ingestion-engine)
@@ -40,7 +40,7 @@ I build automated lead and revenue engines for B2B sales and marketing teams.
 
 - **What it does:** Ingests webhook leads, normalizes schema, syncs to Google Sheets CRM, and fires instant Slack alerts.  
 - **Architecture:** Webhook ingestion → schema normalization → Sheets sync → Slack notifications.  
-- **Outcome:** Lead contact time −95% (5‑minute Speed‑to‑Lead); connection rates up to +391%. [31][37]  
+- **Outcome:** Lead contact time −95% (5‑minute Speed‑to‑Lead); connection rates up to +391%. 
 - 🎬 [Watch 4‑min Loom Demo](https://www.loom.com/share/707c78cf35df44a4adf3ee1a04d75b57)
 
 ---
@@ -53,7 +53,7 @@ I build automated lead and revenue engines for B2B sales and marketing teams.
 
 - **What it does:** End‑to‑end outbound: scraping → AI copy → HITL approval → send → logging.  
 - **Architecture:** Apify scraping, Gemini email copy, Slack Human‑in‑the‑Loop (HITL) approvals, fault‑tolerant logging.  
-- **Outcome:** Reclaims ~70% of rep prospecting time; protects domain deliverability with HITL gates. [36][38]  
+- **Outcome:** Reclaims ~70% of rep prospecting time; protects domain deliverability with HITL gates. 
 - 🎬 [Watch 4‑min Loom Demo](https://www.loom.com/share/5d3416feda7148bbbd60704ab9b5976e)
 
 #### 5. [Autonomous Job Intelligence & High‑Intent Outreach Engine](https://github.com/kristian-enaga/autonomous-job-lead-engine)
@@ -62,7 +62,7 @@ I build automated lead and revenue engines for B2B sales and marketing teams.
 
 - **What it does:** Finds high‑intent job leads, validates pages, extracts tokens, drafts outreach, and sends via HITL.  
 - **Architecture:** SerpAPI ingestion, pre‑flight 404/duplicate checks, JS RegEx HTML token optimization (~70% cost reduction), Gemini + Groq failover, Zod schema validation, DLQ, Telegram HITL 1‑click approvals.  
-- **Outcome:** Automates 10+ hours/week of manual sourcing/audits; zero CRM data corruption via strict schema gates. [31][38]  
+- **Outcome:** Automates 10+ hours/week of manual sourcing/audits; zero CRM data corruption via strict schema gates.  
 - 🎬 [Watch 4‑min Loom Demo](https://www.loom.com/share/7792580657284a58a7e1dabf99365087)
 
 ---
@@ -75,7 +75,7 @@ I build automated lead and revenue engines for B2B sales and marketing teams.
 
 - **What it does:** Recovers lost revenue (e.g., abandoned cart/checkout) with smart, non‑spammy email sequences.  
 - **Architecture:** Make.com scenario, webhook ingestion, stateful delay gates, Supabase purchase evaluation, Gemini AI email copy, custom Gmail dispatch.  
-- **Outcome:** No redundant outreach to converted buyers; protects sender reputation; recovers lost revenue automatically. [37][43]  
+- **Outcome:** No redundant outreach to converted buyers; protects sender reputation; recovers lost revenue automatically. 
 - 🎬 [Watch 3‑min Loom Demo](https://www.loom.com/share/311bfc94eee1429080f6fe5ed3cf62c0)
 
 ---
@@ -88,7 +88,7 @@ I build automated lead and revenue engines for B2B sales and marketing teams.
 
 - **What it does:** Captures n8n execution failures, logs audit trails, and sends instant alerts with 1‑click debug links.  
 - **Architecture:** Centralized error handler, Google Sheets audit logs, Gmail/Slack alerts, execution debug links.  
-- **Outcome:** Prevents silent downtime; cuts triage time from hours → under 2 minutes per incident. [31][38]  
+- **Outcome:** Prevents silent downtime; cuts triage time from hours → under 2 minutes per incident. 
 - 🎬 [Watch 3‑min Loom Demo](https://www.loom.com/share/ea1602f3bd8a4086983c96590e49136f)
 
 ---
