@@ -14,9 +14,23 @@ I build automated lead and revenue engines for B2B sales and marketing teams.
 
 ## Core Production Systems
 
+###1 🧾 Accounts Payable Automation & Financial Control
+
+#### [Enterprise Autonomous AP Invoice Reconciliation & Fraud Protection Engine](https://github.com/kristian-enaga/enterprise-ap-invoice-reconciliation-engine)
+<img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/6364334f-f66b-45db-9b89-3bf2e34e49d0" />
+
+- **What it does:** Ingests vendor invoices across Gmail and webhooks, runs autonomous line-item math checks, traps billing discrepancies, blocks duplicate payouts, and posts clean invoices to QuickBooks Online with Slack human-in-the-loop exception control.
+- **Architecture:** Gmail/Webhook trigger → Multi-format document parser → Dual AI model fallback (Gemini/OpenAI) → Automated math verification gate → Supabase zero-data-loss exception vault → Slack interactive approval card → QuickBooks Online ERP sync.
+- **Outcome:** Reclaims 10+ hours/week of manual bookkeeping, prevents duplicate/fraudulent disbursements, and ensures 100% audit readiness with immutable failure tracking.
+- 🎬 [Watch 4-min Loom Demo](https://www.loom.com/share/595e7e48d6ab4a1f89263d23496f9d67)
+
+
+---
+
+
 ### 📥 B2B Inbound Lead Acceleration & Qualification
 
-#### 1. [Enterprise Inbound Lead Sanitizer & Outreach Engine](https://github.com/kristian-enaga/Inbound-Lead-Sanitizer-Engine)
+#### 2. [Enterprise Inbound Lead Sanitizer & Outreach Engine](https://github.com/kristian-enaga/Inbound-Lead-Sanitizer-Engine)
 
 <img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/6364334f-f66b-45db-9b89-3bf2e34e49d0" />
 
@@ -25,7 +39,7 @@ I build automated lead and revenue engines for B2B sales and marketing teams.
 - **Outcome:** 100% invalid CRM entries blocked; response SLA from hours → sub‑5 seconds.
 - 🎬 [Watch 4‑min Loom Demo](https://www.loom.com/share/c38d37d65eed44129a712e530a8e2446)
 
-#### 2. [AI Lead Scoring & Priority Router](https://github.com/kristian-enaga/AI-Lead-Scoring-Router)
+#### 3. [AI Lead Scoring & Priority Router](https://github.com/kristian-enaga/AI-Lead-Scoring-Router)
 
 <img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/9fee8045-3258-4968-bd11-8208278c4c0d" />
 
@@ -34,7 +48,7 @@ I build automated lead and revenue engines for B2B sales and marketing teams.
 - **Outcome:** Saves 15+ hours/week of manual qualification; high‑value prospects routed instantly. 
 - 🎬 [Watch 3‑min Loom Demo](https://www.loom.com/share/38164c8a840f4076b3ac0ec62a26e3ce)
 
-#### 3. [Instant Speed‑to‑Lead Alert & CRM Ingestion](https://github.com/kristian-enaga/Speed-to-lead-ingestion-engine)
+#### 4. [Instant Speed‑to‑Lead Alert & CRM Ingestion](https://github.com/kristian-enaga/Speed-to-lead-ingestion-engine)
 
 <img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/93e85a03-7418-4415-a602-1dcdc57bd49a" />
 
@@ -47,7 +61,7 @@ I build automated lead and revenue engines for B2B sales and marketing teams.
 
 ### 📤 B2B Outbound Prospecting & Engagement
 
-#### 4. [Automated B2B Outbound Prospecting Engine](https://github.com/kristian-enaga/Automated-B2B-Outbound-System)
+#### 5. [Automated B2B Outbound Prospecting Engine](https://github.com/kristian-enaga/Automated-B2B-Outbound-System)
 
 <img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/f8bae866-2e23-453a-969b-00af5d0125f5" />
 
@@ -56,7 +70,7 @@ I build automated lead and revenue engines for B2B sales and marketing teams.
 - **Outcome:** Reclaims ~70% of rep prospecting time; protects domain deliverability with HITL gates. 
 - 🎬 [Watch 4‑min Loom Demo](https://www.loom.com/share/5d3416feda7148bbbd60704ab9b5976e)
 
-#### 5. [Autonomous Job Intelligence & High‑Intent Outreach Engine](https://github.com/kristian-enaga/autonomous-job-lead-engine)
+#### 6. [Autonomous Job Intelligence & High‑Intent Outreach Engine](https://github.com/kristian-enaga/autonomous-job-lead-engine)
 
 <img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/45d2710a-a5f8-4711-a56d-227eeda4fb19" />
 
@@ -69,7 +83,7 @@ I build automated lead and revenue engines for B2B sales and marketing teams.
 
 ### 🛒 E‑Commerce & Revenue Operations
 
-#### 6. [Autonomous Revenue Recovery Engine (E‑Commerce)](https://github.com/kristian-enaga/autonomous-revenue-recovery-engine)
+#### 7. [Autonomous Revenue Recovery Engine (E‑Commerce)](https://github.com/kristian-enaga/autonomous-revenue-recovery-engine)
 
 <img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/25dbdf59-5569-42aa-9370-9723ec378d1d" />
 
@@ -82,7 +96,7 @@ I build automated lead and revenue engines for B2B sales and marketing teams.
 
 ### 🛡️ Infrastructure & System Resilience
 
-#### 7. [n8n Centralized Error Handler & Fail‑Safe](https://github.com/kristian-enaga/n8n-Centralized-Error-Handler)
+#### 8. [n8n Centralized Error Handler & Fail‑Safe](https://github.com/kristian-enaga/n8n-Centralized-Error-Handler)
 
 <img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/0a6e86a9-b257-4635-868d-f1abcce5d33b" />
 
