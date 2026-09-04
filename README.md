@@ -17,7 +17,7 @@ I build automated lead and revenue engines for B2B sales and marketing teams.
 ###1 🧾 Accounts Payable Automation & Financial Control
 
 #### [Enterprise Autonomous AP Invoice Reconciliation & Fraud Protection Engine](https://github.com/kristian-enaga/enterprise-ap-invoice-reconciliation-engine)
-<img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/b788cbc4-a137-4c50-9e9d-fed39b9c4e96" />
+<img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/e8d972b1-2f29-4eff-8034-5e4d84ee3777" />
 
 - **What it does:** Ingests vendor invoices across Gmail and webhooks, runs autonomous line-item math checks, traps billing discrepancies, blocks duplicate payouts, and posts clean invoices to QuickBooks Online with Slack human-in-the-loop exception control.
 - **Architecture:** Gmail/Webhook trigger → Multi-format document parser → Dual AI model fallback (Gemini/OpenAI) → Automated math verification gate → Supabase zero-data-loss exception vault → Slack interactive approval card → QuickBooks Online ERP sync.
