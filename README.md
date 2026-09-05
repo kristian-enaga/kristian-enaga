@@ -2,12 +2,13 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kristian-jay-e%C3%B1aga-85345741a/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kchanchan2357@gmail.com)
 
-## GTM Engineer (n8n • Make • AI Agents)
+## GTM Systems Diagnostic Engineer (n8n • Make • AI Agents)
 
-I build automated lead and revenue engines for B2B sales and marketing teams.
+I audit and build automated lead and revenue engines for B2B sales and marketing teams.
 
-- Save 15+ hours/week per rep by automating prospecting, enrichment, routing, and follow‑up. 
-- Eliminate lost leads with bulletproof error handling, retries, and dead‑letter queues. 
+- Diagnose leaks in inbound, outbound, CRM, and RevOps workflows  
+- Save 15+ hours/week per rep by automating prospecting, enrichment, routing, and follow‑up  
+- Eliminate lost leads with bulletproof error handling, retries, and dead‑letter queues  
 - Stack: **n8n**, **Make**, **Gemini/OpenAI**, **AI Agents**, **REST APIs**, **webhooks**, and **defensive data engineering**.
 
 ---
