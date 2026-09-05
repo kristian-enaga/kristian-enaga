@@ -119,6 +119,17 @@ Open to **B2B contract** and **fractional GTM Engineer** engagements.
 
 ---
 
+
+## Remote engagement
+
+- Location: Zamboanga Sibugay, Philippines (PHT, UTC+8)
+- Overlap: Comfortable with 8 PM–12 AM PST (9 AM–1 PM PHT next day) for standups/handoffs
+- Contractor-ready: invoice via Wise / Payoneer / Deel
+- Engagement model: 2-week pilot → monthly retainer
+- Production standards: centralized error handling, retries, DLQ, audit logs, Loom demos for every workflow
+
+---
+
 ## Contact
 
 - GitHub: [@kristian-enaga](https://github.com/kristian-enaga)
