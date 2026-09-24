@@ -42,12 +42,14 @@ I audit and build automated lead and revenue engines for B2B sales and marketing
 
 #### 3. [AI Lead Scoring & Priority Router](https://github.com/kristian-enaga/AI-Lead-Scoring-Router)
 
-<img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/9fee8045-3258-4968-bd11-8208278c4c0d" />
+<img width="1920" height="1079" alt="AI Lead Scoring Architecture" src="https://github.com/kristian-enaga/kristian-enaga/blob/main/n8n-ai-lead-scoring-production-architecture.png" />
 
-- **What it does:** Real‑time triage of inbound leads by budget, company size, and urgency.  
-- **Architecture:** Google Gemini AI scoring + priority routing to reps/channels.  
-- **Outcome:** Saves 15+ hours/week of manual qualification; high‑value prospects routed instantly. 
-- 🎬 [Watch 3‑min Loom Demo](https://www.loom.com/share/38164c8a840f4076b3ac0ec62a26e3ce)
+- **What it does:** Real-time automated triage of inbound leads by budget, company size, and urgency using Google Gemini AI with OpenRouter fallback, instantly splitting VIP enterprise prospects from low-priority inquiries.
+- **Architecture:** Webhook intake & payload extraction → Supabase DLQ raw lead backup → Google Gemini AI scoring + OpenRouter fallback → Schema validation & parameter merge → Multi-tier IF router (Slack alerts for VIPs / Automated Gmail replies for standard leads) → Centralized Google Sheets CRM sync.
+- **Outcome:** Eliminates 70% of manual lead review time, saves 15+ hours/week of qualification work, guarantees zero lead loss via DLQ persistence, and routes high-value prospects instantly.
+- 🎬 [Watch 3-min Loom Demo](https://www.loom.com/share/38164c8a840f4076b3ac0ec62a26e3ce)
+
+
 
 #### 4. [Instant Speed‑to‑Lead Alert & CRM Ingestion](https://github.com/kristian-enaga/Speed-to-lead-ingestion-engine)
 
