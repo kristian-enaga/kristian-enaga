@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kristian-jay-e%C3%B1aga-85345741a/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kchanchan2357@gmail.com)
 
-## GTM Systems Diagnostic Engineer (n8n • Make • AI Agents)
+## GTM Systems & AI Automation Engineer (Clay • HubSpot • Salesforce • n8n • Make)
 
 I audit and build automated lead and revenue engines for B2B sales and marketing teams.
 
