@@ -41,7 +41,7 @@ I audit and build automated lead and revenue engines for B2B sales and marketing
 - [Watch 3-min Loom Demo](https://www.loom.com/share/5d9a49197b574216894cc00822f0069f)
 
   
-#### 2. [Enterprise Inbound Lead Sanitizer & Outreach Engine](https://github.com/kristian-enaga/Inbound-Lead-Sanitizer-Engine)
+#### 3. [Enterprise Inbound Lead Sanitizer & Outreach Engine](https://github.com/kristian-enaga/Inbound-Lead-Sanitizer-Engine)
 
 <img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/6364334f-f66b-45db-9b89-3bf2e34e49d0" />
 
@@ -50,7 +50,7 @@ I audit and build automated lead and revenue engines for B2B sales and marketing
 - **Outcome:** 100% invalid CRM entries blocked; response SLA from hours → sub‑5 seconds.
 - 🎬 [Watch 4‑min Loom Demo](https://www.loom.com/share/c38d37d65eed44129a712e530a8e2446)
 
-#### 3. [AI Lead Scoring & Priority Router](https://github.com/kristian-enaga/AI-Lead-Scoring-Router)
+#### 4. [AI Lead Scoring & Priority Router](https://github.com/kristian-enaga/AI-Lead-Scoring-Router)
 <img width="1920" height="1079" alt="AI Lead Scoring Architecture" src="https://github.com/kristian-enaga/AI-Lead-Scoring-Router/blob/main/n8n-ai-lead-scoring-production-architecture.png?raw=true" />
 
 - **What it does:** Real-time automated triage of inbound leads by budget, company size, and urgency using Google Gemini AI with OpenRouter fallback, instantly splitting VIP enterprise prospects from low-priority inquiries.
@@ -60,7 +60,7 @@ I audit and build automated lead and revenue engines for B2B sales and marketing
 
 
 
-#### 4. [Instant Speed‑to‑Lead Alert & CRM Ingestion](https://github.com/kristian-enaga/Speed-to-lead-ingestion-engine)
+#### 5. [Instant Speed‑to‑Lead Alert & CRM Ingestion](https://github.com/kristian-enaga/Speed-to-lead-ingestion-engine)
 
 <img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/93e85a03-7418-4415-a602-1dcdc57bd49a" />
 
@@ -73,7 +73,7 @@ I audit and build automated lead and revenue engines for B2B sales and marketing
 
 ### 📤 B2B Outbound Prospecting & Engagement
 
-#### 5. [Automated B2B Outbound Prospecting Engine](https://github.com/kristian-enaga/Automated-B2B-Outbound-System)
+#### 6. [Automated B2B Outbound Prospecting Engine](https://github.com/kristian-enaga/Automated-B2B-Outbound-System)
 
 <img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/f8bae866-2e23-453a-969b-00af5d0125f5" />
 
@@ -82,7 +82,7 @@ I audit and build automated lead and revenue engines for B2B sales and marketing
 - **Outcome:** Reclaims ~70% of rep prospecting time; protects domain deliverability with HITL gates. 
 - 🎬 [Watch 4‑min Loom Demo](https://www.loom.com/share/5d3416feda7148bbbd60704ab9b5976e)
 
-#### 6. [Autonomous Job Intelligence & High‑Intent Outreach Engine](https://github.com/kristian-enaga/autonomous-job-lead-engine)
+#### 7. [Autonomous Job Intelligence & High‑Intent Outreach Engine](https://github.com/kristian-enaga/autonomous-job-lead-engine)
 
 <img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/45d2710a-a5f8-4711-a56d-227eeda4fb19" />
 
@@ -95,7 +95,7 @@ I audit and build automated lead and revenue engines for B2B sales and marketing
 
 ### 🛒 E‑Commerce & Revenue Operations
 
-#### 7. [Autonomous Revenue Recovery Engine (E‑Commerce)](https://github.com/kristian-enaga/autonomous-revenue-recovery-engine)
+#### 8. [Autonomous Revenue Recovery Engine (E‑Commerce)](https://github.com/kristian-enaga/autonomous-revenue-recovery-engine)
 
 <img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/25dbdf59-5569-42aa-9370-9723ec378d1d" />
 
@@ -108,7 +108,7 @@ I audit and build automated lead and revenue engines for B2B sales and marketing
 
 ### 🛡️ Infrastructure & System Resilience
 
-#### 8. [n8n Centralized Error Handler & Fail‑Safe](https://github.com/kristian-enaga/n8n-Centralized-Error-Handler)
+#### 9. [n8n Centralized Error Handler & Fail‑Safe](https://github.com/kristian-enaga/n8n-Centralized-Error-Handler)
 
 <img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/0a6e86a9-b257-4635-868d-f1abcce5d33b" />
 
