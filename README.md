@@ -31,6 +31,16 @@ I audit and build automated lead and revenue engines for B2B sales and marketing
 
 ### 📥 B2B Inbound Lead Acceleration & Qualification
 
+#### 2. [Fault-Tolerant Lead Triage & Self-Healing CRM Pipeline](https://github.com/kristian-enaga/fault-tolerant-lead-triage-pipeline)
+
+<img width="1920" height="1079" alt="Fault-Tolerant Lead Triage Pipeline" src="https://raw.githubusercontent.com/kristian-enaga/fault-tolerant-lead-triage-pipeline/main/fault-tolerant-lead-triage-architecture.png" />
+
+- **What it does:** Zero-downtime inbound lead processing engine that cleanses raw webhooks, scores intent via dual-LLM (Gemini/Groq) routing, updates HubSpot, and alerts Slack instantly.
+- **Architecture:** Webhook intake → Payload sanitization & regex cleansing → Gemini AI / Groq fallback scoring → Idempotent HubSpot CRM upsert → Supabase DLQ failover backup → Real-time Slack priority alert.
+- **Outcome:** Eliminates dropped leads from API rate limits or 5xx crashes, guarantees 100% data retention via DLQ, and drives sub-60s speed-to-lead for high-priority prospects.
+- [Watch 3-min Loom Demo](https://www.loom.com/share/5d9a49197b574216894cc00822f0069f)
+
+  
 #### 2. [Enterprise Inbound Lead Sanitizer & Outreach Engine](https://github.com/kristian-enaga/Inbound-Lead-Sanitizer-Engine)
 
 <img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/6364334f-f66b-45db-9b89-3bf2e34e49d0" />
