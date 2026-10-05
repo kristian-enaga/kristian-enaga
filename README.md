@@ -2,14 +2,43 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kristian-jay-e%C3%B1aga-85345741a/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kchanchan2357@gmail.com)
 
-## GTM Systems & AI Automation Engineer (Clay • HubSpot • Salesforce • n8n • Make)
+## GTM Systems & AI Automation Engineer
+**Location:** Zamboanga Sibugay, Philippines (UTC+8) | **Email:** [kchanchan2357@gmail.com](mailto:kchanchan2357@gmail.com) | **GitHub:** [@kristian-enaga](https://github.com/kristian-enaga) | **LinkedIn:** [kristian-jay-eñaga](https://www.linkedin.com/in/kristian-jay-e%C3%B1aga-85345741a/)
 
-I audit and build automated lead and revenue engines for B2B sales and marketing teams.
+---
 
-- Diagnose leaks in inbound, outbound, CRM, and RevOps workflows  
-- Save 15+ hours/week per rep by automating prospecting, enrichment, routing, and follow‑up  
-- Eliminate lost leads with bulletproof error handling, retries, and dead‑letter queues  
-- Stack: **Clay**, **Hubspot** **n8n**, **Make**, **REST APIs/Webhooks**, **Postgres/Supabase DLQs**, and **Signal-to-Sequence Pipeline Architecture**.
+## Professional Summary
+
+Architect and Systems Integration Engineer specializing in Go-To-Market (GTM) execution, RevOps automation, and production-grade AI pipeline infrastructure. Expert in designing fault-tolerant data pipelines that seamlessly integrate CRMs, enrichment engines, and multi-channel outreach platforms. 
+
+- **Data Integrity & Systems Resilience:** Eliminate dropped leads and silent execution crashes by enforcing Zod schema gates, Dead-Letter Queues (DLQs), automated exponential retries, and rate-limit buffers.
+- **Operational Efficiency:** Reclaim 15+ hours per rep weekly by automating multi-step prospecting, inbound lead scoring, data normalization, and accounts payable workflows.
+- **AI & Cost Optimization:** Implement JS/RegEx payload cleansing and dual-LLM fallback architectures (Gemini / Groq / OpenAI / OpenRouter) to reduce LLM API spend by up to 70%.
+
+---
+
+## Technical Skills Matrix
+
+| Category | Skills & Technologies |
+| :--- | :--- |
+| **Automation Platforms** | n8n (Self-Hosted/Cloud), Make.com, Zapier |
+| **GTM & CRM Stack** | Clay, HubSpot CRM, Salesforce, GHL, QuickBooks Online, Xero, Slack, WhatsApp Business API |
+| **AI Models & Orchestration** | Google Gemini API, OpenAI API, Groq, OpenRouter, Prompt Engineering, Structured Outputs (Zod) |
+| **Data & Infrastructure** | REST APIs, Webhooks, PostgreSQL, Supabase (DLQ), JavaScript (ES6+), JSON, RegEx |
+| **Scraping & Ingestion** | Apify, SerpAPI, Webhook Listeners, E.164 Phone Normalization |
+| **Reliability & Monitoring** | Dead-Letter Queues (DLQs), Idempotency Keys, Error Handling, Human-In-The-Loop (HITL) Gates |
+
+---
+
+## Professional Experience
+
+### GTM Systems & AI Automation Engineer (Contract & Independent Projects)
+*June 2026 – Present*
+
+- **Designed & Deployed Production GTM Engines:** Built 9 end-to-end self-healing automation workflows for lead acquisition, CRM enrichment, speed-to-lead routing, revenue recovery, and accounts payable reconciliation.
+- **Enforced Fault-Tolerant Data Pipelines:** Implemented Supabase/Postgres Dead-Letter Queues (DLQs) and failover logic to capture unhandled exceptions, guaranteeing 100% lead and transaction logging during 5xx server downtime or API rate-limit errors.
+- **Optimized Speed-to-Lead Operations:** Decreased inbound lead contact time from hours to under 5 seconds by normalizing schema payloads, qualifying lead intent via AI scoring, and auto-dispatching high-priority alerts to sales teams via Slack.
+- **Built Cost-Effective Token Optimization Strategies:** Engineered client-side JS RegEx payload cleansers prior to LLM processing, reducing API token usage and operational overhead by ~70%.
 
 ---
 
@@ -109,7 +138,7 @@ I audit and build automated lead and revenue engines for B2B sales and marketing
 
 ---
 
-### 🛡️️ Infrastructure & System Resilience
+### 🛡 Infrastructure & System Resilience
 
 #### 9. [n8n Centralized Error Handler & Fail‑Safe](https://github.com/kristian-enaga/n8n-Centralized-Error-Handler)
 
@@ -122,6 +151,14 @@ I audit and build automated lead and revenue engines for B2B sales and marketing
 
 ---
 
+## Education & Certifications
+
+- **Bachelor of Science in Criminology** – *Graduated March 2026*
+- **Make Advanced Certification** – *Make Academy (2026)*
+- **AI Automation Explorer** – *Credentials in n8n & Generative AI Systems Integration (2026)*
+
+---
+
 ## How I work (engagement model)
 
 - **Discovery:** map GTM process, tools, and data flows. 
@@ -130,7 +167,7 @@ I audit and build automated lead and revenue engines for B2B sales and marketing
 - **Production hardening:** add retries, monitoring, docs, and handover.
 - **Iterate:** expand to more use cases (onboarding, CS, attribution, etc.).
 
-Open to **B2B contract** and **fractional GTM Engineer** engagements.
+Open to **Full-time Remote Roles**, **B2B contract**, and **fractional GTM Engineer** engagements.
 
 ---
 
@@ -139,7 +176,7 @@ Open to **B2B contract** and **fractional GTM Engineer** engagements.
 - Location: Zamboanga Sibugay, Philippines (PHT, UTC+8)
 - Overlap: Comfortable with 8 PM–12 AM PST (9 AM–1 PM PHT next day) for standups/handoffs
 - Contractor-ready: invoice via Wise / Payoneer / Deel
-- Engagement model: 2-week pilot → monthly retainer
+- Engagement model: 2-week pilot → monthly retainer / Full-time employment
 - Production standards: centralized error handling, retries, DLQ, audit logs, Loom demos for every workflow
 
 ---
