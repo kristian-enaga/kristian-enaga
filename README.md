@@ -40,6 +40,15 @@ Architect and Systems Integration Engineer specializing in Go-To-Market (GTM) ex
 - **Optimized Speed-to-Lead Operations:** Decreased inbound lead contact time from hours to under 5 seconds by normalizing schema payloads, qualifying lead intent via AI scoring, and auto-dispatching high-priority alerts to sales teams via Slack.
 - **Built Cost-Effective Token Optimization Strategies:** Engineered client-side JS RegEx payload cleansers prior to LLM processing, reducing API token usage and operational overhead by ~70%.
 
+
+## ⚡ Quick Recruiter Audit
+- **Role Target:** GTM Systems & AI Automation Engineer (RevOps / Pipeline Infrastructure)
+- **Core Stack:** Clay, HubSpot CRM, Salesforce, n8n, Make, REST APIs/Webhooks, PostgreSQL/Supabase, Gemini/OpenAI APIs
+- **Architecture Standards:** Zod Schema Gates, Dead-Letter Queues (DLQs), Dual-LLM Fallbacks, Rate-Limit Buffers
+- **Location & Shift:** Zamboanga Sibugay, Philippines (UTC+8) | Full US Overlap (8 PM–12 AM PST / Flexible)
+- **Availability:** Open for Full-Time Remote Roles, Contract Engagements, & Fractional GTM Systems Work
+
+  
 ---
 
 ## Core Production Systems
