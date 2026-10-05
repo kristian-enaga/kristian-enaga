@@ -22,7 +22,7 @@ Architect and Systems Integration Engineer specializing in Go-To-Market (GTM) ex
 | Category | Skills & Technologies |
 | :--- | :--- |
 | **Automation Platforms** | n8n (Self-Hosted/Cloud), Make.com, Zapier |
-| **GTM & CRM Stack** | Clay, HubSpot CRM, Salesforce, GHL, QuickBooks Online, Xero, Slack, WhatsApp Business API |
+| **GTM & CRM Stack** | Clay, HubSpot CRM, QuickBooks Online, Slack, WhatsApp Business API |
 | **AI Models & Orchestration** | Google Gemini API, OpenAI API, Groq, OpenRouter, Prompt Engineering, Structured Outputs (Zod) |
 | **Data & Infrastructure** | REST APIs, Webhooks, PostgreSQL, Supabase (DLQ), JavaScript (ES6+), JSON, RegEx |
 | **Scraping & Ingestion** | Apify, SerpAPI, Webhook Listeners, E.164 Phone Normalization |
@@ -43,7 +43,7 @@ Architect and Systems Integration Engineer specializing in Go-To-Market (GTM) ex
 
 ## ⚡ Quick Recruiter Audit
 - **Role Target:** GTM Systems & AI Automation Engineer (RevOps / Pipeline Infrastructure)
-- **Core Stack:** Clay, HubSpot CRM, Salesforce, n8n, Make, REST APIs/Webhooks, PostgreSQL/Supabase, Gemini/OpenAI APIs
+- **Core Stack:** Clay, HubSpot CRM, n8n, Make, REST APIs/Webhooks, PostgreSQL/Supabase, Gemini/OpenAI APIs
 - **Architecture Standards:** Zod Schema Gates, Dead-Letter Queues (DLQs), Dual-LLM Fallbacks, Rate-Limit Buffers
 - **Location & Shift:** Zamboanga Sibugay, Philippines (UTC+8) | Full US Overlap (8 PM–12 AM PST / Flexible)
 - **Availability:** Open for Full-Time Remote Roles, Contract Engagements, & Fractional GTM Systems Work
