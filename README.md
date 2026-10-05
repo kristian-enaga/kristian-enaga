@@ -9,7 +9,7 @@ I audit and build automated lead and revenue engines for B2B sales and marketing
 - Diagnose leaks in inbound, outbound, CRM, and RevOps workflows  
 - Save 15+ hours/week per rep by automating prospecting, enrichment, routing, and follow‑up  
 - Eliminate lost leads with bulletproof error handling, retries, and dead‑letter queues  
-- Stack: **n8n**, **Make**, **Gemini/OpenAI**, **AI Agents**, **REST APIs**, **webhooks**, and **defensive data engineering**.
+- Stack: **Clay**, **Hubspot** **n8n**, **Make**, **REST APIs/Webhooks**, **Postgres/Supabase DLQs**, and **Signal-to-Sequence Pipeline Architecture**.
 
 ---
 
