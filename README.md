@@ -9,28 +9,43 @@ I audit and build automated lead and revenue engines for B2B sales and marketing
 - Diagnose leaks in inbound, outbound, CRM, and RevOps workflows  
 - Save 15+ hours/week per rep by automating prospecting, enrichment, routing, and follow‑up  
 - Eliminate lost leads with bulletproof error handling, retries, and dead‑letter queues  
-- Stack: **Clay**, **Hubspot**, **n8n**, **Make**, **REST APIs/Webhooks**, **Postgres/Supabase DLQs**, and **Signal-to-Sequence Pipeline Architecture**.
+- Stack: **Clay**, **Hubspot** **n8n**, **Make**, **REST APIs/Webhooks**, **Postgres/Supabase DLQs**, and **Signal-to-Sequence Pipeline Architecture**.
 
 ---
 
 ## Core Production Systems
 
-### 🧾 Accounts Payable Automation & Financial Control
+### 📤 B2B Outbound Prospecting & Engagement
 
-#### 1. [Enterprise Autonomous AP Invoice Reconciliation & Fraud Protection Engine](https://github.com/kristian-enaga/enterprise-ap-invoice-reconciliation-engine)
+#### 1. [Automated B2B Outbound Prospecting Engine](https://github.com/kristian-enaga/Automated-B2B-Outbound-System)
 
-<img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/e8d972b1-2f29-4eff-8034-5e4d84ee3777" />
+<img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/f8bae866-2e23-453a-969b-00af5d0125f5" />
 
-- **What it does:** Ingests vendor invoices across Gmail and webhooks, runs autonomous line-item math checks, traps billing discrepancies, blocks duplicate payouts, and posts clean invoices to QuickBooks Online with Slack human-in-the-loop exception control.
-- **Architecture:** Gmail/Webhook trigger → Multi-format document parser → Dual AI model fallback (Gemini/OpenAI) → Automated math verification gate → Supabase zero-data-loss exception vault → Slack interactive approval card → QuickBooks Online ERP sync.
-- **Outcome:** Reclaims 10+ hours/week of manual bookkeeping, prevents duplicate/fraudulent disbursements, and ensures 100% audit readiness with immutable failure tracking.
-- 🎬 [Watch 4-min Loom Demo](https://www.loom.com/share/595e7e48d6ab4a1f89263d23496f9d67)
+- **What it does:** End‑to‑end outbound: scraping → AI copy → HITL approval → send → logging.  
+- **Architecture:** Apify scraping, Gemini email copy, Slack Human‑in‑the‑Loop (HITL) approvals, fault‑tolerant logging.  
+- **Outcome:** Reclaims ~70% of rep prospecting time; protects domain deliverability with HITL gates. 
+- 🎬 [Watch 4‑min Loom Demo](https://www.loom.com/share/5d3416feda7148bbbd60704ab9b5976e)
+
+#### 2. [Autonomous Job Intelligence & High‑Intent Outreach Engine](https://github.com/kristian-enaga/autonomous-job-lead-engine)
+
+<img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/45d2710a-a5f8-4711-a56d-227eeda4fb19" />
+
+- **What it does:** Finds high‑intent job leads, validates pages, extracts tokens, drafts outreach, and sends via HITL.  
+- **Architecture:** SerpAPI ingestion, pre‑flight 404/duplicate checks, JS RegEx HTML token optimization (~70% cost reduction), Gemini + Groq failover, Zod schema validation, DLQ, Telegram HITL 1‑click approvals.  
+- **Outcome:** Automates 10+ hours/week of manual sourcing/audits; zero CRM data corruption via strict schema gates.  
+- 🎬 [Watch 4‑min Loom Demo](https://www.loom.com/share/7792580657284a58a7e1dabf99365087)
+
+---
+
+### 🤝 Nearbound & Partner Signal Operations
+
+*Section ready for upcoming Nearbound & Ecosystem Integration workflows.*
 
 ---
 
 ### 📥 B2B Inbound Lead Acceleration & Qualification
 
-#### 2. [Fault-Tolerant Lead Triage & Self-Healing CRM Pipeline](https://github.com/kristian-enaga/fault-tolerant-lead-triage-pipeline)
+#### 3. [Fault-Tolerant Lead Triage & Self-Healing CRM Pipeline](https://github.com/kristian-enaga/fault-tolerant-lead-triage-pipeline)
 
 <img width="1920" height="1079" alt="Fault-Tolerant Lead Triage Pipeline" src="https://raw.githubusercontent.com/kristian-enaga/fault-tolerant-lead-triage-pipeline/main/fault-tolerant-lead-triage-architecture.png" />
 
@@ -39,7 +54,7 @@ I audit and build automated lead and revenue engines for B2B sales and marketing
 - **Outcome:** Eliminates dropped leads from API rate limits or 5xx crashes, guarantees 100% data retention via DLQ, and drives sub-60s speed-to-lead for high-priority prospects.
 - 🎬 [Watch 3-min Loom Demo](https://www.loom.com/share/5d9a49197b574216894cc00822f0069f)
 
-#### 3. [Enterprise Inbound Lead Sanitizer & Outreach Engine](https://github.com/kristian-enaga/Inbound-Lead-Sanitizer-Engine)
+#### 4. [Enterprise Inbound Lead Sanitizer & Outreach Engine](https://github.com/kristian-enaga/Inbound-Lead-Sanitizer-Engine)
 
 <img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/6364334f-f66b-45db-9b89-3bf2e34e49d0" />
 
@@ -48,7 +63,7 @@ I audit and build automated lead and revenue engines for B2B sales and marketing
 - **Outcome:** 100% invalid CRM entries blocked; response SLA from hours → sub‑5 seconds.
 - 🎬 [Watch 4‑min Loom Demo](https://www.loom.com/share/c38d37d65eed44129a712e530a8e2446)
 
-#### 4. [AI Lead Scoring & Priority Router](https://github.com/kristian-enaga/AI-Lead-Scoring-Router)
+#### 5. [AI Lead Scoring & Priority Router](https://github.com/kristian-enaga/AI-Lead-Scoring-Router)
 
 <img width="1920" height="1079" alt="AI Lead Scoring Architecture" src="https://github.com/kristian-enaga/AI-Lead-Scoring-Router/blob/main/n8n-ai-lead-scoring-production-architecture.png?raw=true" />
 
@@ -57,7 +72,7 @@ I audit and build automated lead and revenue engines for B2B sales and marketing
 - **Outcome:** Eliminates 70% of manual lead review time, saves 15+ hours/week of qualification work, guarantees zero lead loss via DLQ persistence, and routes high-value prospects instantly.
 - 🎬 [Watch 3-min Loom Demo](https://www.loom.com/share/38164c8a840f4076b3ac0ec62a26e3ce)
 
-#### 5. [Instant Speed‑to‑Lead Alert & CRM Ingestion](https://github.com/kristian-enaga/Speed-to-lead-ingestion-engine)
+#### 6. [Instant Speed‑to‑Lead Alert & CRM Ingestion](https://github.com/kristian-enaga/Speed-to-lead-ingestion-engine)
 
 <img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/93e85a03-7418-4415-a602-1dcdc57bd49a" />
 
@@ -68,25 +83,16 @@ I audit and build automated lead and revenue engines for B2B sales and marketing
 
 ---
 
-### 📤 B2B Outbound Prospecting & Engagement
+### 🧾 Accounts Payable Automation & Financial Control
 
-#### 6. [Automated B2B Outbound Prospecting Engine](https://github.com/kristian-enaga/Automated-B2B-Outbound-System)
+#### 7. [Enterprise Autonomous AP Invoice Reconciliation & Fraud Protection Engine](https://github.com/kristian-enaga/enterprise-ap-invoice-reconciliation-engine)
 
-<img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/f8bae866-2e23-453a-969b-00af5d0125f5" />
+<img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/e8d972b1-2f29-4eff-8034-5e4d84ee3777" />
 
-- **What it does:** End‑to‑end outbound: scraping → AI copy → HITL approval → send → logging.  
-- **Architecture:** Apify scraping, Gemini email copy, Slack Human‑in‑the‑Loop (HITL) approvals, fault‑tolerant logging.  
-- **Outcome:** Reclaims ~70% of rep prospecting time; protects domain deliverability with HITL gates. 
-- 🎬 [Watch 4‑min Loom Demo](https://www.loom.com/share/5d3416feda7148bbbd60704ab9b5976e)
-
-#### 7. [Autonomous Job Intelligence & High‑Intent Outreach Engine](https://github.com/kristian-enaga/autonomous-job-lead-engine)
-
-<img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/45d2710a-a5f8-4711-a56d-227eeda4fb19" />
-
-- **What it does:** Finds high‑intent job leads, validates pages, extracts tokens, drafts outreach, and sends via HITL.  
-- **Architecture:** SerpAPI ingestion, pre‑flight 404/duplicate checks, JS RegEx HTML token optimization (~70% cost reduction), Gemini + Groq failover, Zod schema validation, DLQ, Telegram HITL 1‑click approvals.  
-- **Outcome:** Automates 10+ hours/week of manual sourcing/audits; zero CRM data corruption via strict schema gates.  
-- 🎬 [Watch 4‑min Loom Demo](https://www.loom.com/share/7792580657284a58a7e1dabf99365087)
+- **What it does:** Ingests vendor invoices across Gmail and webhooks, runs autonomous line-item math checks, traps billing discrepancies, blocks duplicate payouts, and posts clean invoices to QuickBooks Online with Slack human-in-the-loop exception control.
+- **Architecture:** Gmail/Webhook trigger → Multi-format document parser → Dual AI model fallback (Gemini/OpenAI) → Automated math verification gate → Supabase zero-data-loss exception vault → Slack interactive approval card → QuickBooks Online ERP sync.
+- **Outcome:** Reclaims 10+ hours/week of manual bookkeeping, prevents duplicate/fraudulent disbursements, and ensures 100% audit readiness with immutable failure tracking.
+- 🎬 [Watch 4-min Loom Demo](https://www.loom.com/share/595e7e48d6ab4a1f89263d23496f9d67)
 
 ---
 
@@ -103,7 +109,7 @@ I audit and build automated lead and revenue engines for B2B sales and marketing
 
 ---
 
-### 🛡️ Infrastructure & System Resilience
+### 🛡️️ Infrastructure & System Resilience
 
 #### 9. [n8n Centralized Error Handler & Fail‑Safe](https://github.com/kristian-enaga/n8n-Centralized-Error-Handler)
 
