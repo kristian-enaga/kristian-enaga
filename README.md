@@ -6,6 +6,8 @@
 **Location:** Zamboanga Sibugay, Philippines (UTC+8) | **Email:** [kchanchan2357@gmail.com](mailto:kchanchan2357@gmail.com) | **GitHub:** [@kristian-enaga](https://github.com/kristian-enaga) | **LinkedIn:** [kristian-jay-eñaga](https://www.linkedin.com/in/kristian-jay-e%C3%B1aga-85345741a/)
 
 
+
+
 ---
 
 ## 📑 Table of Contents
@@ -21,13 +23,13 @@
     - [3. Fault-Tolerant Lead Triage & Self-Healing CRM Pipeline](#3-fault-tolerant-lead-triage--self-healing-crm-pipeline)
     - [4. Enterprise Inbound Lead Sanitizer & Outreach Engine](#4-enterprise-inbound-lead-sanitizer--outreach-engine)
     - [5. AI Lead Scoring & Priority Router](#5-ai-lead-scoring--priority-router)
-    - [6. Instant Speed-to-Lead Alert & CRM Ingestion](#6-instant-speed-to-lead-alert--crm-ingestion)
+    - [6. Instant Speed‑to‑Lead Alert & CRM Ingestion](#6-instant-speedto-lead-alert--crm-ingestion)
   - [🧾 Accounts Payable Automation & Financial Control](#accounts-payable-automation--financial-control)
-    - [7. Automated Accounts Payable Invoice Parsing & ERP Sync](#7-automated-accounts-payable-invoice-parsing--erp-sync)
-  - [🛒 E-Commerce & Revenue Operations](#e-commerce--revenue-operations)
-    - [8. Autonomous Revenue Recovery Engine (E-Commerce)](#8-autonomous-revenue-recovery-engine-e-commerce)
+    - [7. Enterprise Autonomous AP Invoice Reconciliation & Fraud Protection Engine](#7-enterprise-autonomous-ap-invoice-reconciliation--fraud-protection-engine)
+  - [🛒 E‑Commerce & Revenue Operations](#ecommerce--revenue-operations)
+    - [8. Autonomous Revenue Recovery Engine (E‑Commerce)](#8-autonomous-revenue-recovery-engine-ecommerce)
   - [🛡 Infrastructure & System Resilience](#infrastructure--system-resilience)
-    - [9. n8n Centralized Error Handler & Fail-Safe](#9-n8n-centralized-error-handler--fail-safe)
+    - [9. n8n Centralized Error Handler & Fail‑Safe](#9-n8n-centralized-error-handler--fail-safe)
 
 ---
 ## Professional Summary
