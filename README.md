@@ -1,3 +1,5 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Kristian%20Eñaga&fontSize=50&animation=fadeIn&fontColor=ffffff)
+
 # Hi, I'm Kristian Jay Eñaga 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kristian-jay-e%C3%B1aga-85345741a/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kchanchan2357@gmail.com)
@@ -25,9 +27,6 @@
 
 ---
 
----
-
-    ---
 ## Professional Summary
 
 Architect and Systems Integration Engineer specializing in Go-To-Market (GTM) execution, RevOps automation, and production-grade AI pipeline infrastructure. Expert in designing fault-tolerant data pipelines that seamlessly integrate CRMs, enrichment engines, and multi-channel outreach platforms. 
