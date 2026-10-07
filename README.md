@@ -16,7 +16,7 @@
 - [Core Production Systems](#-core-production-systems)
   - [📤 B2B Outbound Prospecting & Engagement](#-b2b-outbound-prospecting--engagement)
     - [1. Automated B2B Outbound Prospecting Engine](#1-automated-b2b-outbound-prospecting-engine)
-    - [2. Autonomous Job Intelligence & High-Intent Outreach Engine](#2-autonomous-job-intelligence--high-intent-outreach-engine)
+    - [2. Autonomous Job Intelligence & High-Intent Outreach Engine](#2-autonomous-job-intelligence-high-intent-outreach-engine)
   - [📥 B2B Inbound Lead Acceleration & Qualification](#-b2b-inbound-lead-acceleration--qualification)
     - [3. Fault-Tolerant Lead Triage & Self-Healing CRM Pipeline](#3-fault-tolerant-lead-triage--self-healing-crm-pipeline)
     - [4. Enterprise Inbound Lead Sanitizer & Outreach Engine](#4-enterprise-inbound-lead-sanitizer--outreach-engine)
