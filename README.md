@@ -88,6 +88,7 @@ Architect and Systems Integration Engineer specializing in Go-To-Market (GTM) ex
 - **Outcome:** Reclaims ~70% of rep prospecting time; protects domain deliverability with HITL gates. 
 - 🎬 [Watch 4‑min Loom Demo](https://www.loom.com/share/5d3416feda7148bbbd60704ab9b5976e)
 [⬆ Back to Top](#table-of-contents)
+
 #### 2. [Autonomous Job Intelligence & High‑Intent Outreach Engine](https://github.com/kristian-enaga/autonomous-job-lead-engine)
 
 <img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/45d2710a-a5f8-4711-a56d-227eeda4fb19" />
@@ -95,7 +96,7 @@ Architect and Systems Integration Engineer specializing in Go-To-Market (GTM) ex
 - **What it does:** Finds high‑intent job leads, validates pages, extracts tokens, drafts outreach, and sends via HITL.  
 - **Architecture:** SerpAPI ingestion, pre‑flight 404/duplicate checks, JS RegEx HTML token optimization (~70% cost reduction), Gemini + Groq failover, Zod schema validation, DLQ, Telegram HITL 1‑click approvals.  
 - **Outcome:** Automates 10+ hours/week of manual sourcing/audits; zero CRM data corruption via strict schema gates.  
-- 🎬 [Watch 4‑min Loom Demo](https://www.loom.com/share/7792580657284a58a7e1dabf99365087)
+- 🎬 [Watch 4‑min Loom Demo](https://www.loom.com/share/7792580657284a58a7e1dabf99365087) [⬆ Back to Top](#table-of-contents)
 
 ---
 
@@ -114,7 +115,7 @@ Architect and Systems Integration Engineer specializing in Go-To-Market (GTM) ex
 - **What it does:** Zero-downtime inbound lead processing engine that cleanses raw webhooks, scores intent via dual-LLM (Gemini/Groq) routing, updates HubSpot, and alerts Slack instantly.
 - **Architecture:** Webhook intake → Payload sanitization & regex cleansing → Gemini AI / Groq fallback scoring → Idempotent HubSpot CRM upsert → Supabase DLQ failover backup → Real-time Slack priority alert.
 - **Outcome:** Eliminates dropped leads from API rate limits or 5xx crashes, guarantees 100% data retention via DLQ, and drives sub-60s speed-to-lead for high-priority prospects.
-- 🎬 [Watch 3-min Loom Demo](https://www.loom.com/share/5d9a49197b574216894cc00822f0069f)
+- 🎬 [Watch 3-min Loom Demo](https://www.loom.com/share/5d9a49197b574216894cc00822f0069f) [⬆ Back to Top](#table-of-contents)
 
 #### 4. [Enterprise Inbound Lead Sanitizer & Outreach Engine](https://github.com/kristian-enaga/Inbound-Lead-Sanitizer-Engine)
 
@@ -125,6 +126,8 @@ Architect and Systems Integration Engineer specializing in Go-To-Market (GTM) ex
 - **Outcome:** 100% invalid CRM entries blocked; response SLA from hours → sub‑5 seconds.
 - 🎬 [Watch 4‑min Loom Demo](https://www.loom.com/share/c38d37d65eed44129a712e530a8e2446)
 
+  [⬆ Back to Top](#table-of-contents)
+
 #### 5. [AI Lead Scoring & Priority Router](https://github.com/kristian-enaga/AI-Lead-Scoring-Router)
 
 <img width="1920" height="1079" alt="AI Lead Scoring Architecture" src="https://github.com/kristian-enaga/AI-Lead-Scoring-Router/blob/main/n8n-ai-lead-scoring-production-architecture.png?raw=true" />
@@ -134,6 +137,8 @@ Architect and Systems Integration Engineer specializing in Go-To-Market (GTM) ex
 - **Outcome:** Eliminates 70% of manual lead review time, saves 15+ hours/week of qualification work, guarantees zero lead loss via DLQ persistence, and routes high-value prospects instantly.
 - 🎬 [Watch 3-min Loom Demo](https://www.loom.com/share/38164c8a840f4076b3ac0ec62a26e3ce)
 
+[⬆ Back to Top](#table-of-contents)
+
 #### 6. [Instant Speed‑to‑Lead Alert & CRM Ingestion](https://github.com/kristian-enaga/Speed-to-lead-ingestion-engine)
 
 <img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/93e85a03-7418-4415-a602-1dcdc57bd49a" />
@@ -142,6 +147,8 @@ Architect and Systems Integration Engineer specializing in Go-To-Market (GTM) ex
 - **Architecture:** Webhook ingestion → schema normalization → Sheets sync → Slack notifications.  
 - **Outcome:** Lead contact time −95% (5‑minute Speed‑to‑Lead); connection rates up to +391%. 
 - 🎬 [Watch 4‑min Loom Demo](https://www.loom.com/share/707c78cf35df44a4adf3ee1a04d75b57)
+
+[⬆ Back to Top](#table-of-contents)
 
 ---
 
@@ -156,6 +163,8 @@ Architect and Systems Integration Engineer specializing in Go-To-Market (GTM) ex
 - **Outcome:** Reclaims 10+ hours/week of manual bookkeeping, prevents duplicate/fraudulent disbursements, and ensures 100% audit readiness with immutable failure tracking.
 - 🎬 [Watch 4-min Loom Demo](https://www.loom.com/share/595e7e48d6ab4a1f89263d23496f9d67)
 
+[⬆ Back to Top](#table-of-contents)
+
 ---
 
 ### 🛒 E‑Commerce & Revenue Operations
@@ -169,6 +178,8 @@ Architect and Systems Integration Engineer specializing in Go-To-Market (GTM) ex
 - **Outcome:** No redundant outreach to converted buyers; protects sender reputation; recovers lost revenue automatically. 
 - 🎬 [Watch 3‑min Loom Demo](https://www.loom.com/share/311bfc94eee1429080f6fe5ed3cf62c0)
 
+[⬆ Back to Top](#table-of-contents)
+
 ---
 
 ### 🛡 Infrastructure & System Resilience
@@ -181,6 +192,8 @@ Architect and Systems Integration Engineer specializing in Go-To-Market (GTM) ex
 - **Architecture:** Centralized error handler, Google Sheets audit logs, Gmail/Slack alerts, execution debug links.  
 - **Outcome:** Prevents silent downtime; cuts triage time from hours → under 2 minutes per incident. 
 - 🎬 [Watch 3‑min Loom Demo](https://www.loom.com/share/ea1602f3bd8a4086983c96590e49136f)
+
+[⬆ Back to Top](#table-of-contents)
 
 ---
 
