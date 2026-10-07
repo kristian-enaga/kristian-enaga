@@ -13,14 +13,16 @@
 | Overview & Credentials | Production Core Pipelines |
 | :--- | :--- |
 | 📄 **[Professional Summary](#professional-summary)** | 📤 **[1. Outbound Prospecting Engine](#1-automated-b2b-outbound-prospecting-engine)** |
-| 🛠️ **[Technical Skills Matrix](#technical-skills-matrix)** | 🧠 **[2. Autonomous Job Intelligence Engine](#2-autonomous-job-intelligence--high-intent-outreach-engine)** |
+| 🛠️ **[Technical Skills Matrix](#technical-skills-matrix)** | 🧠 **[2. Autonomous Job Intelligence Engine](#2-autonomous-job-intelligence--highintent-outreach-engine)** |
 | 💼 **[Professional Experience](#professional-experience)** | 🛡️ **[3. Fault-Tolerant CRM Lead Triage](#3-fault-tolerant-lead-triage--self-healing-crm-pipeline)** |
 | ⚡ **[Quick Recruiter Audit](#-quick-recruiter-audit)** | 🧹 **[4. Enterprise Lead Sanitizer](#4-enterprise-inbound-lead-sanitizer--outreach-engine)** |
 | 📊 **[Core Production Systems](#core-production-systems)** | 🎯 **[5. AI Lead Scoring & Priority Router](#5-ai-lead-scoring--priority-router)** |
-| | ⚡ **[6. Instant Speed-to-Lead Alert System](#6-instant-speed-to-lead-alert--crm-ingestion)** |
+| | ⚡ **[6. Instant Speed-to-Lead Alert System](#6-instant-speedtolead-alert--crm-ingestion)** |
 | | 🧾 **[7. Accounts Payable Invoice Engine](#7-enterprise-autonomous-ap-invoice-reconciliation--fraud-protection-engine)** |
-| | 🛒 **[8. E-Commerce Revenue Recovery Engine](#8-autonomous-revenue-recovery-engine-e-commerce)** |
-| | 🛡️ **[9. Centralized Error Handler & Fail-Safe](#9-n8n-centralized-error-handler--fail-safe)** |
+| | 🛒 **[8. E-Commerce Revenue Recovery Engine](#8-autonomous-revenue-recovery-engine-ecommerce)** |
+| | 🛡️ **[9. Centralized Error Handler & Fail-Safe](#9-n8n-centralized-error-handler--failsafe)** |
+
+---
 
 ---
 
