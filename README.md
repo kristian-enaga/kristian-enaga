@@ -87,6 +87,9 @@ Architect and Systems Integration Engineer specializing in Go-To-Market (GTM) ex
 - **Architecture:** Apify scraping, Gemini email copy, Slack Human‑in‑the‑Loop (HITL) approvals, fault‑tolerant logging.  
 - **Outcome:** Reclaims ~70% of rep prospecting time; protects domain deliverability with HITL gates. 
 - 🎬 [Watch 4‑min Loom Demo](https://www.loom.com/share/5d3416feda7148bbbd60704ab9b5976e)
+
+
+
 [⬆ Back to Top](#table-of-contents)
 
 #### 2. [Autonomous Job Intelligence & High‑Intent Outreach Engine](https://github.com/kristian-enaga/autonomous-job-lead-engine)
@@ -96,7 +99,11 @@ Architect and Systems Integration Engineer specializing in Go-To-Market (GTM) ex
 - **What it does:** Finds high‑intent job leads, validates pages, extracts tokens, drafts outreach, and sends via HITL.  
 - **Architecture:** SerpAPI ingestion, pre‑flight 404/duplicate checks, JS RegEx HTML token optimization (~70% cost reduction), Gemini + Groq failover, Zod schema validation, DLQ, Telegram HITL 1‑click approvals.  
 - **Outcome:** Automates 10+ hours/week of manual sourcing/audits; zero CRM data corruption via strict schema gates.  
-- 🎬 [Watch 4‑min Loom Demo](https://www.loom.com/share/7792580657284a58a7e1dabf99365087) [⬆ Back to Top](#table-of-contents)
+- 🎬 [Watch 4‑min Loom Demo](https://www.loom.com/share/7792580657284a58a7e1dabf99365087)
+
+
+
+[⬆ Back to Top](#table-of-contents)
 
 ---
 
