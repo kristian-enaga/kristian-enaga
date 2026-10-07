@@ -5,30 +5,24 @@
 ## GTM Systems & AI Automation Engineer
 **Location:** Zamboanga Sibugay, Philippines (UTC+8) | **Email:** [kchanchan2357@gmail.com](mailto:kchanchan2357@gmail.com) | **GitHub:** [@kristian-enaga](https://github.com/kristian-enaga) | **LinkedIn:** [kristian-jay-eñaga](https://www.linkedin.com/in/kristian-jay-e%C3%B1aga-85345741a/)
 
-
 ---
 <a id="table-of-contents"></a>
 
-## 📑 Table of Contents
-- [Professional Summary](#professional-summary)
-- [Technical Skills Matrix](#technical-skills-matrix)
-- [Professional Experience](#professional-experience)
-- [Quick Recruiter Audit](#quick-recruiter-audit)
-- [Core Production Systems](#core-production-systems)
-  - [B2B Outbound Prospecting & Engagement](#b2b-outbound-prospecting--engagement)
-    - [1. Automated B2B Outbound Prospecting Engine](#1-automated-b2b-outbound-prospecting-engine)
-    - [2. Autonomous Job Intelligence & High-Intent Outreach Engine](#2-autonomous-job-intelligence--high-intent-outreach-engine)
-  - [B2B Inbound Lead Acceleration & Qualification](#b2b-inbound-lead-acceleration--qualification)
-    - [3. Fault-Tolerant Lead Triage & Self-Healing CRM Pipeline](#3-fault-tolerant-lead-triage--self-healing-crm-pipeline)
-    - [4. Enterprise Inbound Lead Sanitizer & Outreach Engine](#4-enterprise-inbound-lead-sanitizer--outreach-engine)
-    - [5. AI Lead Scoring & Priority Router](#5-ai-lead-scoring--priority-router)
-    - [6. Instant Speed-to-Lead Alert & CRM Ingestion](#6-instant-speed-to-lead-alert--crm-ingestion)
-  - [Accounts Payable Automation & Financial Control](#accounts-payable-automation--financial-control)
-    - [7. Enterprise Autonomous AP Invoice Reconciliation](#7-enterprise-autonomous-ap-invoice-reconciliation--fraud-protection-engine)
-  - [E-Commerce & Revenue Operations](#e-commerce--revenue-operations)
-    - [8. Autonomous Revenue Recovery Engine](#8-autonomous-revenue-recovery-engine-e-commerce)
-  - [Infrastructure & System Resilience](#infrastructure--system-resilience)
-    - [9. n8n Centralized Error Handler & Fail-Safe](#9-n8n-centralized-error-handler--fail-safe)
+## 📑 System Architecture & Quick Navigation
+
+| Overview & Credentials | Production Core Pipelines |
+| :--- | :--- |
+| 📄 **[Professional Summary](#professional-summary)** | 📤 **[1. Outbound Prospecting Engine](#1-automated-b2b-outbound-prospecting-engine)** |
+| 🛠️ **[Technical Skills Matrix](#technical-skills-matrix)** | 🧠 **[2. Autonomous Job Intelligence Engine](#2-autonomous-job-intelligence--high-intent-outreach-engine)** |
+| 💼 **[Professional Experience](#professional-experience)** | 🛡️ **[3. Fault-Tolerant CRM Lead Triage](#3-fault-tolerant-lead-triage--self-healing-crm-pipeline)** |
+| ⚡ **[Quick Recruiter Audit](#quick-recruiter-audit)** | 🧹 **[4. Enterprise Lead Sanitizer](#4-enterprise-inbound-lead-sanitizer--outreach-engine)** |
+| 📊 **[Core Production Systems](#core-production-systems)** | 🎯 **[5. AI Lead Scoring & Priority Router](#5-ai-lead-scoring--priority-router)** |
+| | ⚡ **[6. Instant Speed-to-Lead Alert System](#6-instant-speed-to-lead-alert--crm-ingestion)** |
+| | 🧾 **[7. Accounts Payable Invoice Engine](#7-enterprise-autonomous-ap-invoice-reconciliation--fraud-protection-engine)** |
+| | 🛒 **[8. E-Commerce Revenue Recovery Engine](#8-autonomous-revenue-recovery-engine-e-commerce)** |
+| | 🛡️ **[9. Centralized Error Handler & Fail-Safe](#9-n8n-centralized-error-handler--fail-safe)** |
+
+---
 
     ---
 ## Professional Summary
@@ -122,7 +116,11 @@ Architect and Systems Integration Engineer specializing in Go-To-Market (GTM) ex
 - **What it does:** Zero-downtime inbound lead processing engine that cleanses raw webhooks, scores intent via dual-LLM (Gemini/Groq) routing, updates HubSpot, and alerts Slack instantly.
 - **Architecture:** Webhook intake → Payload sanitization & regex cleansing → Gemini AI / Groq fallback scoring → Idempotent HubSpot CRM upsert → Supabase DLQ failover backup → Real-time Slack priority alert.
 - **Outcome:** Eliminates dropped leads from API rate limits or 5xx crashes, guarantees 100% data retention via DLQ, and drives sub-60s speed-to-lead for high-priority prospects.
-- 🎬 [Watch 3-min Loom Demo](https://www.loom.com/share/5d9a49197b574216894cc00822f0069f) [⬆ Back to Top](#table-of-contents)
+- 🎬 [Watch 3-min Loom Demo](https://www.loom.com/share/5d9a49197b574216894cc00822f0069f)
+
+ 
+ 
+ [⬆ Back to Top](#table-of-contents)
 
 #### 4. [Enterprise Inbound Lead Sanitizer & Outreach Engine](https://github.com/kristian-enaga/Inbound-Lead-Sanitizer-Engine)
 
