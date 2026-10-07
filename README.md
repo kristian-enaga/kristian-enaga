@@ -219,6 +219,18 @@ Architect and Systems Integration Engineer specializing in Go-To-Market (GTM) ex
 
 ---
 
+
+### 🧩 Clay GTM Lead Enrichment & Prospecting
+#### 10. [Autonomous Multi-Year Lead Waterfall & AI Qualifier (Native Clay)](https://github.com/kristian-enaga/native-clay-multi-year-waterfall-engine/blob/main/README.md)
+<img width="1920" height="1079" alt="image" src="https://raw.githubusercontent.com/kristian-enaga/native-clay-multi-year-waterfall-engine/main/clay-enrichment.png" />
+
+- **What it does:** Executes cascading multi-year lead enrichment natively inside Clay to verify work emails, score ICP fit, and generate tailored AI outreach hooks.
+- **Architecture:** Clay native waterfall → Multi-provider contact lookup → AI ICP fit tiering → Automated GTM message synthesis.
+- **Outcome:** Increases valid contact hit-rate while cutting unnecessary data enrichment spend by up to 60%.
+- **Proof:** 🛠️ [GitHub Repository](https://github.com/kristian-enaga/native-clay-multi-year-waterfall-engine/blob/main/README.md) | 🎬 [Watch 4-Min Loom Demo](https://www.loom.com/share/149144121b134f38b4bd0752c959ef02)
+
+---
+
 ## Education & Certifications
 
 - **Bachelor of Science in Criminology** – *Graduated March 2026*
