@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=KRISTIAN%20ENAGA&fontSize=48&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=KRISTIAN%20E%C3%91AGA&fontSize=48&fontColor=ffffff" width="100%" />
 </p>
 
 <p align="center">
