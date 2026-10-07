@@ -9,11 +9,11 @@
 ---
 
 ## 📑 Table of Contents
-- [Professional Summary](#-professional-summary)
-- [Technical Skills Matrix](#️-technical-skills-matrix)
-- [Professional Experience](#-professional-experience)
-- [Quick Recruiter Audit](#-quick-recruiter-audit)
-- [Core Production Systems](#-core-production-systems)
+- [Professional Summary](#professional-summary)
+- [Technical Skills Matrix](#technical-skills-matrix)
+- [Professional Experience](#professional-experience)
+- [Quick Recruiter Audit](#quick-recruiter-audit)
+- [Core Production Systems](#core-production-systems)
   - [📤 B2B Outbound Prospecting & Engagement](#-b2b-outbound-prospecting--engagement)
     - [1. Automated B2B Outbound Prospecting Engine](#1-automated-b2b-outbound-prospecting-engine)
     - [2. Autonomous Job Intelligence & High-Intent Outreach Engine](#2-autonomous-job-intelligence--high-intent-outreach-engine)
@@ -25,13 +25,11 @@
   - [🧾 Accounts Payable Automation & Financial Control](#-accounts-payable-automation--financial-control)
     - [7. Automated Accounts Payable Invoice Parsing & ERP Sync](#7-automated-accounts-payable-invoice-parsing--erp-sync)
   - [🛒 E‑Commerce & Revenue Operations](#-ecommerce--revenue-operations)
-    - [8. Autonomous Revenue Recovery Engine (E‑Commerce)](#8-autonomous-revenue-recovery-engine-e‑commerce)
+    - [8. Autonomous Revenue Recovery Engine (E‑Commerce)](#8-autonomous-revenue-recovery-engine-ecommerce)
   - [🛡 Infrastructure & System Resilience](#-infrastructure--system-resilience)
-    - [9. n8n Centralized Error Handler & Fail‑Safe](#9-n8n-centralized-error-handler--fail‑safe)
-
+    - [9. n8n Centralized Error Handler & Fail‑Safe](#9-n8n-centralized-error-handler--fail-safe)
 
 ---
-
 ## Professional Summary
 
 Architect and Systems Integration Engineer specializing in Go-To-Market (GTM) execution, RevOps automation, and production-grade AI pipeline infrastructure. Expert in designing fault-tolerant data pipelines that seamlessly integrate CRMs, enrichment engines, and multi-channel outreach platforms. 
