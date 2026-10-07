@@ -1,11 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,24,36&height=220&section=header&text=KRISTIAN%20ENAGA&fontSize=50&fontColor=ffffff&animation=twinkle&desc=GTM%20Systems%20%26%20AI%20Automation%20Engineer&descSize=20&descAlign=50&descAlignColor=00F2FE" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=KRISTIAN%20ENAGA&fontSize=42&fontColor=ffffff" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/kristian-enaga">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&lines=GTM+Systems+%26+AI+Automation+Engineer;Zero-Downtime+n8n+%26+Make.com+Pipelines;Fault-Tolerant+AI+Agents+%26+Zod+Schema+Gates;Self-Healing+CRM+%26+RevOps+Infrastructure" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&lines=GTM+Systems+%26+AI+Automation+Engineer;Zero-Downtime+n8n+%26+Make.com+Pipelines;Fault-Tolerant+AI+Agents+%26+Zod+Schema+Gates;Self-Healing+CRM+%26+RevOps+Infrastructure" alt="Typing SVG" />
 </p>
 
 <p align="center">
