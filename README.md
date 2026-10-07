@@ -8,30 +8,28 @@
 
 
 
----
-
 ## 📑 Table of Contents
 - [Professional Summary](#professional-summary)
 - [Technical Skills Matrix](#technical-skills-matrix)
 - [Professional Experience](#professional-experience)
 - [Quick Recruiter Audit](#quick-recruiter-audit)
 - [Core Production Systems](#core-production-systems)
-  - [📤 B2B Outbound Prospecting & Engagement](#b2b-outbound-prospecting--engagement)
+  - [B2B Outbound Prospecting & Engagement](#b2b-outbound-prospecting--engagement)
     - [1. Automated B2B Outbound Prospecting Engine](#1-automated-b2b-outbound-prospecting-engine)
     - [2. Autonomous Job Intelligence & High-Intent Outreach Engine](#2-autonomous-job-intelligence--high-intent-outreach-engine)
-  - [📥 B2B Inbound Lead Acceleration & Qualification](#b2b-inbound-lead-acceleration--qualification)
+  - [B2B Inbound Lead Acceleration & Qualification](#b2b-inbound-lead-acceleration--qualification)
     - [3. Fault-Tolerant Lead Triage & Self-Healing CRM Pipeline](#3-fault-tolerant-lead-triage--self-healing-crm-pipeline)
     - [4. Enterprise Inbound Lead Sanitizer & Outreach Engine](#4-enterprise-inbound-lead-sanitizer--outreach-engine)
     - [5. AI Lead Scoring & Priority Router](#5-ai-lead-scoring--priority-router)
     - [6. Instant Speed‑to‑Lead Alert & CRM Ingestion](#6-instant-speedto-lead-alert--crm-ingestion)
-  - [🧾 Accounts Payable Automation & Financial Control](#accounts-payable-automation--financial-control)
+  - [Accounts Payable Automation & Financial Control](#accounts-payable-automation--financial-control)
     - [7. Enterprise Autonomous AP Invoice Reconciliation & Fraud Protection Engine](#7-enterprise-autonomous-ap-invoice-reconciliation--fraud-protection-engine)
-  - [🛒 E‑Commerce & Revenue Operations](#ecommerce--revenue-operations)
+  - [E‑Commerce & Revenue Operations](#ecommerce--revenue-operations)
     - [8. Autonomous Revenue Recovery Engine (E‑Commerce)](#8-autonomous-revenue-recovery-engine-ecommerce)
-  - [🛡 Infrastructure & System Resilience](#infrastructure--system-resilience)
+  - [Infrastructure & System Resilience](#infrastructure--system-resilience)
     - [9. n8n Centralized Error Handler & Fail‑Safe](#9-n8n-centralized-error-handler--fail-safe)
 
----
+    ---
 ## Professional Summary
 
 Architect and Systems Integration Engineer specializing in Go-To-Market (GTM) execution, RevOps automation, and production-grade AI pipeline infrastructure. Expert in designing fault-tolerant data pipelines that seamlessly integrate CRMs, enrichment engines, and multi-channel outreach platforms. 
