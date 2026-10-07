@@ -9,6 +9,7 @@
 <a id="table-of-contents"></a>
 
 ## 📑 System Architecture & Quick Navigation
+> 💡 **Quick Audit Guide:** Click any blue title below to jump directly to its production architecture breakdown, metrics, and live Loom video.
 
 | Overview & Credentials | Production Core Pipelines |
 | :--- | :--- |
