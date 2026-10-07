@@ -39,7 +39,7 @@
 | | 🧾 **[7. Accounts Payable Invoice Engine](#7-enterprise-autonomous-ap-invoice-reconciliation--fraud-protection-engine)** |
 | | 🛒 **[8. E-Commerce Revenue Recovery Engine](#8-autonomous-revenue-recovery-engine-ecommerce)** |
 | | 🛡️ **[9. Centralized Error Handler & Fail-Safe](#9-n8n-centralized-error-handler--failsafe)** |
-
+| | 🧱 **[10. Native Clay Lead Waterfall Engine](#10-autonomous-multi-year-lead-waterfall--ai-qualifier-native-clay)** |
 ---
 
 ## Professional Summary
@@ -229,6 +229,8 @@ Architect and Systems Integration Engineer specializing in Go-To-Market (GTM) ex
 - **Outcome:** Increases valid contact hit-rate while cutting unnecessary data enrichment spend by up to 60%.
 - **Proof:** 🛠️ [GitHub Repository](https://github.com/kristian-enaga/native-clay-multi-year-waterfall-engine/blob/main/README.md) | 🎬 [Watch 4-Min Loom Demo](https://www.loom.com/share/149144121b134f38b4bd0752c959ef02)
 
+
+[⬆ Back to Top](#table-of-contents)
 ---
 
 ## Education & Certifications
