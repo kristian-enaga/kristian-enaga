@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,10,25,30&height=220&section=header&text=KRISTIAN%20EÑAGA&fontSize=50&fontColor=ffffff&animation=twinkle&desc=GTM%20Systems%20%26%20AI%20Automation%20Engineer&descSize=20&descAlign=50&descAlignColor=00F2FE" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,24,36&height=220&section=header&text=KRISTIAN%20E%C3%91AGA&fontSize=50&fontColor=ffffff&animation=twinkle&desc=GTM%20Systems%20%26%20AI%20Automation%20Engineer&descSize=20&descAlign=50&descAlignColor=00F2FE" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://github.com/kristian-enaga">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=800&color=00F2FE&center=true&vCenter=true&width=700&lines=%E2%9A%A1+GTM+Systems+%26+AI+Automation+Engineer;%F0%9F%9B%A1%EF%B8%8F+Zero-Downtime+n8n+%26+Make.com+Pipelines;%F0%9F%A7%A0+Fault-Tolerant+AI+Agents+%26+Zod+Schema+Gates;%F0%9F%93%88+Self-Healing+CRM+%26+RevOps+Infrastructure" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&lines=GTM+Systems+%26+AI+Automation+Engineer;Zero-Downtime+n8n+%26+Make.com+Pipelines;Fault-Tolerant+AI+Agents+%26+Zod+Schema+Gates;Self-Healing+CRM+%26+RevOps+Infrastructure" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SYSTEM_STATUS-ONLINE_24/7-00F2FE?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/SYSTEM_STATUS-ONLINE_24%2F7-00F2FE?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/ARCHITECTURE-FAULT_TOLERANT-FF007A?style=for-the-badge&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/RELIABILITY-100%25_DLQ-00FF87?style=for-the-badge&logo=supabase&logoColor=white" />
 </p>
