@@ -1,10 +1,6 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,10,30,12&height=180&section=header&text=Kristian%20Jay%20Eñaga&fontSize=42&fontColor=ffffff&animation=twinkle)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,100:4FACFE&height=200&section=header&text=Kristian%20Jay%20Eñaga&fontSize=52&animation=fadeIn&fontColor=ffffff&desc=GTM%20Systems%20%26%20AI%20Automation%20Engineer&descSize=20&descAlignColor=E0F2FE&descAlign=50)
 
-<p align="center">
-  <a href="https://github.com/kristian-enaga">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=GTM+Systems+%26+AI+Automation+Engineer;RevOps+%26+Fault-Tolerant+Pipeline+Architect;Zero-Downtime+n8n+%26+CRM+Integration" alt="Typing SVG" />
-  </a>
-</p>
+---
 # Hi, I'm Kristian Jay Eñaga 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kristian-jay-e%C3%B1aga-85345741a/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kchanchan2357@gmail.com)
