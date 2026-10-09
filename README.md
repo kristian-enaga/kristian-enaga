@@ -39,7 +39,7 @@
 | | 🧾 **[7. Accounts Payable Invoice Engine](#7-enterprise-autonomous-ap-invoice-reconciliation--fraud-protection-engine)** |
 | | 🛒 **[8. E-Commerce Revenue Recovery Engine](#8-autonomous-revenue-recovery-engine-ecommerce)** |
 | | 🛡️ **[9. Centralized Error Handler & Fail-Safe](#9-n8n-centralized-error-handler--failsafe)** |
-| | 🧱 **[10. Native Clay Lead Waterfall Engine](#10-autonomous-multi-year-lead-waterfall--ai-qualifier-native-clay)** |
+| | 🧱 **[10. Native Clay Lead Waterfall Engine](#10-autonomous-multi-tier-lead-waterfall--ai-qualifier-native-clay)** |
 ---
 
 ## Professional Summary
