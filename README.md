@@ -14,6 +14,9 @@
   <img src="https://img.shields.io/badge/RELIABILITY-100%25_DLQ-00FF87?style=for-the-badge&logo=supabase&logoColor=white" />
 </p>
 
+<br>
+<br>
+<br>
 
 # Hi, I'm Kristian Jay Eñaga 👋
 
@@ -23,10 +26,20 @@
 **Location:** Zamboanga Sibugay, Philippines (UTC+8) | **Email:** [kchanchan2357@gmail.com](mailto:kchanchan2357@gmail.com) | **GitHub:** [@kristian-enaga](https://github.com/kristian-enaga) | **LinkedIn:** [kristian-jay-eñaga](https://www.linkedin.com/in/kristian-jay-e%C3%B1aga-85345741a/)
 
 ---
-<a id="table-of-contents"></a>
 
-## 📑 System Architecture & Quick Navigation
-> 💡 **Quick Audit Guide:** Click any blue title below to jump directly to its production architecture breakdown, metrics, and live Loom video.
+<br>
+
+<a id="table-of-contents"></a>
+<br>
+<br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FF87&center=true&vCenter=true&width=800&lines=%F0%9F%93%91+System+Architecture+%26+Quick+Navigation" alt="Typing SVG" />
+</p>
+<details>
+  <summary>💡 <b>Founder & Recruiter Audit Protocol</b> (Click to expand guide)</summary>
+  <p><i>Click any production core title below to jump directly to its complete architecture breakdown, metrics, and live Loom video walkthrough.</i></p>
+</details>
 
 | Overview & Credentials | Production Core Pipelines |
 | :--- | :--- |
@@ -42,6 +55,10 @@
 | | 🧱 **[10. Native Clay Lead Waterfall Engine](#10-autonomous-multi-tier-lead-waterfall--ai-qualifier-native-clay)** |
 ---
 
+<br>
+<br>
+<br>
+
 ## Professional Summary
 
 Architect and Systems Integration Engineer specializing in Go-To-Market (GTM) execution, RevOps automation, and production-grade AI pipeline infrastructure. Expert in designing fault-tolerant data pipelines that seamlessly integrate CRMs, enrichment engines, and multi-channel outreach platforms. 
@@ -51,6 +68,8 @@ Architect and Systems Integration Engineer specializing in Go-To-Market (GTM) ex
 - **AI & Cost Optimization:** Implement JS/RegEx payload cleansing and dual-LLM fallback architectures (Gemini / Groq / OpenAI / OpenRouter) to reduce LLM API spend by up to 70%.
 
 ---
+
+<br>
 
 ## Technical Skills Matrix
 
@@ -65,6 +84,8 @@ Architect and Systems Integration Engineer specializing in Go-To-Market (GTM) ex
 
 ---
 
+<br>
+
 ## Professional Experience
 
 ### GTM Systems & AI Automation Engineer (Contract & Independent Projects)
@@ -75,6 +96,7 @@ Architect and Systems Integration Engineer specializing in Go-To-Market (GTM) ex
 - **Optimized Speed-to-Lead Operations:** Decreased inbound lead contact time from hours to under 5 seconds by normalizing schema payloads, qualifying lead intent via AI scoring, and auto-dispatching high-priority alerts to sales teams via Slack.
 - **Built Cost-Effective Token Optimization Strategies:** Engineered client-side JS RegEx payload cleansers prior to LLM processing, reducing API token usage and operational overhead by ~70%.
 
+<br>
 
 ## ⚡ Quick Recruiter Audit
 - **Role Target:** GTM Systems & AI Automation Engineer (RevOps / Pipeline Infrastructure)
@@ -85,8 +107,11 @@ Architect and Systems Integration Engineer specializing in Go-To-Market (GTM) ex
 
   
 ---
+<br>
+<br>
 
 ## Core Production Systems
+<br>
 
 ### 📤 B2B Outbound Prospecting & Engagement
 
@@ -103,6 +128,8 @@ Architect and Systems Integration Engineer specializing in Go-To-Market (GTM) ex
 
 [⬆ Back to Top](#table-of-contents)
 
+<br>
+
 #### 2. [Autonomous Job Intelligence & High‑Intent Outreach Engine](https://github.com/kristian-enaga/autonomous-job-lead-engine)
 
 <img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/45d2710a-a5f8-4711-a56d-227eeda4fb19" />
@@ -117,14 +144,18 @@ Architect and Systems Integration Engineer specializing in Go-To-Market (GTM) ex
 [⬆ Back to Top](#table-of-contents)
 
 ---
+<br>
 
 ### 🤝 Nearbound & Partner Signal Operations
 
 *Section ready for upcoming Nearbound & Ecosystem Integration workflows.*
 
 ---
+<br>
+<br>
 
 ### 📥 B2B Inbound Lead Acceleration & Qualification
+<br>
 
 #### 3. [Fault-Tolerant Lead Triage & Self-Healing CRM Pipeline](https://github.com/kristian-enaga/fault-tolerant-lead-triage-pipeline)
 
@@ -135,7 +166,7 @@ Architect and Systems Integration Engineer specializing in Go-To-Market (GTM) ex
 - **Outcome:** Eliminates dropped leads from API rate limits or 5xx crashes, guarantees 100% data retention via DLQ, and drives sub-60s speed-to-lead for high-priority prospects.
 - 🎬 [Watch 3-min Loom Demo](https://www.loom.com/share/5d9a49197b574216894cc00822f0069f)
 
- 
+ <br>
  
  [⬆ Back to Top](#table-of-contents)
 
@@ -149,6 +180,8 @@ Architect and Systems Integration Engineer specializing in Go-To-Market (GTM) ex
 - 🎬 [Watch 4‑min Loom Demo](https://www.loom.com/share/c38d37d65eed44129a712e530a8e2446)
 
   [⬆ Back to Top](#table-of-contents)
+  
+<br>
 
 #### 5. [AI Lead Scoring & Priority Router](https://github.com/kristian-enaga/AI-Lead-Scoring-Router)
 
@@ -160,6 +193,8 @@ Architect and Systems Integration Engineer specializing in Go-To-Market (GTM) ex
 - 🎬 [Watch 3-min Loom Demo](https://www.loom.com/share/38164c8a840f4076b3ac0ec62a26e3ce)
 
 [⬆ Back to Top](#table-of-contents)
+
+<br>
 
 #### 6. [Instant Speed‑to‑Lead Alert & CRM Ingestion](https://github.com/kristian-enaga/Speed-to-lead-ingestion-engine)
 
@@ -173,8 +208,11 @@ Architect and Systems Integration Engineer specializing in Go-To-Market (GTM) ex
 [⬆ Back to Top](#table-of-contents)
 
 ---
+<br>
+<br>
 
 ### 🧾 Accounts Payable Automation & Financial Control
+<br>
 
 #### 7. [Enterprise Autonomous AP Invoice Reconciliation & Fraud Protection Engine](https://github.com/kristian-enaga/enterprise-ap-invoice-reconciliation-engine)
 
@@ -188,8 +226,11 @@ Architect and Systems Integration Engineer specializing in Go-To-Market (GTM) ex
 [⬆ Back to Top](#table-of-contents)
 
 ---
+<br>
+<br>
 
 ### 🛒 E‑Commerce & Revenue Operations
+<br>
 
 #### 8. [Autonomous Revenue Recovery Engine (E‑Commerce)](https://github.com/kristian-enaga/autonomous-revenue-recovery-engine)
 
@@ -203,8 +244,11 @@ Architect and Systems Integration Engineer specializing in Go-To-Market (GTM) ex
 [⬆ Back to Top](#table-of-contents)
 
 ---
+<br>
+<br>
 
 ### 🛡 Infrastructure & System Resilience
+<br>
 
 #### 9. [n8n Centralized Error Handler & Fail‑Safe](https://github.com/kristian-enaga/n8n-Centralized-Error-Handler)
 
@@ -218,9 +262,13 @@ Architect and Systems Integration Engineer specializing in Go-To-Market (GTM) ex
 [⬆ Back to Top](#table-of-contents)
 
 ---
+<br>
+<br>
 
 
 ### 🧩 Clay GTM Lead Enrichment & Prospecting
+<br>
+
 #### 10. [Autonomous Multi-Tier Lead Waterfall & AI Qualifier (Native Clay)](https://github.com/kristian-enaga/native-clay-multi-year-waterfall-engine/blob/main/README.md)
 <img width="1920" height="1079" alt="image" src="https://raw.githubusercontent.com/kristian-enaga/native-clay-multi-year-waterfall-engine/main/clay-enrichment.png" />
 
@@ -232,7 +280,9 @@ Architect and Systems Integration Engineer specializing in Go-To-Market (GTM) ex
 
 [⬆ Back to Top](#table-of-contents)
 ---
-
+<br>
+<br>
+<br>
 ## Education & Certifications
 
 - **Bachelor of Science in Criminology** – *Graduated March 2026*
