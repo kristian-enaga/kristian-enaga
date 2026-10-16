@@ -29,6 +29,20 @@
 
 <br>
 
+<div align="center">
+
+> *"Watch this brief introduction and walkthrough detailing my professional background and production-grade engineering architecture."*
+
+[![Watch System Walkthrough](https://img.shields.io/badge/🎥_Watch_System_Walkthrough-5155791dfa914c43b0a09849b2ebb1fc-00F2FE?style=for-the-badge&logo=loom&logoColor=white)](https://www.loom.com/share/5155791dfa914c43b0a09849b2ebb1fc)
+
+</div>
+
+<br>
+
+---
+
+<br>
+
 <a id="table-of-contents"></a>
 <br>
 <br>
