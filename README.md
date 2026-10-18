@@ -90,7 +90,7 @@ Architect and Systems Integration Engineer specializing in Go-To-Market (GTM) ex
 | Category | Skills & Technologies |
 | :--- | :--- |
 | **Automation Platforms** | n8n (Self-Hosted/Cloud), Make.com, Zapier |
-| **GTM & CRM Stack** | Clay, HubSpot CRM, QuickBooks Online, Slack, WhatsApp Business API |
+| **GTM & CRM Stack** | Clay, HubSpot CRM, QuickBooks Online, Slack, WhatsApp Business API, Airtable, Telegram APi, |
 | **AI Models & Orchestration** | Google Gemini API, OpenAI API, Groq, OpenRouter, Prompt Engineering, Structured Outputs (Zod) |
 | **Data & Infrastructure** | REST APIs, Webhooks, SQL, PostgreSQL, Supabase (DLQ), JavaScript (ES6+), JSON, RegEx |
 | **Scraping & Ingestion** | Apify, SerpAPI, Webhook Listeners, E.164 Phone Normalization |
