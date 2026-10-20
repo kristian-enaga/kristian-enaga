@@ -297,6 +297,7 @@ Architect and Systems Integration Engineer specializing in Go-To-Market (GTM) ex
 <br>
 <br>
 <br>
+
 ## Education & Certifications
 
 - **Bachelor of Science in Criminology** – *Graduated March 2026*
