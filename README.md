@@ -171,7 +171,7 @@ I design, build, and deploy production-grade revenue and operations pipelines th
 <br>
 
 <a id="table-of-contents"></a>
-# 👇 SHORT ON TIME? CHOOSE YOUR BUSINESS SOLUTION 👇
+# 👇 SHORT ON TIME? CHOOSE YOUR BUSINESS SOLUTION
 *Click any link below to instantly review my professional background or explore production-ready revenue and operations engines.*
 
 | 📋 Executive Overview & Credentials | 🚀 Production-Ready Business Engines |
