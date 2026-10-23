@@ -1,17 +1,64 @@
+
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=KRISTIAN%20E%C3%91AGA&fontSize=48&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,40&height=180&section=header&text=Kristian%20Jay%20Eñaga&fontSize=38&fontColor=fff&animation=fadeIn&fontYAt=45" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/kristian-enaga">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&lines=GTM+Systems+and+AI+Automation+Engineer;Zero-Downtime+n8n+and+Make+Pipelines;Fault-Tolerant+AI+Agents+and+Zod+Schema+Gates;Self-Healing+CRM+and+RevOps+Infrastructure" alt="Typing SVG" />
-  </a>
+  <b>GTM Systems Integration Engineer & AI Automation Specialist</b><br>
+  <i>Building self-healing, zero-downtime automation infrastructure that protects founder revenue.</i>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SYSTEM_STATUS-ONLINE_24%2F7-00F2FE?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/ARCHITECTURE-FAULT_TOLERANT-FF007A?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/RELIABILITY-100%25_DLQ-00FF87?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stack-n8n_%7C_Make_%7C_Supabase_%7C_PostgreSQL-blue?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-Gemini_%7C_Groq_%7C_OpenAI_%7C_Anthropic-orange?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Validation-Zod_%7C_Pydantic_%7C_DLQ-success?style=for-the-badge&logo=zod&logoColor=white" />
+</p>
+
+---
+
+## ⚙️ Core Engineering Focus
+I design, build, and deploy production-grade revenue and operations pipelines that eliminate manual bottlenecks and enforce strict data integrity. 
+
+* **Zero-Downtime Architecture:** Supabase Dead Letter Queues (DLQs), automated 429 rate-limit retries, and step-level error handlers.
+* **Rigorous Schema Validation:** Strict runtime type checking via Zod and Pydantic to prevent corrupted payloads from hitting downstream CRM and billing databases.
+* **Human-in-the-Loop (HITL):** Seamless Slack and Telegram interactive approval cards for high-stakes outbound prospecting and invoice reconciliation.
+
+---
+
+## 🏛️ Production Systems Built
+
+| System | Tech Stack | Core Architecture & Reliability |
+| :--- | :--- | :--- |
+| **Autonomous Job Intelligence Engine** | n8n, JavaScript, Gemini API, Groq, Zod, Supabase, Telegram | SerpApi ingestion, pre-flight URL verification, RegEx token optimization, dual-LLM audit with failover, DLQ error logging, and HITL approvals. |
+| **Enterprise AP Invoice Reconciliation Engine** | n8n, Supabase, Slack, QuickBooks Online | Multi-channel document parsing, dual AI model fallbacks, strict math verification gates, DLQ exception logging, and QBO sync. |
+| **Speed-to-Lead Ingestion Engine** | n8n, Google Sheets, Slack | Real-time webhook lead capture, automated data normalization, instant CRM logging, and instant team alerts. |
+| **Centralized Error Handler** | n8n, Supabase, Google Sheets, Slack | Global execution failure capture, diagnostic audit trails, and automated alerts with direct execution debug links. |
+| **Automated B2B Outbound Prospecting Engine** | n8n, AI APIs, Slack, Telegram | Multi-tier lead scraping, AI draft generation, and automated HITL governance before dispatch. |
+| **Inbound Lead Sanitizer Engine** | n8n, HubSpot CRM, Gemini | Phone number normalization, bot/spam filtering, AI intent scoring, and clean CRM synchronization. |
+
+---
+
+## 🛠️ Technology Stack
+
+* **Workflow Orchestration:** n8n (Self-hosted via Docker), Make.com, Zapier, Clay
+* **Databases & State:** Supabase, PostgreSQL, Airtable, Google Sheets
+* **APIs & Integrations:** HubSpot CRM, Salesforce, QuickBooks Online, Slack, Telegram, WhatsApp, Postman
+* **AI & LLM Tooling:** Google Gemini API, Groq failover nodes, OpenRouter, OpenAI, Claude, Zod & Pydantic schema validation
+* **Infrastructure & Version Control:** Docker Desktop, PowerShell, GitHub, Loom (Architecture Walkthroughs)
+
+---
+
+## 📈 Engineering Philosophy
+> *"An automation pipeline without strict error handling and schema validation is just a ticking time bomb for your database."* 
+> 
+> I build systems engineered around **defensive data patterns**—ensuring every payload is validated, every failure is trapped in a DLQ, and every founder workflow runs 24/7 without manual intervention.
+
+---
+
+<p align="center">
+  <i>📍 Based in Zamboanga Sibugay, Philippines · Open to Global Remote Engineering Roles & Contracts</i><br>
+  <a href="mailto:kristianenaga@gmail.com"><b>Get in Touch</b></a>
 </p>
 
 <br>
