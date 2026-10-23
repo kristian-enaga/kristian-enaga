@@ -165,44 +165,13 @@ I design, build, and deploy production-grade revenue and operations pipelines th
 
 <br>
 
-<div align="center">
+### 👇 SHORT ON TIME? CHOOSE YOUR BUSINESS SOLUTION 👇
+*Click any link below to instantly review my professional background or explore production-ready revenue and operations engines.*
 
-> *"Watch this brief introduction and walkthrough detailing my professional background and production-grade engineering architecture."*
-
-<div align="center">
-  <br>
-  <h3>🎬 SYSTEM ARCHITECTURE WALKTHROUGH</h3>
-  <p><i>Watch this brief introduction and walkthrough detailing my professional background and production-grade engineering architecture.</i></p>
-  
-  <br>
-
-  <a href="https://www.loom.com/share/5155791dfa914c43b0a09849b2ebb1fc">
-    <img src="https://img.shields.io/badge/▶%20%20WATCH%20SYSTEM%20WALKTHROUGH%20%20—%203%20MINS-0F172A?style=for-the-badge&logo=loom&logoColor=00FF87&labelColor=030712&color=0F172A" height="45" alt="Watch System Walkthrough" />
-  </a>
-
-  <br><br>
-  <hr style="width:50%; border:0; height:1px; background:#334155;" />
-  <br>
-
-  <h3>👇 SHORT ON TIME? CHOOSE YOUR DESTINATION 👇</h3>
-  <p><i>Click any link below to instantly jump to your professional credentials or core production pipelines.</i></p>
-  <br>
-
-| 📋 Overview & Credentials | 🚀 Production Core Pipelines |
+| 📋 Executive Overview & Credentials | 🚀 Production-Ready Business Engines |
 | :--- | :--- |
-| 📄 **[Professional Summary](#professional-summary)** | 📤 **[1. Outbound Prospecting Engine](#1-automated-b2b-outbound-prospecting-engine)** |
-| 🛠️ **[Technical Skills Matrix](#technical-skills-matrix)** | 🧠 **[2. Autonomous Job Intelligence Engine](#2-autonomous-job-intelligence--highintent-outreach-engine)** |
-| 💼 **[Professional Experience](#professional-experience)** | 🛡️ **[3. Fault-Tolerant CRM Lead Triage](#3-fault-tolerant-lead-triage--self-healing-crm-pipeline)** |
-| ⚡ **[Quick Recruiter Audit](#-quick-recruiter-audit)** | 🧹 **[4. Enterprise Lead Sanitizer](#4-enterprise-inbound-lead-sanitizer--outreach-engine)** |
-| 📊 **[Core Production Systems](#core-production-systems)** | 🎯 **[5. AI Lead Scoring & Priority Router](#5-ai-lead-scoring--priority-router)** |
-| | ⚡ **[6. Instant Speed-to-Lead Alert System](#6-instant-speedtolead-alert--crm-ingestion)** |
-| | 🧾 **[7. Accounts Payable Invoice Engine](#7-enterprise-autonomous-ap-invoice-reconciliation--fraud-protection-engine)** |
-| | 🛒 **[8. E-Commerce Revenue Recovery Engine](#8-autonomous-revenue-recovery-engine-ecommerce)** |
-| | 🛡️ **[9. Centralized Error Handler & Fail-Safe](#9-n8n-centralized-error-handler--failsafe)** |
-| | 🧱 **[10. Native Clay Lead Waterfall Engine](#10-autonomous-multi-tier-lead-waterfall--ai-qualifier-native-clay)** |
+| <br>**[📄 Professional Summary](#professional-summary)**<br><br>**[🛠️ Technical Skills & Stack](#technical-skills-matrix)**<br><br>**[💼 Professional Experience](#professional-experience)**<br><br>**[⚡ Quick Recruiter Audit](#-quick-recruiter-audit)**<br><br>**[📊 Core Production Systems](#core-production-systems)**<br><br> | <br>📤 **[1. Automated Outbound Prospecting](#1-automated-b2b-outbound-prospecting-engine)**<br> *Multi-channel lead generation with human-in-the-loop governance.*<br><br>🧠 **[2. Autonomous Job Intelligence & Outreach](#2-autonomous-job-intelligence--highintent-outreach-engine)**<br> *Smart token-optimized sourcing & AI vetting.*<br><br>🛡️ **[3. Fault-Tolerant CRM Lead Triage](#3-fault-tolerant-lead-triage--self-healing-crm-pipeline)**<br> *Zero-downtime webhook ingestion and self-healing routing.*<br><br>🧹 **[4. Enterprise Inbound Lead Sanitizer](#4-enterprise-inbound-lead-sanitizer--outreach-engine)**<br> *Sub-5s phone validation and bot-filtering firewall.*<br><br>🎯 **[5. AI Lead Scoring & Priority Router](#5-ai-lead-scoring--priority-router)**<br> *Real-time VIP intent qualification and smart triage.*<br><br>⚡ **[6. Instant Speed-to-Lead Alert System](#6-instant-speedtolead-alert--crm-ingestion)**<br> *95% faster response times and automated team alerting.*<br><br>🧾 **[7. Accounts Payable Invoice Engine](#7-enterprise-autonomous-ap-invoice-reconciliation--fraud-protection-engine)**<br> *Autonomous line-item math checks & accounting sync.*<br><br>🛒 **[8. E-Commerce Revenue Recovery Engine](#8-autonomous-revenue-recovery-engine-ecommerce)**<br> *Automated cart recovery workflows safeguarding margins.*<br><br>🛡️ **[9. Centralized Error Handler & Fail-Safe](#9-n8n-centralized-error-handler--failsafe)**<br> *Global execution monitoring and instant failure debugging.*<br><br>🧱 **[10. Native Clay Lead Waterfall Engine](#10-autonomous-multi-tier-lead-waterfall--ai-qualifier-native-clay)**<br> *Multi-tier data enrichment maximizing data hit-rates.*<br> |
 
-  <br>
-</div>
 ---
 
 <br>
