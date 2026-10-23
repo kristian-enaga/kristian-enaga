@@ -19,6 +19,19 @@
 
 <div align="center">
   <br>
+  <h3>🎬 SYSTEM ARCHITECTURE WALKTHROUGH</h3>
+  <p><i>Watch this brief introduction and walkthrough detailing my professional background and production-grade engineering architecture.</i></p>
+  
+  <br>
+
+  <a href="https://www.loom.com/share/5155791dfa914c43b0a09849b2ebb1fc">
+    <img src="https://img.shields.io/badge/▶%20%20WATCH%20SYSTEM%20WALKTHROUGH%20%20—%203%20MINS-0F172A?style=for-the-badge&logo=loom&logoColor=00FF87&labelColor=030712&color=0F172A" height="45" alt="Watch System Walkthrough" />
+  </a>
+
+  <br><br>
+  <hr style="width:50%; border:0; height:1px; background:#334155;" />
+  <br>
+
   <h3>👇 SHORT ON TIME? JUMP STRAIGHT TO WHAT I BUILD 👇</h3>
   <p><i>Click any button below to instantly view your credentials or jump directly to your production core pipelines.</i></p>
   <br>
