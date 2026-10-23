@@ -17,6 +17,73 @@
 
 ---
 
+<div align="center">
+  <br>
+  <h3>👇 SHORT ON TIME? JUMP STRAIGHT TO WHAT I BUILD 👇</h3>
+  <p><i>Click any button below to instantly view your credentials or jump directly to your production core pipelines.</i></p>
+  <br>
+  
+  <!-- ROW 1: OVERVIEW & CREDENTIALS -->
+  <a href="#professional-summary">
+    <img src="https://img.shields.io/badge/📄_SUMMARY-0F172A?style=for-the-badge&logo=readme&logoColor=F59E0B&labelColor=030712" alt="Summary" />
+  </a>
+  &nbsp;
+  <a href="#technical-skills-matrix">
+    <img src="https://img.shields.io/badge/🛠️_SKILLS-0F172A?style=for-the-badge&logo=supabase&logoColor=10B981&labelColor=030712" alt="Skills" />
+  </a>
+  &nbsp;
+  <a href="#professional-experience">
+    <img src="https://img.shields.io/badge/💼_EXPERIENCE-0F172A?style=for-the-badge&logo=codeforces&logoColor=38BDF8&labelColor=030712" alt="Experience" />
+  </a>
+  &nbsp;
+  <a href="#-quick-recruiter-audit">
+    <img src="https://img.shields.io/badge/⚡_QUICK_AUDIT-0F172A?style=for-the-badge&logo=target&logoColor=00FF87&labelColor=030712" alt="Quick Audit" />
+  </a>
+  &nbsp;
+  <a href="#core-production-systems">
+    <img src="https://img.shields.io/badge/📊_CORE_SYSTEMS-0F172A?style=for-the-badge&logo=n8n&logoColor=EC4899&labelColor=030712" alt="Core Systems" />
+  </a>
+
+  <br><br>
+
+  <!-- ROW 2: PRODUCTION CORE PIPELINES (1 TO 10) -->
+  <a href="#1-automated-b2b-outbound-prospecting-engine">
+    <img src="https://img.shields.io/badge/1._Outbound_Engine-1E293B?style=flat-square&color=0F172A" alt="Engine 1" />
+  </a>
+  <a href="#2-autonomous-job-intelligence--highintent-outreach-engine">
+    <img src="https://img.shields.io/badge/2._Job_Intelligence-1E293B?style=flat-square&color=0F172A" alt="Engine 2" />
+  </a>
+  <a href="#3-fault-tolerant-lead-triage--self-healing-crm-pipeline">
+    <img src="https://img.shields.io/badge/3._CRM_Triage-1E293B?style=flat-square&color=0F172A" alt="Engine 3" />
+  </a>
+  <a href="#4-enterprise-inbound-lead-sanitizer--outreach-engine">
+    <img src="https://img.shields.io/badge/4._Lead_Sanitizer-1E293B?style=flat-square&color=0F172A" alt="Engine 4" />
+  </a>
+  <a href="#5-ai-lead-scoring--priority-router">
+    <img src="https://img.shields.io/badge/5._AI_Scoring-1E293B?style=flat-square&color=0F172A" alt="Engine 5" />
+  </a>
+  
+  <br>
+
+  <a href="#6-instant-speedtolead-alert--crm-ingestion">
+    <img src="https://img.shields.io/badge/6._Speed_to_Lead-1E293B?style=flat-square&color=0F172A" alt="Engine 6" />
+  </a>
+  <a href="#7-enterprise-autonomous-ap-invoice-reconciliation--fraud-protection-engine">
+    <img src="https://img.shields.io/badge/7._AP_Invoice_Engine-1E293B?style=flat-square&color=0F172A" alt="Engine 7" />
+  </a>
+  <a href="#8-autonomous-revenue-recovery-engine-ecommerce">
+    <img src="https://img.shields.io/badge/8._Revenue_Recovery-1E293B?style=flat-square&color=0F172A" alt="Engine 8" />
+  </a>
+  <a href="#9-n8n-centralized-error-handler--failsafe">
+    <img src="https://img.shields.io/badge/9._Error_Handler-1E293B?style=flat-square&color=0F172A" alt="Engine 9" />
+  </a>
+  <a href="#10-autonomous-multi-tier-lead-waterfall--ai-qualifier-native-clay">
+    <img src="https://img.shields.io/badge/10._Clay_Waterfall-1E293B?style=flat-square&color=0F172A" alt="Engine 10" />
+  </a>
+
+  <br><br>
+</div>
+
 ## ⚙️ Core Engineering Focus
 I design, build, and deploy production-grade revenue and operations pipelines that eliminate manual bottlenecks and enforce strict data integrity. 
 
