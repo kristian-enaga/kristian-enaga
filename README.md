@@ -294,10 +294,12 @@ Architect and Systems Integration Engineer specializing in Go-To-Market (GTM) ex
 
 #### 4. [Enterprise Inbound Lead Sanitizer & Outreach Engine](https://github.com/kristian-enaga/Inbound-Lead-Sanitizer-Engine)
 
-<img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/6364334f-f66b-45db-9b89-3bf2e34e49d0" />
+<img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/c574a352-f169-412c-893a-9edd441f170e" />
 
-- **What it does:** Sanitizes inbound leads, filters bots, scores intent, syncs to HubSpot, and routes to Slack/WhatsApp.  
-- **Architecture:** Sub‑5s E.164 phone normalization, bot filtering, Gemini AI intent scoring, HubSpot sync, dynamic Slack/WhatsApp routing.  
+" />
+
+- **What it does:** Sanitizes inbound leads, filters bots, Backup Safe Data Log(DLQ), AI scores intent, syncs to HubSpot, and routes to Slack/WhatsApp.  
+- **Architecture:** Sub‑5s E.164 phone normalization, bot filtering, PostgreSQL/Supabase DLQ, Gemini AI intent scoring, HubSpot sync, dynamic Slack/WhatsApp routing.  
 - **Outcome:** 100% invalid CRM entries blocked; response SLA from hours → sub‑5 seconds.
 - 🎬 [Watch 4‑min Loom Demo](https://www.loom.com/share/c38d37d65eed44129a712e530a8e2446)
 
