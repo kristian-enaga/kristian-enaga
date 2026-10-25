@@ -410,12 +410,13 @@ Architect and Systems Integration Engineer specializing in Go-To-Market (GTM) ex
 
 [⬆ Back to Top](#table-of-contents)
 
----
-<br>
 <br>
 <br>
 
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,40&height=140&section=footer&text=&animation=fadeIn" width="100%" />
+</p>
+<br>
 
 ## Education & Certifications
 
