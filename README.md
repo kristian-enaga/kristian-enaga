@@ -118,12 +118,16 @@ I design, build, and deploy production-grade revenue and operations pipelines th
 
 | System | Tech Stack | Core Architecture & Reliability |
 | :--- | :--- | :--- |
-| **Autonomous Market Intelligence Engine** | n8n, JavaScript, Gemini API, Groq, Zod, Supabase, Telegram | SerpApi ingestion, pre-flight URL verification, RegEx token optimization, dual-LLM audit with failover, DLQ error logging, and HITL approvals. |
 | **Enterprise AP Invoice Reconciliation Engine** | n8n, Supabase, Slack, QuickBooks Online | Multi-channel document parsing, dual AI model fallbacks, strict math verification gates, DLQ exception logging, and QBO sync. |
-| **Speed-to-Lead Ingestion Engine** | n8n, Google Sheets, Slack | Real-time webhook lead capture, automated data normalization, instant CRM logging, and instant team alerts. |
-| **Centralized Error Handler** | n8n, Supabase, Google Sheets, Slack | Global execution failure capture, diagnostic audit trails, and automated alerts with direct execution debug links. |
-| **Automated B2B Outbound Prospecting Engine** | n8n, AI APIs, Slack, Telegram | Multi-tier lead scraping, AI draft generation, and automated HITL governance before dispatch. |
+| **Native Clay Lead Waterfall Engine** | Clay, Multi-Provider APIs, AI | Cascading multi-tier contact enrichment, ICP fit tiering, and automated GTM message synthesis with zero-waste filtering. |
+| **Automated B2B Outbound Prospecting Engine** | n8n, AI APIs, Slack, Telegram | Multi-tier lead scraping, AI draft generation, and automated Human-in-the-Loop (HITL) governance before dispatch. |
+| **Autonomous Market Intelligence Engine** | n8n, JavaScript, Gemini API, Groq, Zod, Supabase, Telegram | SerpApi ingestion, pre-flight URL verification, RegEx token optimization, dual-LLM audit with failover, DLQ error logging, and HITL approvals. |
 | **Inbound Lead Sanitizer Engine** | n8n, HubSpot CRM, Gemini | Phone number normalization, bot/spam filtering, AI intent scoring, and clean CRM synchronization. |
+| **Fault-Tolerant Lead Triage Pipeline** | n8n, Supabase, HubSpot, Slack | Zero-downtime webhook intake, payload regex sanitization, dual-LLM routing, and idempotent CRM upserts. |
+| **AI Lead Scoring & Priority Router** | n8n, Gemini, OpenRouter, Supabase | Real-time intent qualification, budget/urgency sorting, VIP Slack alerting, and fallback AI routing. |
+| **Speed-to-Lead Ingestion Engine** | n8n, Google Sheets, Slack | Real-time webhook lead capture, automated data normalization, instant CRM logging, and instant team alerts. |
+| **Autonomous Revenue Recovery Engine** | Make.com, Supabase, Gemini, Gmail | Stateful delay gates, e-commerce cart purchase validation, and targeted recovery messaging. |
+| **Centralized Error Handler & Fail-Safe** | n8n, Supabase, Google Sheets, Slack | Global execution failure capture, diagnostic audit trails, and automated alerts with direct execution debug links. |
 
 ---
 
@@ -209,7 +213,7 @@ Architect and Systems Integration Engineer specializing in Go-To-Market (GTM) ex
 ### GTM Systems & AI Automation Engineer (Contract & Independent Projects)
 *June 2026 – Present*
 
-- **Designed & Deployed Production GTM Engines:** Built 9 end-to-end self-healing automation workflows for lead acquisition, CRM enrichment, speed-to-lead routing, revenue recovery, and accounts payable reconciliation.
+- **Designed & Deployed Production GTM Engines:** Built 10 end-to-end self-healing automation workflows for lead acquisition, CRM enrichment, speed-to-lead routing, revenue recovery, and accounts payable reconciliation.
 - **Enforced Fault-Tolerant Data Pipelines:** Implemented Supabase/Postgres Dead-Letter Queues (DLQs) and failover logic to capture unhandled exceptions, guaranteeing 100% lead and transaction logging during 5xx server downtime or API rate-limit errors.
 - **Optimized Speed-to-Lead Operations:** Decreased inbound lead contact time from hours to under 5 seconds by normalizing schema payloads, qualifying lead intent via AI scoring, and auto-dispatching high-priority alerts to sales teams via Slack.
 - **Built Cost-Effective Token Optimization Strategies:** Engineered client-side JS RegEx payload cleansers prior to LLM processing, reducing API token usage and operational overhead by ~70%.
@@ -219,9 +223,10 @@ Architect and Systems Integration Engineer specializing in Go-To-Market (GTM) ex
 ## ⚡ Quick Recruiter Audit
 - **Role Target:** GTM Systems & AI Automation Engineer (RevOps / Pipeline Infrastructure)
 - **Core Stack:** Clay, HubSpot CRM, n8n, Make, REST APIs/Webhooks, PostgreSQL/Supabase, Gemini/OpenAI APIs
-- **Architecture Standards:** Zod Schema Gates, Dead-Letter Queues (DLQs), Dual-LLM Fallbacks, Rate-Limit Buffers
-- **Location & Shift:** Zamboanga Sibugay, Philippines (UTC+8) | Full US Overlap (8 PM–12 AM PST / Flexible)
-- **Availability:** Open for Full-Time Remote Roles, Contract Engagements, & Fractional GTM Systems Work
+- **Architecture Standards:** Zod Schema Gates, Supabase Dead-Letter Queues (DLQs), Dual-LLM Fallbacks, Rate-Limit Buffers
+- **The ROI Guarantee:** I don't write brittle scripts; I engineer self-healing revenue pipelines that eliminate lead leakage, stop CRM data corruption, and reclaim 15+ hours/week of manual engineering time.
+- **Location & Shift:** Zamboanga Sibugay, Philippines (UTC+8) | Full US Overlap & Asynchronous SLA Delivery
+- **Availability:** Open for High-Impact Full-Time Remote Roles, Contract Engagements, & Fractional GTM Systems Architecture
 
   
 ---
