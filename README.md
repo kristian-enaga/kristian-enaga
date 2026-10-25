@@ -420,10 +420,10 @@ Architect and Systems Integration Engineer specializing in Go-To-Market (GTM) ex
 
 ## Education & Certifications
 
-- **Bachelor of Science in Criminology** – *Graduated March 2026*
-- **Make Advanced Certification** – *Make Academy (2026)*
-- **AI Automation Explorer** – *Credentials in n8n & Generative AI Systems Integration (2026)*
-
+- **Bachelor of Science in Criminology** - *Dr. Aurelio Mendoza Memorial College (Graduated March 2026)*
+- **Career Service Professional Eligibility** - *Civil Service Commission, Philippines (Passed March 2026)*
+- **Make Advanced Certification** - *Make Academy (2026)*
+- **AI Automation Explorer** - *Credentials in n8n & Generative AI Systems Integration (2026)*
 ---
 
 ## How I work (engagement model)
