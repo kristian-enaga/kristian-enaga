@@ -72,10 +72,9 @@
     <img src="https://img.shields.io/badge/3._Outbound_Engine-1E293B?style=for-the-badge&color=0F172A&logoColor=38BDF8" height="28" alt="Engine 3" />
   </a>
   &nbsp;
-  <a href="#4-autonomous-job-intelligence--highintent-outreach-engine">
-    <img src="https://img.shields.io/badge/4._Job_Intelligence-1E293B?style=for-the-badge&color=0F172A&logoColor=38BDF8" height="28" alt="Engine 4" />
+  <a href="#4-autonomous-market-intelligence--b2b-lead-waterfall-engine">
+    <img src="https://img.shields.io/badge/4._Market_Intelligence-1E293B?style=for-the-badge&color=0F172A&logoColor=38BDF8" height="28" alt="Engine 4" />
   </a>
-  &nbsp;
   <a href="#5-enterprise-inbound-lead-sanitizer--outreach-engine">
     <img src="https://img.shields.io/badge/5._Lead_Sanitizer-1E293B?style=for-the-badge&color=0F172A&logoColor=38BDF8" height="28" alt="Engine 5" />
   </a>
@@ -119,7 +118,7 @@ I design, build, and deploy production-grade revenue and operations pipelines th
 
 | System | Tech Stack | Core Architecture & Reliability |
 | :--- | :--- | :--- |
-| **Autonomous Job Intelligence Engine** | n8n, JavaScript, Gemini API, Groq, Zod, Supabase, Telegram | SerpApi ingestion, pre-flight URL verification, RegEx token optimization, dual-LLM audit with failover, DLQ error logging, and HITL approvals. |
+| **Autonomous Market Intelligence Engine** | n8n, JavaScript, Gemini API, Groq, Zod, Supabase, Telegram | SerpApi ingestion, pre-flight URL verification, RegEx token optimization, dual-LLM audit with failover, DLQ error logging, and HITL approvals. |
 | **Enterprise AP Invoice Reconciliation Engine** | n8n, Supabase, Slack, QuickBooks Online | Multi-channel document parsing, dual AI model fallbacks, strict math verification gates, DLQ exception logging, and QBO sync. |
 | **Speed-to-Lead Ingestion Engine** | n8n, Google Sheets, Slack | Real-time webhook lead capture, automated data normalization, instant CRM logging, and instant team alerts. |
 | **Centralized Error Handler** | n8n, Supabase, Google Sheets, Slack | Global execution failure capture, diagnostic audit trails, and automated alerts with direct execution debug links. |
@@ -171,7 +170,7 @@ I design, build, and deploy production-grade revenue and operations pipelines th
 
 | 📋 Executive Overview & Credentials | 🚀 Production-Ready Business Engines |
 | :--- | :--- |
-| <br>**[📄 Professional Summary](#professional-summary)**<br><br>**[🛠️ Technical Skills & Stack](#technical-skills-matrix)**<br><br>**[💼 Professional Experience](#professional-experience)**<br><br>**[⚡ Quick Recruiter Audit](#-quick-recruiter-audit)**<br><br>**[📊 Core Production Systems](#core-production-systems)**<br><br> | <br>🧾 **[1. Accounts Payable Automation](#1-enterprise-autonomous-ap-invoice-reconciliation--fraud-protection-engine)**<br> *Autonomous line-item math checks & accounting sync.*<br><br>🧱 **[2. Native Clay Lead Waterfall Engine](#2-autonomous-multi-tier-lead-waterfall--ai-qualifier-native-clay)**<br> *Multi-tier enrichment maximizing hit-rates.*<br><br>📤 **[3. Automated Outbound Prospecting](#3-automated-b2b-outbound-prospecting-engine)**<br> *Multi-channel generation with HITL governance.*<br><br>🧠 **[4. Autonomous Job Intelligence](#4-autonomous-job-intelligence--highintent-outreach-engine)**<br> *Token-optimized sourcing & AI vetting.*<br><br>🧹 **[5. Enterprise Inbound Lead Sanitizer](#5-enterprise-inbound-lead-sanitizer--outreach-engine)**<br> *Sub-5s phone validation and bot firewall.*<br><br>🛡️ **[6. Fault-Tolerant Lead Triage](#6-fault-tolerant-lead-triage--self-healing-crm-pipeline)**<br> *Zero-downtime webhook ingestion and routing.*<br><br>🎯 **[7. AI Lead Scoring & Priority Router](#7-ai-lead-scoring--priority-router)**<br> *Real-time VIP intent qualification.*<br><br>⚡ **[8. Instant Speed-to-Lead Alert System](#8-instant-speedtolead-alert--crm-ingestion)**<br> *95% faster response times and Slack alerts.*<br><br>🛒 **[9. E-Commerce Revenue Recovery](#9-autonomous-revenue-recovery-engine-ecommerce)**<br> *Automated cart recovery safeguarding margins.*<br><br>🛡️ **[10. Centralized Error Handler & Fail-Safe](#10-n8n-centralized-error-handler--failsafe)**<br> *Global execution monitoring and failure debugging.*<br> |
+| <br>**[📄 Professional Summary](#professional-summary)**<br><br>**[🛠️ Technical Skills & Stack](#technical-skills-matrix)**<br><br>**[💼 Professional Experience](#professional-experience)**<br><br>**[⚡ Quick Recruiter Audit](#-quick-recruiter-audit)**<br><br>**[📊 Core Production Systems](#core-production-systems)**<br><br> | <br>🧾 **[1. Accounts Payable Automation](#1-enterprise-autonomous-ap-invoice-reconciliation--fraud-protection-engine)**<br> *Autonomous line-item math checks & accounting sync.*<br><br>🧱 **[2. Native Clay Lead Waterfall Engine](#2-autonomous-multi-tier-lead-waterfall--ai-qualifier-native-clay)**<br> *Multi-tier enrichment maximizing hit-rates.*<br><br>📤 **[3. Automated Outbound Prospecting](#3-automated-b2b-outbound-prospecting-engine)**<br> *Multi-channel generation with HITL governance.*<br><br>🧠 **[4. Autonomous Market Intelligence](#4-autonomous-market-intelligence--b2b-lead-waterfall-engine)**<br> *Token-optimized sourcing & AI vetting.*<br><br>🧹 **[5. Enterprise Inbound Lead Sanitizer](#5-enterprise-inbound-lead-sanitizer--outreach-engine)**<br> *Sub-5s phone validation and bot firewall.*<br><br>🛡️ **[6. Fault-Tolerant Lead Triage](#6-fault-tolerant-lead-triage--self-healing-crm-pipeline)**<br> *Zero-downtime webhook ingestion and routing.*<br><br>🎯 **[7. AI Lead Scoring & Priority Router](#7-ai-lead-scoring--priority-router)**<br> *Real-time VIP intent qualification.*<br><br>⚡ **[8. Instant Speed-to-Lead Alert System](#8-instant-speedtolead-alert--crm-ingestion)**<br> *95% faster response times and Slack alerts.*<br><br>🛒 **[9. E-Commerce Revenue Recovery](#9-autonomous-revenue-recovery-engine-ecommerce)**<br> *Automated cart recovery safeguarding margins.*<br><br>🛡️ **[10. Centralized Error Handler & Fail-Safe](#10-n8n-centralized-error-handler--failsafe)**<br> *Global execution monitoring and failure debugging.*<br> |
 ---
 
 <br>
@@ -289,9 +288,10 @@ Architect and Systems Integration Engineer specializing in Go-To-Market (GTM) ex
 
 <br>
 
-#### 4. [Autonomous Job Intelligence & High‑Intent Outreach Engine](https://github.com/kristian-enaga/autonomous-job-lead-engine)
+#### 4. [Autonomous Market Intelligence & B2B Lead Waterfall Engine](https://github.com/kristian-enaga/autonomous-market-intelligence-engine)
 
-<img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/45d2710a-a5f8-4711-a56d-227eeda4fb19" />
+<img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/9e8e2c0c-4bcf-4117-b18a-5bbee28050b3" />
+
 
 - **What it does:** Finds high‑intent job leads, validates pages, extracts tokens, drafts outreach, and sends via HITL.  
 - **Architecture:** SerpAPI ingestion, pre‑flight 404/duplicate checks, JS RegEx HTML token optimization (~70% cost reduction), Gemini + Groq failover, Zod schema validation, DLQ, Telegram HITL 1‑click approvals.  
