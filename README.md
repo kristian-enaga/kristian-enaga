@@ -173,8 +173,7 @@ I design, build, and deploy production-grade revenue and operations pipelines th
 
 | 📋 Executive Overview & Credentials | 🚀 Production-Ready Business Engines |
 | :--- | :--- |
-| <br>**[📄 Professional Summary](#professional-summary)**<br><br>**[🛠️ Technical Skills & Stack](#technical-skills-matrix)**<br><br>**[💼 Professional Experience](#professional-experience)**<br><br>**[⚡ Quick Recruiter Audit](#-quick-recruiter-audit)**<br><br>**[📊 Core Production Systems](#core-production-systems)**<br><br> | <br>📤 **[1. Automated Outbound Prospecting](#1-automated-b2b-outbound-prospecting-engine)**<br> *Multi-channel lead generation with human-in-the-loop governance.*<br><br>🧠 **[2. Autonomous Job Intelligence & Outreach](#2-autonomous-job-intelligence--highintent-outreach-engine)**<br> *Smart token-optimized sourcing & AI vetting.*<br><br>🛡️ **[3. Fault-Tolerant CRM Lead Triage](#3-fault-tolerant-lead-triage--self-healing-crm-pipeline)**<br> *Zero-downtime webhook ingestion and self-healing routing.*<br><br>🧹 **[4. Enterprise Inbound Lead Sanitizer](#4-enterprise-inbound-lead-sanitizer--outreach-engine)**<br> *Sub-5s phone validation and bot-filtering firewall.*<br><br>🎯 **[5. AI Lead Scoring & Priority Router](#5-ai-lead-scoring--priority-router)**<br> *Real-time VIP intent qualification and smart triage.*<br><br>⚡ **[6. Instant Speed-to-Lead Alert System](#6-instant-speedtolead-alert--crm-ingestion)**<br> *95% faster response times and automated team alerting.*<br><br>🧾 **[7. Accounts Payable Invoice Engine](#7-enterprise-autonomous-ap-invoice-reconciliation--fraud-protection-engine)**<br> *Autonomous line-item math checks & accounting sync.*<br><br>🛒 **[8. E-Commerce Revenue Recovery Engine](#8-autonomous-revenue-recovery-engine-ecommerce)**<br> *Automated cart recovery workflows safeguarding margins.*<br><br>🛡️ **[9. Centralized Error Handler & Fail-Safe](#9-n8n-centralized-error-handler--failsafe)**<br> *Global execution monitoring and instant failure debugging.*<br><br>🧱 **[10. Native Clay Lead Waterfall Engine](#10-autonomous-multi-tier-lead-waterfall--ai-qualifier-native-clay)**<br> *Multi-tier data enrichment maximizing data hit-rates.*<br> |
-
+| <br>**[📄 Professional Summary](#professional-summary)**<br><br>**[🛠️ Technical Skills & Stack](#technical-skills-matrix)**<br><br>**[💼 Professional Experience](#professional-experience)**<br><br>**[⚡ Quick Recruiter Audit](#-quick-recruiter-audit)**<br><br>**[📊 Core Production Systems](#core-production-systems)**<br><br> | <br>🧾 **[1. Accounts Payable Automation](#1-enterprise-autonomous-ap-invoice-reconciliation--fraud-protection-engine)**<br> *Autonomous line-item math checks & accounting sync.*<br><br>🧱 **[2. Native Clay Lead Waterfall Engine](#2-autonomous-multi-tier-lead-waterfall--ai-qualifier-native-clay)**<br> *Multi-tier enrichment maximizing hit-rates.*<br><br>📤 **[3. Automated Outbound Prospecting](#3-automated-b2b-outbound-prospecting-engine)**<br> *Multi-channel generation with HITL governance.*<br><br>🧠 **[4. Autonomous Job Intelligence](#4-autonomous-job-intelligence--highintent-outreach-engine)**<br> *Token-optimized sourcing & AI vetting.*<br><br>🧹 **[5. Enterprise Inbound Lead Sanitizer](#5-enterprise-inbound-lead-sanitizer--outreach-engine)**<br> *Sub-5s phone validation and bot firewall.*<br><br>🛡️ **[6. Fault-Tolerant Lead Triage](#6-fault-tolerant-lead-triage--self-healing-crm-pipeline)**<br> *Zero-downtime webhook ingestion and routing.*<br><br>🎯 **[7. AI Lead Scoring & Priority Router](#7-ai-lead-scoring--priority-router)**<br> *Real-time VIP intent qualification.*<br><br>⚡ **[8. Instant Speed-to-Lead Alert System](#8-instant-speedtolead-alert--crm-ingestion)**<br> *95% faster response times and Slack alerts.*<br><br>🛒 **[9. E-Commerce Revenue Recovery](#9-autonomous-revenue-recovery-engine-ecommerce)**<br> *Automated cart recovery safeguarding margins.*<br><br>🛡️ **[10. Centralized Error Handler & Fail-Safe](#10-n8n-centralized-error-handler--failsafe)**<br> *Global execution monitoring and failure debugging.*<br> |
 ---
 
 <br>
@@ -235,110 +234,10 @@ Architect and Systems Integration Engineer specializing in Go-To-Market (GTM) ex
 ## Core Production Systems
 <br>
 
-### 📤 B2B Outbound Prospecting & Engagement
-
-#### 1. [Automated B2B Outbound Prospecting Engine](https://github.com/kristian-enaga/Automated-B2B-Outbound-System)
-
-<img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/f8bae866-2e23-453a-969b-00af5d0125f5" />
-
-- **What it does:** End‑to‑end outbound: scraping → AI copy → HITL approval → send → logging.  
-- **Architecture:** Apify scraping, Gemini email copy, Slack Human‑in‑the‑Loop (HITL) approvals, fault‑tolerant logging.  
-- **Outcome:** Reclaims ~70% of rep prospecting time; protects domain deliverability with HITL gates. 
-- 🎬 [Watch 4‑min Loom Demo](https://www.loom.com/share/5d3416feda7148bbbd60704ab9b5976e)
-
-
-
-[⬆ Back to Top](#table-of-contents)
-
-<br>
-
-#### 2. [Autonomous Job Intelligence & High‑Intent Outreach Engine](https://github.com/kristian-enaga/autonomous-job-lead-engine)
-
-<img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/45d2710a-a5f8-4711-a56d-227eeda4fb19" />
-
-- **What it does:** Finds high‑intent job leads, validates pages, extracts tokens, drafts outreach, and sends via HITL.  
-- **Architecture:** SerpAPI ingestion, pre‑flight 404/duplicate checks, JS RegEx HTML token optimization (~70% cost reduction), Gemini + Groq failover, Zod schema validation, DLQ, Telegram HITL 1‑click approvals.  
-- **Outcome:** Automates 10+ hours/week of manual sourcing/audits; zero CRM data corruption via strict schema gates.  
-- 🎬 [Watch 4‑min Loom Demo](https://www.loom.com/share/7792580657284a58a7e1dabf99365087)
-
-
-
-[⬆ Back to Top](#table-of-contents)
-
----
-<br>
-
-### 🤝 Nearbound & Partner Signal Operations
-
-*Section ready for upcoming Nearbound & Ecosystem Integration workflows.*
-
----
-<br>
-<br>
-
-### 📥 B2B Inbound Lead Acceleration & Qualification
-<br>
-
-#### 3. [Fault-Tolerant Lead Triage & Self-Healing CRM Pipeline](https://github.com/kristian-enaga/fault-tolerant-lead-triage-pipeline)
-
-<img width="1920" height="1079" alt="Fault-Tolerant Lead Triage Pipeline" src="https://raw.githubusercontent.com/kristian-enaga/fault-tolerant-lead-triage-pipeline/main/fault-tolerant-lead-triage-architecture.png" />
-
-- **What it does:** Zero-downtime inbound lead processing engine that cleanses raw webhooks, scores intent via dual-LLM (Gemini/Groq) routing, updates HubSpot, and alerts Slack instantly.
-- **Architecture:** Webhook intake → Payload sanitization & regex cleansing → Gemini AI / Groq fallback scoring → Idempotent HubSpot CRM upsert → Supabase DLQ failover backup → Real-time Slack priority alert.
-- **Outcome:** Eliminates dropped leads from API rate limits or 5xx crashes, guarantees 100% data retention via DLQ, and drives sub-60s speed-to-lead for high-priority prospects.
-- 🎬 [Watch 3-min Loom Demo](https://www.loom.com/share/5d9a49197b574216894cc00822f0069f)
-
- <br>
- 
- [⬆ Back to Top](#table-of-contents)
-
-#### 4. [Enterprise Inbound Lead Sanitizer & Outreach Engine](https://github.com/kristian-enaga/Inbound-Lead-Sanitizer-Engine)
-
-<img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/c574a352-f169-412c-893a-9edd441f170e" />
-
-" />
-
-- **What it does:** Sanitizes inbound leads, filters bots, Backup Safe Data Log(DLQ), AI scores intent, syncs to HubSpot, and routes to Slack/WhatsApp.  
-- **Architecture:** Sub‑5s E.164 phone normalization, bot filtering, PostgreSQL/Supabase DLQ, Gemini AI intent scoring, HubSpot sync, dynamic Slack/WhatsApp routing.  
-- **Outcome:** 100% invalid CRM entries blocked; response SLA from hours → sub‑5 seconds.
-- 🎬 [Watch 4‑min Loom Demo](https://www.loom.com/share/c38d37d65eed44129a712e530a8e2446)
-
-  [⬆ Back to Top](#table-of-contents)
-  
-<br>
-
-#### 5. [AI Lead Scoring & Priority Router](https://github.com/kristian-enaga/AI-Lead-Scoring-Router)
-
-<img width="1920" height="1079" alt="AI Lead Scoring Architecture" src="https://github.com/kristian-enaga/AI-Lead-Scoring-Router/blob/main/n8n-ai-lead-scoring-production-architecture.png?raw=true" />
-
-- **What it does:** Real-time automated triage of inbound leads by budget, company size, and urgency using Google Gemini AI with OpenRouter fallback, instantly splitting VIP enterprise prospects from low-priority inquiries.
-- **Architecture:** Webhook intake & payload extraction → Supabase DLQ raw lead backup → Google Gemini AI scoring + OpenRouter fallback → Schema validation & parameter merge → Multi-tier IF router (Slack alerts for VIPs / Automated Gmail replies for standard leads) → Centralized Google Sheets CRM sync.
-- **Outcome:** Eliminates 70% of manual lead review time, saves 15+ hours/week of qualification work, guarantees zero lead loss via DLQ persistence, and routes high-value prospects instantly.
-- 🎬 [Watch 3-min Loom Demo](https://www.loom.com/share/38164c8a840f4076b3ac0ec62a26e3ce)
-
-[⬆ Back to Top](#table-of-contents)
-
-<br>
-
-#### 6. [Instant Speed‑to‑Lead Alert & CRM Ingestion](https://github.com/kristian-enaga/Speed-to-lead-ingestion-engine)
-
-<img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/93e85a03-7418-4415-a602-1dcdc57bd49a" />
-
-- **What it does:** Ingests webhook leads, normalizes schema, syncs to Google Sheets CRM, and fires instant Slack alerts.  
-- **Architecture:** Webhook ingestion → schema normalization → Sheets sync → Slack notifications.  
-- **Outcome:** Lead contact time −95% (5‑minute Speed‑to‑Lead); connection rates up to +391%. 
-- 🎬 [Watch 4‑min Loom Demo](https://www.loom.com/share/707c78cf35df44a4adf3ee1a04d75b57)
-
-[⬆ Back to Top](#table-of-contents)
-
----
-<br>
-<br>
-
 ### 🧾 Accounts Payable Automation & Financial Control
 <br>
 
-#### 7. [Enterprise Autonomous AP Invoice Reconciliation & Fraud Protection Engine](https://github.com/kristian-enaga/enterprise-ap-invoice-reconciliation-engine)
+#### 1. [Enterprise Autonomous AP Invoice Reconciliation & Fraud Protection Engine](https://github.com/kristian-enaga/enterprise-ap-invoice-reconciliation-engine)
 
 <img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/e8d972b1-2f29-4eff-8034-5e4d84ee3777" />
 
@@ -353,10 +252,131 @@ Architect and Systems Integration Engineer specializing in Go-To-Market (GTM) ex
 <br>
 <br>
 
+### 🧩 Clay GTM Lead Enrichment & Prospecting
+<br>
+
+#### 2. [Autonomous Multi-Tier Lead Waterfall & AI Qualifier (Native Clay)](https://github.com/kristian-enaga/native-clay-multi-year-waterfall-engine/blob/main/README.md)
+<img width="1920" height="1079" alt="image" src="https://raw.githubusercontent.com/kristian-enaga/native-clay-multi-year-waterfall-engine/main/clay-enrichment.png" />
+
+- **What it does:** Executes cascading multi-year lead enrichment natively inside Clay to verify work emails, score ICP fit, and generate tailored AI outreach hooks.
+- **Architecture:** Clay native waterfall → Multi-provider contact lookup → AI ICP fit tiering → Automated GTM message synthesis.
+- **Outcome:** Increases valid contact hit-rate while cutting unnecessary data enrichment spend by up to 60%.
+- **Proof:** 🛠️ [GitHub Repository](https://github.com/kristian-enaga/native-clay-multi-year-waterfall-engine/blob/main/README.md) | 🎬 [Watch 4-Min Loom Demo](https://www.loom.com/share/149144121b134f38b4bd0752c959ef02)
+
+
+[⬆ Back to Top](#table-of-contents)
+
+---
+<br>
+<br>
+<br>
+
+
+### 📤 B2B Outbound Prospecting & Engagement
+<br>
+
+#### 3. [Automated B2B Outbound Prospecting Engine](https://github.com/kristian-enaga/Automated-B2B-Outbound-System)
+
+<img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/1f27e6ed-73eb-4df2-a461-e48c02b5d704" />
+
+
+- **What it does:** End‑to‑end outbound: scraping → AI copy → HITL approval → send → logging.  
+- **Architecture:** Apify scraping, Gemini email copy, Slack Human‑in‑the‑Loop (HITL) approvals, fault‑tolerant logging.  
+- **Outcome:** Reclaims ~70% of rep prospecting time; protects domain deliverability with HITL gates. 
+- 🎬 [Watch 4‑min Loom Demo](https://www.loom.com/share/5d3416feda7148bbbd60704ab9b5976e)
+
+
+
+[⬆ Back to Top](#table-of-contents)
+
+<br>
+
+#### 4. [Autonomous Job Intelligence & High‑Intent Outreach Engine](https://github.com/kristian-enaga/autonomous-job-lead-engine)
+
+<img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/45d2710a-a5f8-4711-a56d-227eeda4fb19" />
+
+- **What it does:** Finds high‑intent job leads, validates pages, extracts tokens, drafts outreach, and sends via HITL.  
+- **Architecture:** SerpAPI ingestion, pre‑flight 404/duplicate checks, JS RegEx HTML token optimization (~70% cost reduction), Gemini + Groq failover, Zod schema validation, DLQ, Telegram HITL 1‑click approvals.  
+- **Outcome:** Automates 10+ hours/week of manual sourcing/audits; zero CRM data corruption via strict schema gates.  
+- 🎬 [Watch 4‑min Loom Demo](https://www.loom.com/share/7792580657284a58a7e1dabf99365087)
+
+
+
+[⬆ Back to Top](#table-of-contents)
+
+---
+<br>
+<br>
+
+### 📥 B2B Inbound Lead Acceleration & Qualification
+<br>
+
+
+#### 5. [Enterprise Inbound Lead Sanitizer & Outreach Engine](https://github.com/kristian-enaga/Inbound-Lead-Sanitizer-Engine)
+
+<img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/c574a352-f169-412c-893a-9edd441f170e" />
+
+" />
+
+- **What it does:** Sanitizes inbound leads, filters bots, Backup Safe Data Log(DLQ), AI scores intent, syncs to HubSpot, and routes to Slack/WhatsApp.  
+- **Architecture:** Sub‑5s E.164 phone normalization, bot filtering, PostgreSQL/Supabase DLQ, Gemini AI intent scoring, HubSpot sync, dynamic Slack/WhatsApp routing.  
+- **Outcome:** 100% invalid CRM entries blocked; response SLA from hours → sub‑5 seconds.
+- 🎬 [Watch 4‑min Loom Demo](https://www.loom.com/share/c38d37d65eed44129a712e530a8e2446)
+
+  [⬆ Back to Top](#table-of-contents)
+  
+<br>
+
+#### 6. [Fault-Tolerant Lead Triage & Self-Healing CRM Pipeline](https://github.com/kristian-enaga/fault-tolerant-lead-triage-pipeline)
+
+<img width="1920" height="1079" alt="Fault-Tolerant Lead Triage Pipeline" src="https://raw.githubusercontent.com/kristian-enaga/fault-tolerant-lead-triage-pipeline/main/fault-tolerant-lead-triage-architecture.png" />
+
+- **What it does:** Zero-downtime inbound lead processing engine that cleanses raw webhooks, scores intent via dual-LLM (Gemini/Groq) routing, updates HubSpot, and alerts Slack instantly.
+- **Architecture:** Webhook intake → Payload sanitization & regex cleansing → Gemini AI / Groq fallback scoring → Idempotent HubSpot CRM upsert → Supabase DLQ failover backup → Real-time Slack priority alert.
+- **Outcome:** Eliminates dropped leads from API rate limits or 5xx crashes, guarantees 100% data retention via DLQ, and drives sub-60s speed-to-lead for high-priority prospects.
+- 🎬 [Watch 3-min Loom Demo](https://www.loom.com/share/5d9a49197b574216894cc00822f0069f)
+
+ <br>
+ 
+ [⬆ Back to Top](#table-of-contents)
+
+  <br>
+
+#### 7. [AI Lead Scoring & Priority Router](https://github.com/kristian-enaga/AI-Lead-Scoring-Router)
+
+<img width="1920" height="1079" alt="AI Lead Scoring Architecture" src="https://github.com/kristian-enaga/AI-Lead-Scoring-Router/blob/main/n8n-ai-lead-scoring-production-architecture.png?raw=true" />
+
+- **What it does:** Real-time automated triage of inbound leads by budget, company size, and urgency using Google Gemini AI with OpenRouter fallback, instantly splitting VIP enterprise prospects from low-priority inquiries.
+- **Architecture:** Webhook intake & payload extraction → Supabase DLQ raw lead backup → Google Gemini AI scoring + OpenRouter fallback → Schema validation & parameter merge → Multi-tier IF router (Slack alerts for VIPs / Automated Gmail replies for standard leads) → Centralized Google Sheets CRM sync.
+- **Outcome:** Eliminates 70% of manual lead review time, saves 15+ hours/week of qualification work, guarantees zero lead loss via DLQ persistence, and routes high-value prospects instantly.
+- 🎬 [Watch 3-min Loom Demo](https://www.loom.com/share/38164c8a840f4076b3ac0ec62a26e3ce)
+
+[⬆ Back to Top](#table-of-contents)
+
+<br>
+
+#### 8. [Instant Speed‑to‑Lead Alert & CRM Ingestion](https://github.com/kristian-enaga/Speed-to-lead-ingestion-engine)
+
+<img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/f79eb876-8bd0-4596-9175-21c11321ead2" />
+
+
+- **What it does:** Ingests webhook leads, normalizes schema, syncs to Google Sheets CRM, and fires instant Slack alerts.  
+- **Architecture:** Webhook ingestion → schema normalization → Sheets sync → Slack notifications.  
+- **Outcome:** Lead contact time −95% (5‑minute Speed‑to‑Lead); connection rates up to +391%. 
+- 🎬 [Watch 4‑min Loom Demo](https://www.loom.com/share/707c78cf35df44a4adf3ee1a04d75b57)
+
+[⬆ Back to Top](#table-of-contents)
+
+---
+<br>
+<br>
+
+
+
 ### 🛒 E‑Commerce & Revenue Operations
 <br>
 
-#### 8. [Autonomous Revenue Recovery Engine (E‑Commerce)](https://github.com/kristian-enaga/autonomous-revenue-recovery-engine)
+#### 9. [Autonomous Revenue Recovery Engine (E‑Commerce)](https://github.com/kristian-enaga/autonomous-revenue-recovery-engine)
 
 <img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/25dbdf59-5569-42aa-9370-9723ec378d1d" />
 
@@ -374,7 +394,7 @@ Architect and Systems Integration Engineer specializing in Go-To-Market (GTM) ex
 ### 🛡 Infrastructure & System Resilience
 <br>
 
-#### 9. [n8n Centralized Error Handler & Fail‑Safe](https://github.com/kristian-enaga/n8n-Centralized-Error-Handler)
+#### 10. [n8n Centralized Error Handler & Fail‑Safe](https://github.com/kristian-enaga/n8n-Centralized-Error-Handler)
 
 <img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/0a6e86a9-b257-4635-868d-f1abcce5d33b" />
 
@@ -388,25 +408,9 @@ Architect and Systems Integration Engineer specializing in Go-To-Market (GTM) ex
 ---
 <br>
 <br>
-
-
-### 🧩 Clay GTM Lead Enrichment & Prospecting
 <br>
 
-#### 10. [Autonomous Multi-Tier Lead Waterfall & AI Qualifier (Native Clay)](https://github.com/kristian-enaga/native-clay-multi-year-waterfall-engine/blob/main/README.md)
-<img width="1920" height="1079" alt="image" src="https://raw.githubusercontent.com/kristian-enaga/native-clay-multi-year-waterfall-engine/main/clay-enrichment.png" />
 
-- **What it does:** Executes cascading multi-year lead enrichment natively inside Clay to verify work emails, score ICP fit, and generate tailored AI outreach hooks.
-- **Architecture:** Clay native waterfall → Multi-provider contact lookup → AI ICP fit tiering → Automated GTM message synthesis.
-- **Outcome:** Increases valid contact hit-rate while cutting unnecessary data enrichment spend by up to 60%.
-- **Proof:** 🛠️ [GitHub Repository](https://github.com/kristian-enaga/native-clay-multi-year-waterfall-engine/blob/main/README.md) | 🎬 [Watch 4-Min Loom Demo](https://www.loom.com/share/149144121b134f38b4bd0752c959ef02)
-
-
-[⬆ Back to Top](#table-of-contents)
----
-<br>
-<br>
-<br>
 
 ## Education & Certifications
 
@@ -437,6 +441,8 @@ Open to **Full-time Remote Roles**, **B2B contract**, and **fractional GTM Engin
 - Production standards: centralized error handling, retries, DLQ, audit logs, Loom demos for every workflow
 
 ---
+
+<br>
 
 ## Contact
 
