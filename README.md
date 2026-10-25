@@ -147,7 +147,8 @@ I design, build, and deploy production-grade revenue and operations pipelines th
 > I build systems engineered around **defensive data patterns**—ensuring every payload is validated, every failure is trapped in a DLQ, and every founder workflow runs 24/7 without manual intervention.
 
 ---
-
+<br>
+<br>
 <p align="center">
   <i>📍 Based in Zamboanga Sibugay, Philippines · Open to Global Remote Engineering Roles & Contracts</i><br>
   <a href="mailto:kristianenaga@gmail.com"><b>Get in Touch</b></a>
@@ -160,6 +161,8 @@ I design, build, and deploy production-grade revenue and operations pipelines th
 # Hi, I'm Kristian Jay Eñaga 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kristian-jay-e%C3%B1aga-85345741a/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kchanchan2357@gmail.com)
+<br>
+<br>
 
 ## GTM Systems & AI Automation Engineer
 **Location:** Zamboanga Sibugay, Philippines (UTC+8) | **Email:** [kchanchan2357@gmail.com](mailto:kchanchan2357@gmail.com) | **GitHub:** [@kristian-enaga](https://github.com/kristian-enaga) | **LinkedIn:** [kristian-jay-eñaga](https://www.linkedin.com/in/kristian-jay-e%C3%B1aga-85345741a/)
