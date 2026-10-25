@@ -452,3 +452,7 @@ Open to **Full-time Remote Roles**, **B2B contract**, and **fractional GTM Engin
 - GitHub: [@kristian-enaga](https://github.com/kristian-enaga)
 - Email: [kchanchan2357@gmail.com](mailto:kchanchan2357@gmail.com)
 - LinkedIn: [kristian-jay-eñaga](https://www.linkedin.com/in/kristian-jay-e%C3%B1aga-85345741a/)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,40&height=140&section=footer&text=&animation=fadeIn" width="100%" />
+</p>
