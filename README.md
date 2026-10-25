@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>GTM Systems Integration Engineer & AI Automation Specialist</b><br>
+  <b>GTM Systems Integration Engineer & AI Automation Engineer</b><br>
   <i>Building self-healing, zero-downtime automation infrastructure that protects founder revenue.</i>
 </p>
 
