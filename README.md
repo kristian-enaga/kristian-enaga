@@ -322,7 +322,6 @@ Architect and Systems Integration Engineer specializing in Go-To-Market (GTM) ex
 
 <img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/c574a352-f169-412c-893a-9edd441f170e" />
 
-" />
 
 - **What it does:** Sanitizes inbound leads, filters bots, Backup Safe Data Log(DLQ), AI scores intent, syncs to HubSpot, and routes to Slack/WhatsApp.  
 - **Architecture:** Sub‑5s E.164 phone normalization, bot filtering, PostgreSQL/Supabase DLQ, Gemini AI intent scoring, HubSpot sync, dynamic Slack/WhatsApp routing.  
