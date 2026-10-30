@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,40&height=180&section=header&text=Kristian%20Jay%20Eñaga&fontSize=38&fontColor=fff&animation=fadeIn&fontYAt=45" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,40&height=180&section=header&text=Kristian%20Eñaga&fontSize=47&fontColor=fff&animation=fadeIn&fontYAt=45" width="100%" />
 </p>
 
 <p align="center">
