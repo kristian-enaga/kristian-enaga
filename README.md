@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>GTM Systems Integration Engineer & AI Automation Engineer</b><br>
+  <b>GTM Engineer | RevOps Consultant | AI Automation Engineer</b><br>
   <i>Building self-healing, zero-downtime automation infrastructure that protects founder revenue.</i>
 </p>
 
@@ -104,7 +104,13 @@
 
   <br><br>
 </div>
-  
+
+
+---
+
+<br>
+<br>
+
 ## ⚙️ Core Engineering Focus
 I design, build, and deploy production-grade revenue and operations pipelines that eliminate manual bottlenecks and enforce strict data integrity. 
 
@@ -164,7 +170,7 @@ I design, build, and deploy production-grade revenue and operations pipelines th
 <br>
 <br>
 
-## GTM Systems & AI Automation Engineer
+
 **Location:** Zamboanga Sibugay, Philippines (UTC+8) | **Email:** [kchanchan2357@gmail.com](mailto:kchanchan2357@gmail.com) | **GitHub:** [@kristian-enaga](https://github.com/kristian-enaga) | **LinkedIn:** [kristian-jay-eñaga](https://www.linkedin.com/in/kristian-jay-e%C3%B1aga-85345741a/)
 
 ---
