@@ -17,6 +17,23 @@
 
 ---
 
+## 📈 Engineering Philosophy
+> *"An automation pipeline without strict error handling and schema validation is just a ticking time bomb for your database."* 
+> 
+> I build systems engineered around **defensive data patterns**—ensuring every payload is validated, every failure is trapped in a DLQ, and every founder workflow runs 24/7 without manual intervention.
+---
+
+# Hi, I'm Kristian Jay Eñaga 👋
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kristian-jay-e%C3%B1aga-85345741a/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kchanchan2357@gmail.com)
+<br>
+<br>
+
+
+**Location:** Zamboanga Sibugay, Philippines (UTC+8) | **Email:** [kchanchan2357@gmail.com](mailto:kchanchan2357@gmail.com) | **GitHub:** [@kristian-enaga](https://github.com/kristian-enaga) | **LinkedIn:** [kristian-jay-eñaga](https://www.linkedin.com/in/kristian-jay-e%C3%B1aga-85345741a/)
+
+---
+
 <div align="center">
   <br>
   <h3>🎬 SYSTEM ARCHITECTURE WALKTHROUGH</h3>
@@ -32,7 +49,7 @@
   <hr style="width:50%; border:0; height:1px; background:#334155;" />
   <br>
 
-  <h3>👇 SHORT ON TIME? CHOOSE YOUR BUSINESS SOLUTION 👇</h3>
+  <h3>👇 I KNOW YOUR TIME IS YOUR BIGGEST ASSET! Click the Rectangle below👇</h3>
   <p><i>Click any button below to instantly view your credentials or jump directly to your production core pipelines.</i></p>
   <br>
   
@@ -111,6 +128,18 @@
 <br>
 <br>
 
+<a id="table-of-contents"></a>
+# 👇 SHORT ON TIME? CHOOSE YOUR BUSINESS SOLUTION 👇
+*Click any link below to instantly review my professional background or explore production-ready revenue and operations engines.*
+
+| 📋 Executive Overview & Credentials | 🚀 Production-Ready Business Engines |
+| :--- | :--- |
+| <br>**[📄 Professional Summary](#professional-summary)**<br><br>**[🛠️ Technical Skills & Stack](#technical-skills-matrix)**<br><br>**[💼 Professional Experience](#professional-experience)**<br><br>**[⚡ Quick Recruiter Audit](#-quick-recruiter-audit)**<br><br>**[📊 Core Production Systems](#core-production-systems)**<br><br> | <br>🧾 **[1. Accounts Payable Automation](#1-enterprise-autonomous-ap-invoice-reconciliation--fraud-protection-engine)**<br> *Autonomous line-item math checks & accounting sync.*<br><br>🧱 **[2. Native Clay Lead Waterfall Engine](#2-autonomous-multi-tier-lead-waterfall--ai-qualifier-native-clay)**<br> *Multi-tier enrichment maximizing hit-rates.*<br><br>📤 **[3. Automated Outbound Prospecting](#3-automated-b2b-outbound-prospecting-engine)**<br> *Multi-channel generation with HITL governance.*<br><br>🧠 **[4. Autonomous Market Intelligence](#4-autonomous-market-intelligence--b2b-lead-waterfall-engine)**<br> *Token-optimized sourcing & AI vetting.*<br><br>🧹 **[5. Enterprise Inbound Lead Sanitizer](#5-enterprise-inbound-lead-sanitizer--outreach-engine)**<br> *Sub-5s phone validation and bot firewall.*<br><br>🛡️ **[6. Fault-Tolerant Lead Triage](#6-fault-tolerant-lead-triage--self-healing-crm-pipeline)**<br> *Zero-downtime webhook ingestion and routing.*<br><br>🎯 **[7. AI Lead Scoring & Priority Router](#7-ai-lead-scoring--priority-router)**<br> *Real-time VIP intent qualification.*<br><br>⚡ **[8. Instant Speed-to-Lead Alert System](#8-instant-speedtolead-alert--crm-ingestion)**<br> *95% faster response times and Slack alerts.*<br><br>🛒 **[9. E-Commerce Revenue Recovery](#9-autonomous-revenue-recovery-engine-ecommerce)**<br> *Automated cart recovery safeguarding margins.*<br><br>🛡️ **[10. Centralized Error Handler & Fail-Safe](#10-n8n-centralized-error-handler--failsafe)**<br> *Global execution monitoring and failure debugging.*<br> |
+---
+
+<br>
+<br>
+
 ## ⚙️ Core Engineering Focus
 I design, build, and deploy production-grade revenue and operations pipelines that eliminate manual bottlenecks and enforce strict data integrity. 
 
@@ -145,12 +174,7 @@ I design, build, and deploy production-grade revenue and operations pipelines th
 * **AI & LLM Tooling:** Google Gemini API, Groq failover nodes, OpenRouter, OpenAI, Claude, Zod & Pydantic schema validation
 * **Infrastructure & Version Control:** Docker Desktop, PowerShell, GitHub, Loom (Architecture Walkthroughs)
 
----
 
-## 📈 Engineering Philosophy
-> *"An automation pipeline without strict error handling and schema validation is just a ticking time bomb for your database."* 
-> 
-> I build systems engineered around **defensive data patterns**—ensuring every payload is validated, every failure is trapped in a DLQ, and every founder workflow runs 24/7 without manual intervention.
 
 ---
 <br>
@@ -164,31 +188,7 @@ I design, build, and deploy production-grade revenue and operations pipelines th
 <br>
 <br>
 
-# Hi, I'm Kristian Jay Eñaga 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kristian-jay-e%C3%B1aga-85345741a/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kchanchan2357@gmail.com)
-<br>
-<br>
-
-
-**Location:** Zamboanga Sibugay, Philippines (UTC+8) | **Email:** [kchanchan2357@gmail.com](mailto:kchanchan2357@gmail.com) | **GitHub:** [@kristian-enaga](https://github.com/kristian-enaga) | **LinkedIn:** [kristian-jay-eñaga](https://www.linkedin.com/in/kristian-jay-e%C3%B1aga-85345741a/)
-
----
-
-<br>
-
-<a id="table-of-contents"></a>
-# 👇 SHORT ON TIME? CHOOSE YOUR BUSINESS SOLUTION 👇
-*Click any link below to instantly review my professional background or explore production-ready revenue and operations engines.*
-
-| 📋 Executive Overview & Credentials | 🚀 Production-Ready Business Engines |
-| :--- | :--- |
-| <br>**[📄 Professional Summary](#professional-summary)**<br><br>**[🛠️ Technical Skills & Stack](#technical-skills-matrix)**<br><br>**[💼 Professional Experience](#professional-experience)**<br><br>**[⚡ Quick Recruiter Audit](#-quick-recruiter-audit)**<br><br>**[📊 Core Production Systems](#core-production-systems)**<br><br> | <br>🧾 **[1. Accounts Payable Automation](#1-enterprise-autonomous-ap-invoice-reconciliation--fraud-protection-engine)**<br> *Autonomous line-item math checks & accounting sync.*<br><br>🧱 **[2. Native Clay Lead Waterfall Engine](#2-autonomous-multi-tier-lead-waterfall--ai-qualifier-native-clay)**<br> *Multi-tier enrichment maximizing hit-rates.*<br><br>📤 **[3. Automated Outbound Prospecting](#3-automated-b2b-outbound-prospecting-engine)**<br> *Multi-channel generation with HITL governance.*<br><br>🧠 **[4. Autonomous Market Intelligence](#4-autonomous-market-intelligence--b2b-lead-waterfall-engine)**<br> *Token-optimized sourcing & AI vetting.*<br><br>🧹 **[5. Enterprise Inbound Lead Sanitizer](#5-enterprise-inbound-lead-sanitizer--outreach-engine)**<br> *Sub-5s phone validation and bot firewall.*<br><br>🛡️ **[6. Fault-Tolerant Lead Triage](#6-fault-tolerant-lead-triage--self-healing-crm-pipeline)**<br> *Zero-downtime webhook ingestion and routing.*<br><br>🎯 **[7. AI Lead Scoring & Priority Router](#7-ai-lead-scoring--priority-router)**<br> *Real-time VIP intent qualification.*<br><br>⚡ **[8. Instant Speed-to-Lead Alert System](#8-instant-speedtolead-alert--crm-ingestion)**<br> *95% faster response times and Slack alerts.*<br><br>🛒 **[9. E-Commerce Revenue Recovery](#9-autonomous-revenue-recovery-engine-ecommerce)**<br> *Automated cart recovery safeguarding margins.*<br><br>🛡️ **[10. Centralized Error Handler & Fail-Safe](#10-n8n-centralized-error-handler--failsafe)**<br> *Global execution monitoring and failure debugging.*<br> |
----
-
-<br>
-<br>
-<br>
 
 ## Professional Summary
 
