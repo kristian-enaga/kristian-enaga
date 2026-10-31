@@ -112,7 +112,7 @@ My portfolio demonstrates practical implementations across:
 
 <br><br>
 
-<a href="#1-enterprise-autonomous-ap-invoice-reconciliation--fraud-protection-engine">
+<a href="#1-autonomous-ap-invoice-reconciliation--fraud-protection-engine">
   <img src="https://img.shields.io/badge/1._AP_Invoice_Engine-1E293B?style=for-the-badge&color=0F172A" height="28" alt="Engine 1" />
 </a>
 &nbsp;
@@ -164,7 +164,7 @@ My portfolio demonstrates practical implementations across:
 
 | Executive Overview | Engineering Projects |
 | :--- | :--- |
-| [Professional Summary](#professional-summary) | [1. Accounts Payable Automation](#1-enterprise-autonomous-ap-invoice-reconciliation--fraud-protection-engine) |
+| [Professional Summary](#professional-summary) | [1. Accounts Payable Automation](#1-autonomous-ap-invoice-reconciliation--fraud-protection-engine) |
 | [Technical Skills & Stack](#technical-skills-matrix) | [2. Native Clay Lead Waterfall](#2-autonomous-multi-tier-lead-waterfall--ai-qualifier-native-clay) |
 | [Professional Experience](#professional-experience) | [3. B2B Outbound Prospecting](#3-automated-b2b-outbound-prospecting-engine) |
 | [Quick Recruiter Audit](#-quick-recruiter-audit) | [4. Market Intelligence Engine](#4-autonomous-market-intelligence--b2b-lead-waterfall-engine) |
@@ -285,7 +285,7 @@ Each project includes visual evidence and direct access to its implementation or
 
 ---
 
-<a id="1-enterprise-autonomous-ap-invoice-reconciliation--fraud-protection-engine"></a>
+<a id="1-autonomous-ap-invoice-reconciliation--fraud-protection-engine"></a>
 
 ### 🧾 1. Enterprise Autonomous AP Invoice Reconciliation & Fraud Protection Engine
 
