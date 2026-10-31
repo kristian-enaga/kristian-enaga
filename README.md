@@ -287,7 +287,7 @@ Each project includes visual evidence and direct access to its implementation or
 
 <a id="1-autonomous-ap-invoice-reconciliation--fraud-protection-engine"></a>
 
-### 🧾 1. Enterprise Autonomous AP Invoice Reconciliation & Fraud Protection Engine
+### 🧾 1. Autonomous AP Invoice Reconciliation & Fraud Protection Engine
 
 **Business Area:** Finance / Accounts Payable Automation
 
