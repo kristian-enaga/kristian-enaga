@@ -1,16 +1,19 @@
-<p align="center">
+ <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,40&height=180&section=header&text=Kristian%20Eñaga&fontSize=57&fontColor=fff&animation=fadeIn&fontYAt=45" width="100%" />
 </p>
 
+<h1 align="center">Kristian Jay Eñaga</h1>
+
 <p align="center">
-  <b>GTM Engineer | RevOps Consultant | AI Automation Engineer</b><br>
-  <i>Engineering reliable systems that connect revenue operations, data, and AI.</i>
+  <strong>GTM Automation Engineer</strong><br>
+  <em>Building automation systems that improve lead operations, connect business applications, and reduce repetitive work.</em>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Stack-n8n_%7C_Make_%7C_Supabase_%7C_PostgreSQL-blue?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI-Gemini_%7C_Groq_%7C_OpenAI_%7C_Anthropic-orange?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Validation-Zod_%7C_Pydantic_%7C_DLQ-success?style=for-the-badge&logo=zod&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation-n8n%20%7C%20Make-blue?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Integration-APIs%20%7C%20CRM%20%7C%20Webhooks-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data-PostgreSQL%20%7C%20Supabase-success?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-Gemini%20%7C%20Groq%20%7C%20OpenAI-orange?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 <p align="center">
@@ -27,579 +30,419 @@
 
 ---
 
-## Engineering Philosophy
+## What I Build
 
-> "An automation pipeline without strict error handling and schema validation is just a ticking time bomb for your database."
+Businesses lose time when leads are processed manually, customer information is inconsistent, applications do not communicate, and workflow failures go unnoticed.
 
-I approach automation as systems engineering, not simply connecting applications.
+I build automation systems that address these operational problems through workflow engineering, API integrations, CRM connectivity, data processing, and AI-assisted operations.
 
-My focus is on building workflows that handle real operational problems: disconnected systems, inconsistent data, manual lead processing, repetitive administrative work, and unreliable integrations.
+My focus is on helping businesses:
 
-My engineering priorities:
+- Capture, clean, qualify, and route incoming leads.
+- Improve CRM data quality and reduce repetitive data entry.
+- Connect disconnected business applications and databases.
+- Automate prospect research and outbound preparation.
+- Reduce repetitive administrative and operational tasks.
+- Make workflow failures visible and easier to investigate.
 
-- **Data integrity:** Validate incoming data before it reaches downstream systems.
-- **Reliability:** Capture failures, handle exceptions, and design recovery paths.
-- **Integration:** Connect APIs, CRMs, databases, and business applications.
-- **AI governance:** Use structured outputs, fallback strategies, and human approval where appropriate.
-- **Maintainability:** Build workflows that can be inspected, debugged, and improved.
-
----
-
-# Hi, I'm Kristian Jay Eñaga
-
-**GTM Engineer | RevOps | AI Automation & Systems Integration**
-
-I design and build automation systems for revenue operations and business processes.
-
-My portfolio demonstrates practical implementations across:
-
-- B2B lead generation and prospecting
-- CRM ingestion, enrichment, and synchronization
-- AI-assisted lead qualification and routing
-- Market intelligence and research automation
-- Accounts payable and invoice reconciliation
-- E-commerce revenue recovery
-- Error handling and workflow reliability
+I approach automation from the business problem first: understand the process, identify the bottleneck, design the solution, and test how it behaves when something goes wrong.
 
 **Location:** Zamboanga Sibugay, Philippines (UTC+8)  
-**Email:** [kchanchan2357@gmail.com](mailto:kchanchan2357@gmail.com)  
-**GitHub:** [@kristian-enaga](https://github.com/kristian-enaga)  
-**LinkedIn:** [Kristian Jay Eñaga](https://www.linkedin.com/in/kristian-jay-e%C3%B1aga-85345741a/)
+**Availability:** Open to remote opportunities and project-based engagements.
+
+<p align="center">
+  <a href="https://www.loom.com/share/5155791dfa914c43b0a09849b2ebb1fc">
+    <img src="https://img.shields.io/badge/▶%20WATCH%20PORTFOLIO%20WALKTHROUGH-0F172A?style=for-the-badge&logo=loom&logoColor=00FF87&labelColor=030712&color=0F172A" height="45" alt="Watch Portfolio Walkthrough" />
+  </a>
+</p>
+
+<p align="center">
+  <em>Introduction, engineering approach, technical background, and project walkthrough.</em>
+</p>
 
 ---
 
-<div align="center">
+## Quick Navigation
 
-<h3>🎬 SYSTEM ARCHITECTURE WALKTHROUGH</h3>
+<p align="center">
+  <a href="#portfolio-evidence">
+    <img src="https://img.shields.io/badge/01-PORTFOLIO%20EVIDENCE-0F172A?style=for-the-badge" alt="Portfolio Evidence" />
+  </a>
+  <a href="#featured-business-categories">
+    <img src="https://img.shields.io/badge/02-BUSINESS%20CATEGORIES-0F172A?style=for-the-badge" alt="Business Categories" />
+  </a>
+  <a href="#technical-stack--project-evidence">
+    <img src="https://img.shields.io/badge/03-TECHNICAL%20STACK-0F172A?style=for-the-badge" alt="Technical Stack" />
+  </a>
+  <a href="#professional-experience">
+    <img src="https://img.shields.io/badge/04-EXPERIENCE-0F172A?style=for-the-badge" alt="Experience" />
+  </a>
+  <a href="#education--credentials">
+    <img src="https://img.shields.io/badge/05-EDUCATION-0F172A?style=for-the-badge" alt="Education" />
+  </a>
+  <a href="#contact">
+    <img src="https://img.shields.io/badge/06-CONTACT-0F172A?style=for-the-badge" alt="Contact" />
+  </a>
+</p>
 
-<i>Watch my introduction and walkthrough of my engineering approach, technical background, and automation portfolio.</i>
+### Jump to a business category
 
-<br><br>
+| Category | Projects | Jump |
+| :--- | :---: | :--- |
+| Revenue Operations & CRM Automation | 4 | [Explore](#1-revenue-operations--crm-automation) |
+| GTM Intelligence & Prospecting | 3 | [Explore](#2-gtm-intelligence--prospecting) |
+| Business Process Automation & Reliability | 3 | [Explore](#3-business-process-automation--reliability) |
 
-<a href="https://www.loom.com/share/5155791dfa914c43b0a09849b2ebb1fc">
-  <img src="https://img.shields.io/badge/▶%20%20WATCH%20SYSTEM%20WALKTHROUGH%20%20—%203%20MINS-0F172A?style=for-the-badge&logo=loom&logoColor=00FF87&labelColor=030712&color=0F172A" height="45" alt="Watch System Walkthrough" />
-</a>
+### Jump to an individual project
 
-<br><br>
-<hr style="width:50%; border:0; height:1px; background:#334155;" />
-<br>
-
-<h3>👇 EXPLORE THE PORTFOLIO</h3>
-
-<p><i>Jump directly to my professional background, technical skills, or individual engineering projects.</i></p>
-
-<br>
-
-<a href="#professional-summary">
-  <img src="https://img.shields.io/badge/📄_SUMMARY-0F172A?style=for-the-badge&logo=readme&logoColor=F59E0B&labelColor=030712" height="32" alt="Summary" />
-</a>
-&nbsp;
-<a href="#technical-skills-matrix">
-  <img src="https://img.shields.io/badge/🛠️_SKILLS-0F172A?style=for-the-badge&logo=supabase&logoColor=10B981&labelColor=030712" height="32" alt="Skills" />
-</a>
-&nbsp;
-<a href="#professional-experience">
-  <img src="https://img.shields.io/badge/💼_EXPERIENCE-0F172A?style=for-the-badge&logo=codeforces&logoColor=38BDF8&labelColor=030712" height="32" alt="Experience" />
-</a>
-&nbsp;
-<a href="#-quick-recruiter-audit">
-  <img src="https://img.shields.io/badge/⚡_QUICK_AUDIT-0F172A?style=for-the-badge&logo=target&logoColor=00FF87&labelColor=030712" height="32" alt="Quick Audit" />
-</a>
-&nbsp;
-<a href="#core-production-systems">
-  <img src="https://img.shields.io/badge/📊_CORE_SYSTEMS-0F172A?style=for-the-badge&logo=n8n&logoColor=EC4899&labelColor=030712" height="32" alt="Core Systems" />
-</a>
-
-<br><br>
-
-<a href="#1-autonomous-ap-invoice-reconciliation--fraud-protection-engine">
-  <img src="https://img.shields.io/badge/1._AP_Invoice_Engine-1E293B?style=for-the-badge&color=0F172A" height="28" alt="Engine 1" />
-</a>
-&nbsp;
-<a href="#2-autonomous-multi-tier-lead-waterfall--ai-qualifier-native-clay">
-  <img src="https://img.shields.io/badge/2._Clay_Waterfall-1E293B?style=for-the-badge&color=0F172A" height="28" alt="Engine 2" />
-</a>
-&nbsp;
-<a href="#3-automated-b2b-outbound-prospecting-engine">
-  <img src="https://img.shields.io/badge/3._Outbound_Engine-1E293B?style=for-the-badge&color=0F172A" height="28" alt="Engine 3" />
-</a>
-&nbsp;
-<a href="#4-autonomous-market-intelligence--b2b-lead-waterfall-engine">
-  <img src="https://img.shields.io/badge/4._Market_Intelligence-1E293B?style=for-the-badge&color=0F172A" height="28" alt="Engine 4" />
-</a>
-&nbsp;
-<a href="#5-enterprise-inbound-lead-sanitizer--outreach-engine">
-  <img src="https://img.shields.io/badge/5._Lead_Sanitizer-1E293B?style=for-the-badge&color=0F172A" height="28" alt="Engine 5" />
-</a>
-
-<br><br>
-
-<a href="#6-fault-tolerant-lead-triage--self-healing-crm-pipeline">
-  <img src="https://img.shields.io/badge/6._CRM_Triage-1E293B?style=for-the-badge&color=0F172A" height="28" alt="Engine 6" />
-</a>
-&nbsp;
-<a href="#7-ai-lead-scoring--priority-router">
-  <img src="https://img.shields.io/badge/7._AI_Scoring-1E293B?style=for-the-badge&color=0F172A" height="28" alt="Engine 7" />
-</a>
-&nbsp;
-<a href="#8-instant-speedtolead-alert--crm-ingestion">
-  <img src="https://img.shields.io/badge/8._Speed_to_Lead-1E293B?style=for-the-badge&color=0F172A" height="28" alt="Engine 8" />
-</a>
-&nbsp;
-<a href="#9-autonomous-revenue-recovery-engine-ecommerce">
-  <img src="https://img.shields.io/badge/9._Revenue_Recovery-1E293B?style=for-the-badge&color=0F172A" height="28" alt="Engine 9" />
-</a>
-&nbsp;
-<a href="#10-n8n-centralized-error-handler--failsafe">
-  <img src="https://img.shields.io/badge/10._Error_Handler-1E293B?style=for-the-badge&color=0F172A" height="28" alt="Engine 10" />
-</a>
-
-</div>
+| # | Project | Repository |
+| :---: | :--- | :---: |
+| 01 | Inbound Lead Sanitizer & Outreach Engine | [GitHub](https://github.com/kristian-enaga/Inbound-Lead-Sanitizer-Engine) |
+| 02 | Fault-Tolerant Lead Triage Pipeline | [GitHub](https://github.com/kristian-enaga/fault-tolerant-lead-triage-pipeline) |
+| 03 | AI Lead Scoring & Priority Router | [GitHub](https://github.com/kristian-enaga/AI-Lead-Scoring-Router) |
+| 04 | Speed-to-Lead Ingestion Engine | [GitHub](https://github.com/kristian-enaga/Speed-to-lead-ingestion-engine) |
+| 05 | B2B Outbound Prospecting Engine | [GitHub](https://github.com/kristian-enaga/Automated-B2B-Outbound-System) |
+| 06 | Market Intelligence & B2B Lead Waterfall | [GitHub](https://github.com/kristian-enaga/autonomous-market-intelligence-engine) |
+| 07 | Native Clay Lead Waterfall | [GitHub](https://github.com/kristian-enaga/native-clay-multi-year-waterfall-engine/blob/main/README.md) |
+| 08 | AP Invoice Reconciliation Engine | [GitHub](https://github.com/kristian-enaga/enterprise-ap-invoice-reconciliation-engine) |
+| 09 | E-Commerce Revenue Recovery Engine | [GitHub](https://github.com/kristian-enaga/autonomous-revenue-recovery-engine) |
+| 10 | Centralized n8n Error Handler | [GitHub](https://github.com/kristian-enaga/n8n-Centralized-Error-Handler) |
 
 ---
 
-<a id="table-of-contents"></a>
+<a id="portfolio-evidence"></a>
 
-# Choose Your Business Solution
+## Portfolio Evidence
 
-| Executive Overview | Engineering Projects |
+The portfolio is organized around concrete implementation artifacts that a reviewer can inspect.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/10-Independent%20Projects-0F172A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/10-GitHub%20Repositories-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/10-Loom%20Demonstrations-625DF5?style=for-the-badge&logo=loom" />
+  <img src="https://img.shields.io/badge/3-Business%20Categories-0F172A?style=for-the-badge" />
+</p>
+
+| Evidence | What a reviewer can inspect |
 | :--- | :--- |
-| [Professional Summary](#professional-summary) | [1. Accounts Payable Automation](#1-autonomous-ap-invoice-reconciliation--fraud-protection-engine) |
-| [Technical Skills & Stack](#technical-skills-matrix) | [2. Native Clay Lead Waterfall](#2-autonomous-multi-tier-lead-waterfall--ai-qualifier-native-clay) |
-| [Professional Experience](#professional-experience) | [3. B2B Outbound Prospecting](#3-automated-b2b-outbound-prospecting-engine) |
-| [Quick Recruiter Audit](#-quick-recruiter-audit) | [4. Market Intelligence Engine](#4-autonomous-market-intelligence--b2b-lead-waterfall-engine) |
-| [Core Systems Overview](#core-production-systems) | [5. Inbound Lead Sanitizer](#5-enterprise-inbound-lead-sanitizer--outreach-engine) |
-| [Education & Certifications](#education--certifications) | [6. Fault-Tolerant Lead Triage](#6-fault-tolerant-lead-triage--self-healing-crm-pipeline) |
-| [Engagement Model](#how-i-work-engagement-model) | [7. AI Lead Scoring Router](#7-ai-lead-scoring--priority-router) |
-| [Contact](#contact) | [8. Speed-to-Lead Ingestion](#8-instant-speedtolead-alert--crm-ingestion) |
-| | [9. E-Commerce Revenue Recovery](#9-autonomous-revenue-recovery-engine-ecommerce) |
-| | [10. Centralized Error Handler](#10-n8n-centralized-error-handler--failsafe) |
+| **10 project repositories** | Individual implementation documentation and project files |
+| **10 Loom demonstrations** | Recorded walkthroughs of the respective projects |
+| **10 workflow / architecture images** | Visual evidence embedded in the project sections |
+| **3 business categories** | Revenue operations, GTM intelligence, and business process automation |
+| **Multiple integration patterns** | Webhooks, APIs, CRM connections, databases, and communication tools |
+| **Reliability patterns** | Error handling, validation, fallback logic, and human-review workflows |
+
+**Evidence standard:** These are portfolio counts, not client deployment counts. They describe the artifacts presented here. They do not establish production uptime, customer ROI, revenue generated, or measured time savings.
+
+### What to inspect in each project
+
+- Repository documentation and workflow implementation.
+- Workflow screenshots and architecture diagrams.
+- Loom demonstration and execution walkthrough.
+- Input/output examples and test scenarios, where documented.
+- Error handling and limitations, where implemented.
 
 ---
 
-## ⚙️ Core Engineering Focus
+<a id="featured-business-categories"></a>
 
-I design automation systems that connect business applications, improve data movement, and reduce manual operational work.
+# Featured Business Categories
 
-My focus is not just whether a workflow runs successfully once. It is whether the workflow handles inconsistent inputs, integration failures, duplicate events, and exceptions in a controlled way.
+<a id="1-revenue-operations--crm-automation"></a>
 
-| Engineering Area | Implementation |
-| :--- | :--- |
-| **Workflow Reliability** | Error handlers, retries, exception paths, and Dead Letter Queue patterns |
-| **Data Validation** | Structured payloads, schema validation, normalization, and data quality checks |
-| **System Integration** | REST APIs, webhooks, CRM synchronization, and database connections |
-| **AI Integration** | LLM classification, structured outputs, fallback models, and AI-assisted decisions |
-| **Human Oversight** | Slack and Telegram approval workflows for decisions requiring review |
-| **Observability** | Execution logs, diagnostic records, and failure notifications |
+## 1. Revenue Operations & CRM Automation
 
----
+<sub>**Business focus:** Improve lead capture, data quality, qualification, routing, and sales follow-up operations.</sub>
 
-## 🏛️ Production Systems Built
+### 01 — Inbound Lead Sanitizer & Outreach Engine
 
-The following table provides a quick technical overview. Each project below includes its own visual evidence, repository, and Loom walkthrough where available.
-
-| System | Tech Stack | Core Architecture |
-| :--- | :--- | :--- |
-| **AP Invoice Reconciliation** | n8n, Supabase, Slack, QuickBooks Online | Document parsing, AI fallbacks, math verification, exception logging, and accounting sync |
-| **Native Clay Lead Waterfall** | Clay, Multi-Provider APIs, AI | Cascading contact enrichment, ICP tiering, and GTM message synthesis |
-| **B2B Outbound Prospecting** | n8n, AI APIs, Slack, Telegram | Lead scraping, AI draft generation, approval, and logging |
-| **Market Intelligence Engine** | n8n, JavaScript, Gemini, Groq, Zod, Supabase | Search ingestion, URL validation, token optimization, AI failover, and approval |
-| **Inbound Lead Sanitizer** | n8n, HubSpot, Gemini | Phone normalization, bot filtering, intent scoring, and CRM synchronization |
-| **Fault-Tolerant Lead Triage** | n8n, Supabase, HubSpot, Slack | Webhook intake, payload cleansing, AI routing, and CRM upserts |
-| **AI Lead Scoring Router** | n8n, Gemini, OpenRouter, Supabase | Lead qualification, priority routing, and fallback AI |
-| **Speed-to-Lead Engine** | n8n, Google Sheets, Slack | Webhook ingestion, data normalization, and team alerts |
-| **Revenue Recovery Engine** | Make, Supabase, Gemini, Gmail | Stateful delay gates, purchase checks, and recovery messaging |
-| **Centralized Error Handler** | n8n, Google Sheets, Gmail, Slack | Execution failure capture, diagnostic logs, and alerts |
-
----
-
-## 🛠️ Technology Stack
-
-| Category | Skills & Technologies |
-| :--- | :--- |
-| **Automation Platforms** | n8n (Self-Hosted via Docker), Make.com, Zapier, Clay |
-| **GTM & CRM Stack** | Clay, HubSpot CRM, QuickBooks Online, Slack, WhatsApp, Airtable, Telegram |
-| **AI Models & Orchestration** | Google Gemini API, OpenAI API, Groq, OpenRouter, Claude, Prompt Engineering |
-| **Data & Infrastructure** | REST APIs, Webhooks, SQL, PostgreSQL, Supabase, JavaScript (ES6+), JSON, RegEx |
-| **Scraping & Ingestion** | Apify, SerpAPI, Webhook Listeners, E.164 Phone Normalization |
-| **Reliability & Monitoring** | Dead Letter Queues (DLQs), Idempotency, Error Handling, Human-in-the-Loop |
-| **Development Tools** | Docker Desktop, PowerShell, Postman, Git, GitHub, Loom |
-
----
-
-<a id="professional-summary"></a>
-
-## Professional Summary
-
-GTM Systems and AI Automation Engineer specializing in Go-To-Market execution, Revenue Operations automation, and systems integration.
-
-I build workflows that connect CRMs, enrichment platforms, AI services, databases, and communication tools to support business processes.
-
-My work focuses on three engineering priorities:
-
-- **Revenue Operations:** Lead acquisition, qualification, enrichment, routing, and follow-up workflows.
-- **Systems Integration:** API and webhook-based communication between business applications and data systems.
-- **Operational Reliability:** Validation, error handling, exception logging, fallback logic, and human approval.
-
-My portfolio contains independent engineering projects and demonstrations designed to show how these systems are structured and implemented.
-
----
-
-<a id="professional-experience"></a>
-
-## Professional Experience
-
-### GTM Systems & AI Automation Engineer
-*Contract & Independent Projects | June 2026 – Present*
-
-- **Designed GTM Automation Systems:** Built ten independent automation projects covering lead acquisition, CRM enrichment, speed-to-lead routing, revenue recovery, market intelligence, and invoice reconciliation.
-- **Implemented Data Protection Patterns:** Used Supabase/PostgreSQL persistence, exception logging, and failure-handling workflows to improve the visibility and recoverability of automation processes.
-- **Integrated Business Applications:** Connected webhooks, REST APIs, CRMs, databases, AI services, and communication platforms.
-- **Developed AI-Assisted Workflows:** Implemented lead scoring, intent classification, content generation, and multi-model fallback patterns.
-- **Applied Human-in-the-Loop Controls:** Added approval steps for workflows involving outbound communication and financial exceptions.
-- **Built Debugging and Monitoring Workflows:** Created centralized error handling, execution logs, and notification paths.
-
----
-
-## ⚡ Quick Recruiter Audit
-
-| Category | Details |
-| :--- | :--- |
-| **Role Target** | GTM Systems & AI Automation Engineer / RevOps Automation |
-| **Core Stack** | n8n, Make, Clay, HubSpot, REST APIs, Webhooks, PostgreSQL, Supabase |
-| **AI Stack** | Gemini, OpenAI, Groq, OpenRouter, Claude |
-| **Engineering Focus** | Data validation, integration, retries, exception handling, DLQ patterns, HITL |
-| **Portfolio** | 10 independent engineering projects with repository links and visual demonstrations |
-| **Location** | Zamboanga Sibugay, Philippines (UTC+8) |
-| **Availability** | Open to remote roles and contract engagements |
-
----
-
-<a id="core-production-systems"></a>
-
-# Core Production Systems
-
-The following projects demonstrate my approach to business automation, system integration, AI-assisted processing, and operational reliability.
-
-Each project includes visual evidence and direct access to its implementation or walkthrough.
-
----
-
-<a id="1-autonomous-ap-invoice-reconciliation--fraud-protection-engine"></a>
-
-### 🧾 1. Autonomous AP Invoice Reconciliation & Fraud Protection Engine
-
-**Business Area:** Finance / Accounts Payable Automation
-
-[GitHub Repository](https://github.com/kristian-enaga/enterprise-ap-invoice-reconciliation-engine)
-
-<img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/e8d972b1-2f29-4eff-8034-5e4d84ee3777" />
-
-**What it does:**
-
-Ingests vendor invoices through Gmail and webhooks, processes invoice information, checks line-item calculations, identifies billing discrepancies, and routes exceptions for review before accounting synchronization.
-
-**Architecture:**
-
-Gmail/Webhook Trigger → Multi-Format Document Parser → Dual AI Model Fallback (Gemini/OpenAI) → Automated Math Verification → Supabase Exception Logging → Slack Human Approval → QuickBooks Online Sync.
-
-**Engineering Highlights:**
-
-- Multi-channel invoice ingestion.
-- AI-assisted document extraction.
-- Automated line-item math verification.
-- Exception logging and review.
-- Human approval before sensitive accounting actions.
-- QuickBooks Online integration.
-
-**Business Value:**
-
-Reduces repetitive invoice processing and introduces structured review and exception handling into accounts payable workflows.
-
-🎬 **[Watch 4-Minute Loom Demo](https://www.loom.com/share/595e7e48d6ab4a1f89263d23496f9d67)**
-
-[⬆ Back to Top](#table-of-contents)
-
----
-
-<a id="2-autonomous-multi-tier-lead-waterfall--ai-qualifier-native-clay"></a>
-
-### 🧩 2. Autonomous Multi-Tier Lead Waterfall & AI Qualifier (Native Clay)
-
-**Business Area:** B2B Lead Enrichment / GTM Operations
-
-[GitHub Repository](https://github.com/kristian-enaga/native-clay-multi-year-waterfall-engine/blob/main/README.md)
-
-<img width="1920" height="1079" alt="image" src="https://raw.githubusercontent.com/kristian-enaga/native-clay-multi-year-waterfall-engine/main/clay-enrichment.png" />
-
-**What it does:**
-
-Executes cascading lead enrichment inside Clay to find and verify contact information, evaluate ICP fit, and generate tailored outreach hooks.
-
-**Architecture:**
-
-Clay Native Waterfall → Multi-Provider Contact Lookup → AI ICP Fit Tiering → Automated GTM Message Synthesis.
-
-**Engineering Highlights:**
-
-- Multi-provider enrichment.
-- Cascading lookup logic.
-- ICP fit classification.
-- AI-assisted outreach personalization.
-- Tier-based lead evaluation.
-
-**Business Value:**
-
-Helps GTM teams enrich prospects systematically and prioritize contacts based on fit.
-
-**Proof:**
-
-[GitHub Repository](https://github.com/kristian-enaga/native-clay-multi-year-waterfall-engine/blob/main/README.md) | 🎬 [Watch 4-Minute Loom Demo](https://www.loom.com/share/149144121b134f38b4d0752c959ef02)
-
-[⬆ Back to Top](#table-of-contents)
-
----
-
-<a id="3-automated-b2b-outbound-prospecting-engine"></a>
-
-### 📤 3. Automated B2B Outbound Prospecting Engine
-
-**Business Area:** B2B Sales / Outbound Operations
-
-[GitHub Repository](https://github.com/kristian-enaga/Automated-B2B-Outbound-System)
-
-<img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/1f27e6ed-73eb-4df2-a461-e48c02b5d704" />
-
-**What it does:**
-
-Automates an outbound prospecting workflow from company discovery and lead scraping to AI-assisted email drafting, human approval, dispatch, and logging.
-
-**Architecture:**
-
-Apify Scraping → Gemini Email Drafting → Slack Human-in-the-Loop Approval → Dispatch → Logging.
-
-**Engineering Highlights:**
-
-- Automated prospect discovery.
-- AI-assisted outbound copy generation.
-- Human approval before sending.
-- Workflow logging.
-- Controlled outbound execution.
-
-**Business Value:**
-
-Reduces repetitive prospect research and drafting while retaining human control over outbound communication.
-
-🎬 **[Watch 4-Minute Loom Demo](https://www.loom.com/share/5d3416feda7148bbbd60704ab9b5976e)**
-
-[⬆ Back to Top](#table-of-contents)
-
----
-
-<a id="4-autonomous-market-intelligence--b2b-lead-waterfall-engine"></a>
-
-### 🧠 4. Autonomous Market Intelligence & B2B Lead Waterfall Engine
-
-**Business Area:** Market Research / Lead Generation / GTM Intelligence
-
-[GitHub Repository](https://github.com/kristian-enaga/autonomous-market-intelligence-engine)
-
-<img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/9e8e2c0c-4bcf-4117-b18a-5bbee28050b3" />
-
-**What it does:**
-
-Finds potential business opportunities, validates target pages, extracts relevant information, prepares AI-assisted outreach, and routes messages through a human approval process.
-
-**Architecture:**
-
-SerpAPI Ingestion → URL Verification → JavaScript/RegEx Content Optimization → Gemini + Groq Failover → Zod Schema Validation → DLQ → Telegram Human Approval.
-
-**Engineering Highlights:**
-
-- Search-based opportunity discovery.
-- URL validation and pre-flight checks.
-- JavaScript and RegEx-based content extraction.
-- AI model fallback.
-- Structured output validation.
-- Exception handling.
-- Telegram approval workflow.
-
-**Business Value:**
-
-Combines market research, lead sourcing, and outreach preparation into a coordinated workflow.
-
-🎬 **[Watch 4-Minute Loom Demo](https://www.loom.com/share/7792580657284a58a7e1dabf99365087)**
-
-[⬆ Back to Top](#table-of-contents)
-
----
-
-<a id="5-enterprise-inbound-lead-sanitizer--outreach-engine"></a>
-
-### 📥 5. Enterprise Inbound Lead Sanitizer & Outreach Engine
-
-**Business Area:** Inbound Lead Management / CRM Data Quality
+**Business problem:** Poor-quality inbound data creates manual cleanup work and can delay sales follow-up.
 
 [GitHub Repository](https://github.com/kristian-enaga/Inbound-Lead-Sanitizer-Engine)
 
-<img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/c574a352-f169-412c-893a-9edd441f170e" />
+<img width="1920" height="1079" alt="Inbound Lead Sanitizer Workflow" src="https://github.com/user-attachments/assets/c574a352-f169-412c-893a-9edd441f170e" />
 
-**What it does:**
+**What it demonstrates**
 
-Receives inbound leads, normalizes phone numbers, filters suspicious or invalid submissions, evaluates lead intent, synchronizes qualified records to HubSpot, and routes notifications.
+Webhook-based lead intake, phone number normalization, filtering of suspicious submissions, AI-assisted intent classification, CRM synchronization, and notifications.
 
-**Architecture:**
+**Workflow architecture**
 
-Webhook Intake → E.164 Phone Normalization → Bot Filtering → Supabase/PostgreSQL DLQ → Gemini Intent Scoring → HubSpot Sync → Slack/WhatsApp Routing.
+Webhook Intake → E.164 Phone Normalization → Bot Filtering → Supabase/PostgreSQL Exception Handling → Gemini Intent Scoring → HubSpot Sync → Slack/WhatsApp Routing.
 
-**Engineering Highlights:**
+**Technical evidence**
 
 - Phone number normalization.
-- Bot and spam filtering.
-- Persistent exception logging.
+- Lead filtering and data cleansing.
 - AI-assisted intent scoring.
-- HubSpot synchronization.
-- Multi-channel notifications.
+- Database-backed exception handling.
+- HubSpot and communication integrations.
 
-**Business Value:**
+**Business relevance:** Helps improve inbound lead data quality and reduce manual preparation before sales follow-up.
 
-Improves inbound lead data quality and reduces manual cleanup before sales follow-up.
+[Watch Loom Demonstration](https://www.loom.com/share/c38d37d65eed44129a712e530a8e2446)
 
-🎬 **[Watch 4-Minute Loom Demo](https://www.loom.com/share/c38d37d65eed44129a712e530a8e2446)**
-
-[⬆ Back to Top](#table-of-contents)
+[Back to Quick Navigation](#quick-navigation)
 
 ---
 
-<a id="6-fault-tolerant-lead-triage--self-healing-crm-pipeline"></a>
+### 02 — Fault-Tolerant Lead Triage Pipeline
 
-### 🛡️ 6. Fault-Tolerant Lead Triage & Self-Healing CRM Pipeline
-
-**Business Area:** CRM Automation / Reliable Lead Processing
+**Business problem:** Lead-processing workflows need to account for inconsistent payloads, processing failures, and CRM update problems.
 
 [GitHub Repository](https://github.com/kristian-enaga/fault-tolerant-lead-triage-pipeline)
 
 <img width="1920" height="1079" alt="Fault-Tolerant Lead Triage Pipeline" src="https://raw.githubusercontent.com/kristian-enaga/fault-tolerant-lead-triage-pipeline/main/fault-tolerant-lead-triage-architecture.png" />
 
-**What it does:**
+**What it demonstrates**
 
-Processes inbound lead webhooks, cleanses payloads, evaluates lead intent using AI, updates HubSpot, and sends priority notifications to Slack.
+A lead-processing workflow that cleans incoming data, performs AI-assisted scoring, updates CRM records, and routes priority notifications.
 
-**Architecture:**
+**Workflow architecture**
 
-Webhook Intake → Payload Sanitization & RegEx Cleansing → Gemini AI / Groq Fallback Scoring → Idempotent HubSpot CRM Upsert → Supabase DLQ → Slack Priority Alert.
+Webhook Intake → Payload Sanitization & RegEx Cleansing → Gemini AI / Groq Fallback Scoring → HubSpot CRM Update → Supabase Exception Handling → Slack Priority Alert.
 
-**Engineering Highlights:**
+**Technical evidence**
 
-- Webhook payload validation.
+- Webhook payload processing.
 - Data sanitization.
-- Dual-model AI routing.
-- Idempotent CRM update logic.
-- Supabase exception persistence.
-- Priority-based Slack notifications.
+- AI model fallback logic.
+- CRM update workflow.
+- Database-backed exception handling.
+- Priority-based notifications.
 
-**Business Value:**
+**Business relevance:** Demonstrates how a sales team can organize lead processing while making workflow exceptions more visible.
 
-Introduces structured failure handling and controlled CRM updates to reduce the risk of lost or inconsistent lead records.
+[Watch Loom Demonstration](https://www.loom.com/share/5d9a49197b574216894cc00822f0069f)
 
-🎬 **[Watch 3-Minute Loom Demo](https://www.loom.com/share/5d9a49197b574216894cc00822f0069f)**
-
-[⬆ Back to Top](#table-of-contents)
+[Back to Quick Navigation](#quick-navigation)
 
 ---
 
-<a id="7-ai-lead-scoring--priority-router"></a>
+### 03 — AI Lead Scoring & Priority Router
 
-### 🎯 7. AI Lead Scoring & Priority Router
-
-**Business Area:** Sales Qualification / Lead Prioritization
+**Business problem:** Sales teams need a consistent way to prioritize incoming inquiries instead of reviewing every lead manually.
 
 [GitHub Repository](https://github.com/kristian-enaga/AI-Lead-Scoring-Router)
 
 <img width="1920" height="1079" alt="AI Lead Scoring Architecture" src="https://github.com/kristian-enaga/AI-Lead-Scoring-Router/blob/main/n8n-ai-lead-scoring-production-architecture.png?raw=true" />
 
-**What it does:**
+**What it demonstrates**
 
-Evaluates inbound leads using budget, company size, and urgency signals. Google Gemini performs AI-assisted scoring, with OpenRouter as a fallback, before the workflow routes leads according to priority.
+AI-assisted lead qualification using budget, company size, and urgency signals, followed by priority-based routing.
 
-**Architecture:**
+**Workflow architecture**
 
 Webhook Intake → Supabase Raw Lead Backup → Gemini Scoring + OpenRouter Fallback → Schema Validation → Multi-Tier IF Router → Slack VIP Alerts / Gmail Standard Replies → Google Sheets CRM Sync.
 
-**Engineering Highlights:**
+**Technical evidence**
 
-- AI-assisted lead qualification.
+- AI-assisted lead scoring.
 - Multi-model fallback.
 - Raw lead persistence.
 - Structured data validation.
-- VIP and standard lead routing.
-- CRM logging.
+- Priority-based routing.
+- Google Sheets and communication integrations.
 
-**Business Value:**
+**Business relevance:** Helps sales teams distinguish higher-priority inquiries from standard leads and organize follow-up.
 
-Helps sales teams prioritize high-intent inquiries and reduce repetitive manual lead review.
+[Watch Loom Demonstration](https://www.loom.com/share/38164c8a840f4076b3ac0ec62a26e3ce)
 
-🎬 **[Watch 3-Minute Loom Demo](https://www.loom.com/share/38164c8a840f4076b3ac0ec62a26e3ce)**
-
-[⬆ Back to Top](#table-of-contents)
+[Back to Quick Navigation](#quick-navigation)
 
 ---
 
-<a id="8-instant-speedtolead-alert--crm-ingestion"></a>
+### 04 — Speed-to-Lead Ingestion Engine
 
-### ⚡ 8. Instant Speed-to-Lead Alert & CRM Ingestion
-
-**Business Area:** Inbound Sales / Lead Response Operations
+**Business problem:** Manual lead entry and delayed internal notifications can slow down the initial response process.
 
 [GitHub Repository](https://github.com/kristian-enaga/Speed-to-lead-ingestion-engine)
 
-<img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/f79eb876-8bd0-4596-9175-21c11321ead2" />
+<img width="1920" height="1079" alt="Speed-to-Lead Workflow" src="https://github.com/user-attachments/assets/f79eb876-8bd0-4596-9175-21c11321ead2" />
 
-**What it does:**
+**What it demonstrates**
 
-Captures incoming leads through webhooks, normalizes their data, records them in Google Sheets, and immediately notifies the team through Slack.
+Webhook-based lead capture, field normalization, Google Sheets recording, and Slack notifications.
 
-**Architecture:**
+**Workflow architecture**
 
-Webhook Ingestion → Payload Normalization → Google Sheets CRM Sync → Slack Notifications.
+Webhook Ingestion → Payload Normalization → Google Sheets Recording → Slack Notification.
 
-**Engineering Highlights:**
+**Technical evidence**
 
-- Real-time webhook intake.
-- Payload normalization.
-- CRM data recording.
-- Automated team notifications.
-- Straightforward integration architecture.
+- Webhook ingestion.
+- Data normalization.
+- Google Sheets integration.
+- Automated Slack alerts.
 
-**Business Value:**
+**Business relevance:** Reduces repetitive lead entry and helps the team receive incoming inquiries without waiting for manual forwarding.
 
-Reduces manual lead entry and helps sales teams receive new inquiries faster.
+[Watch Loom Demonstration](https://www.loom.com/share/707c78cf35df44a4adf3ee1a04d75b57)
 
-🎬 **[Watch 4-Minute Loom Demo](https://www.loom.com/share/707c78cf35df44a4adf3ee1a04d75b57)**
-
-[⬆ Back to Top](#table-of-contents)
+[Back to Quick Navigation](#quick-navigation)
 
 ---
 
-<a id="9-autonomous-revenue-recovery-engine-ecommerce"></a>
+<a id="2-gtm-intelligence--prospecting"></a>
 
-### 🛒 9. Autonomous Revenue Recovery Engine (E-Commerce)
+## 2. GTM Intelligence & Prospecting
 
-**Business Area:** E-Commerce / Revenue Operations
+<sub>**Business focus:** Automate company research, prospect enrichment, opportunity discovery, and outbound preparation.</sub>
+
+### 05 — B2B Outbound Prospecting Engine
+
+**Business problem:** Manual prospect research and outreach preparation require repetitive information gathering and writing.
+
+[GitHub Repository](https://github.com/kristian-enaga/Automated-B2B-Outbound-System)
+
+<img width="1920" height="1079" alt="B2B Outbound Prospecting Workflow" src="https://github.com/user-attachments/assets/1f27e6ed-73eb-4df2-a461-e48c02b5d704" />
+
+**What it demonstrates**
+
+A prospecting workflow that combines company discovery, scraping, AI-assisted email drafting, human review, dispatch, and logging.
+
+**Workflow architecture**
+
+Apify Scraping → Gemini Email Drafting → Slack Human-in-the-Loop Approval → Dispatch → Logging.
+
+**Technical evidence**
+
+- Automated prospect discovery.
+- AI-assisted email drafting.
+- Human approval before sending.
+- Outbound workflow logging.
+- Controlled dispatch.
+
+**Business relevance:** Reduces repetitive prospect research and drafting while keeping a human in control of outbound communication.
+
+[Watch Loom Demonstration](https://www.loom.com/share/5d3416feda7148bbbd60704ab9b5976e)
+
+[Back to Quick Navigation](#quick-navigation)
+
+---
+
+### 06 — Market Intelligence & B2B Lead Waterfall Engine
+
+**Business problem:** Finding relevant companies and preparing usable prospect information can require several disconnected research and processing steps.
+
+[GitHub Repository](https://github.com/kristian-enaga/autonomous-market-intelligence-engine)
+
+<img width="1920" height="1079" alt="Market Intelligence Workflow" src="https://github.com/user-attachments/assets/9e8e2c0c-4bcf-4117-b18a-5bbee28050b3" />
+
+**What it demonstrates**
+
+Search-based company discovery, URL verification, content processing, AI-assisted analysis, structured output validation, and human review.
+
+**Workflow architecture**
+
+SerpAPI Ingestion → URL Verification → JavaScript/RegEx Content Processing → Gemini + Groq Fallback → Zod Schema Validation → Exception Handling → Telegram Human Approval.
+
+**Technical evidence**
+
+- Search-based opportunity discovery.
+- URL validation.
+- JavaScript and RegEx processing.
+- AI model fallback.
+- Structured output validation.
+- Exception handling.
+- Telegram approval workflow.
+
+**Business relevance:** Connects market research and prospecting preparation into a coordinated workflow.
+
+[Watch Loom Demonstration](https://www.loom.com/share/7792580657284a58a7e1dabf99365087)
+
+[Back to Quick Navigation](#quick-navigation)
+
+---
+
+### 07 — Native Clay Multi-Provider Lead Waterfall
+
+**Business problem:** Prospect records may be incomplete, requiring enrichment from multiple data providers before sales teams can use them.
+
+[GitHub Repository](https://github.com/kristian-enaga/native-clay-multi-year-waterfall-engine/blob/main/README.md)
+
+<img width="1920" height="1079" alt="Clay Lead Enrichment Workflow" src="https://raw.githubusercontent.com/kristian-enaga/native-clay-multi-year-waterfall-engine/main/clay-enrichment.png" />
+
+**What it demonstrates**
+
+A Clay-based lead enrichment workflow using multiple provider lookups, ICP tiering, and AI-assisted outreach preparation.
+
+**Workflow architecture**
+
+Clay Native Waterfall → Multi-Provider Contact Lookup → AI ICP Fit Tiering → GTM Message Synthesis.
+
+**Technical evidence**
+
+- Multi-provider enrichment.
+- Cascading lookup logic.
+- ICP classification.
+- AI-assisted outreach personalization.
+- Tier-based lead evaluation.
+
+**Business relevance:** Helps GTM teams organize prospect enrichment and prioritize contacts based on fit.
+
+[Watch Loom Demonstration](https://www.loom.com/share/149144121b134f38b4d0752c959ef02)
+
+[Back to Quick Navigation](#quick-navigation)
+
+---
+
+<a id="3-business-process-automation--reliability"></a>
+
+## 3. Business Process Automation & Reliability
+
+<sub>**Business focus:** Reduce repetitive finance and e-commerce operations while improving workflow visibility and exception handling.</sub>
+
+### 08 — AP Invoice Reconciliation & Exception Protection Engine
+
+**Business problem:** Invoice processing involves repetitive extraction, calculation checks, reconciliation, and exception review.
+
+[GitHub Repository](https://github.com/kristian-enaga/enterprise-ap-invoice-reconciliation-engine)
+
+<img width="1920" height="1079" alt="AP Invoice Reconciliation Workflow" src="https://github.com/user-attachments/assets/e8d972b1-2f29-4eff-8034-5e4d84ee3777" />
+
+**What it demonstrates**
+
+Invoice ingestion through Gmail and webhooks, AI-assisted document processing, mathematical verification, exception logging, approval, and accounting integration.
+
+**Workflow architecture**
+
+Gmail/Webhook Trigger → Multi-Format Document Parser → Gemini/OpenAI Fallback → Automated Math Verification → Supabase Exception Logging → Slack Human Approval → QuickBooks Online Sync.
+
+**Technical evidence**
+
+- Multi-channel invoice ingestion.
+- AI-assisted document extraction.
+- Line-item mathematical verification.
+- Exception logging and review.
+- Human approval before sensitive accounting actions.
+- QuickBooks Online integration.
+
+**Business relevance:** Reduces repetitive invoice-processing work and introduces structured checks and exception review into accounts payable workflows.
+
+[Watch Loom Demonstration](https://www.loom.com/share/595e7e48d6ab4a1f89263d23496f9d67)
+
+[Back to Quick Navigation](#quick-navigation)
+
+---
+
+### 09 — E-Commerce Revenue Recovery Engine
+
+**Business problem:** Incomplete purchases can require timely follow-up, but sending unnecessary reminders to customers who already purchased creates a poor experience.
 
 [GitHub Repository](https://github.com/kristian-enaga/autonomous-revenue-recovery-engine)
 
-<img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/25dbdf59-5569-42aa-9370-9723ec378d1d" />
+<img width="1920" height="1079" alt="E-Commerce Revenue Recovery Workflow" src="https://github.com/user-attachments/assets/25dbdf59-5569-42aa-9370-9723ec378d1d" />
 
-**What it does:**
+**What it demonstrates**
 
-Automates follow-up for abandoned or incomplete purchases using stateful delays and purchase verification before sending recovery messages.
+An e-commerce recovery workflow using stateful delays, purchase-status verification, AI-assisted email generation, and Gmail dispatch.
 
-**Architecture:**
+**Workflow architecture**
 
-Make.com Scenario → Webhook Ingestion → Stateful Delay Gates → Supabase Purchase Evaluation → Gemini AI Email Generation → Gmail Dispatch.
+Make Scenario → Webhook Ingestion → Stateful Delay Gates → Supabase Purchase Evaluation → Gemini Email Generation → Gmail Dispatch.
 
-**Engineering Highlights:**
+**Technical evidence**
 
 - Stateful workflow delays.
 - Purchase-status verification.
@@ -607,35 +450,31 @@ Make.com Scenario → Webhook Ingestion → Stateful Delay Gates → Supabase Pu
 - AI-assisted email generation.
 - Gmail integration.
 
-**Business Value:**
+**Business relevance:** Supports automated recovery follow-up while checking purchase status before sending another message.
 
-Prevents unnecessary follow-ups to customers who have already completed a purchase and supports automated revenue recovery.
+[Watch Loom Demonstration](https://www.loom.com/share/311bfc94eee1429080f6fe5ed3cf62c0)
 
-🎬 **[Watch 3-Minute Loom Demo](https://www.loom.com/share/311bfc94eee1429080f6fe5ed3cf62c0)**
-
-[⬆ Back to Top](#table-of-contents)
+[Back to Quick Navigation](#quick-navigation)
 
 ---
 
-<a id="10-n8n-centralized-error-handler--failsafe"></a>
+### 10 — Centralized n8n Error Handler
 
-### 🛡️ 10. n8n Centralized Error Handler & Fail-Safe
-
-**Business Area:** Infrastructure / Workflow Reliability
+**Business problem:** Workflow failures can go unnoticed or become difficult to investigate when execution information is scattered.
 
 [GitHub Repository](https://github.com/kristian-enaga/n8n-Centralized-Error-Handler)
 
-<img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/0a6e86a9-b257-4635-868d-f1abcce5d33b" />
+<img width="1920" height="1079" alt="Centralized n8n Error Handler Workflow" src="https://github.com/user-attachments/assets/0a6e86a9-b257-4635-868d-f1abcce5d33b" />
 
-**What it does:**
+**What it demonstrates**
 
-Captures workflow execution failures, records diagnostic information, and sends alerts with direct links to the failed execution for investigation.
+Centralized execution failure capture, diagnostic logging, notifications, and direct links to failed executions.
 
-**Architecture:**
+**Workflow architecture**
 
 Centralized n8n Error Handler → Google Sheets Audit Logs → Gmail/Slack Alerts → Execution Debug Links.
 
-**Engineering Highlights:**
+**Technical evidence**
 
 - Centralized error handling.
 - Execution failure capture.
@@ -643,66 +482,169 @@ Centralized n8n Error Handler → Google Sheets Audit Logs → Gmail/Slack Alert
 - Automated notifications.
 - Direct execution debugging links.
 
-**Business Value:**
+**Business relevance:** Improves visibility into automation failures and gives operators a clearer path to investigating incidents.
 
-Makes workflow failures more visible and gives operators a faster path to investigating and resolving incidents.
+[Watch Loom Demonstration](https://www.loom.com/share/ea1602f3bd8a4086983c96590e49136f)
 
-🎬 **[Watch 3-Minute Loom Demo](https://www.loom.com/share/ea1602f3bd8a4086983c96590e49136f)**
-
-[⬆ Back to Top](#table-of-contents)
+[Back to Quick Navigation](#quick-navigation)
 
 ---
+
+<a id="technical-stack--project-evidence"></a>
+
+## Technical Stack & Project Evidence
+
+The following matrix connects the technologies and engineering patterns in my portfolio to specific projects.
+
+| Technology / Pattern | Where It Appears |
+| :--- | :--- |
+| **n8n** | Projects 1, 3–8, 10 |
+| **Make** | Project 9 |
+| **Clay** | Project 7 |
+| **Apify** | Project 5 |
+| **SerpAPI** | Project 6 |
+| **HubSpot** | Projects 1, 2 |
+| **QuickBooks Online** | Project 8 |
+| **Supabase / PostgreSQL** | Projects 1, 2, 3, 6, 8, 9 |
+| **Google Gemini** | Projects 1–3, 5, 6, 8, 9 |
+| **Groq** | Projects 2, 6 |
+| **OpenAI** | Project 8 |
+| **OpenRouter** | Project 3 |
+| **Zod / Structured Validation** | Project 6 |
+| **JavaScript / RegEx** | Projects 2, 6 |
+| **REST APIs / Webhooks** | Projects 1–6, 8, 9 |
+| **Slack / Gmail** | Projects 1–5, 8–10 |
+| **Telegram / WhatsApp** | Projects 1, 6 |
+
+*The matrix identifies technologies represented in the project descriptions and repositories. The exact implementation, configuration, and depth of use should be verified against each project's source files and documentation.*
+
+### Engineering Patterns
+
+| Pattern | Purpose |
+| :--- | :--- |
+| Input validation | Catch malformed or incomplete data before downstream processing |
+| Data normalization | Standardize records before using them in other systems |
+| Error handling | Capture and report workflow failures |
+| Fallback logic | Provide alternative processing paths when a service fails |
+| Exception logging | Preserve information for investigation |
+| Human-in-the-loop | Require review before selected sensitive actions |
+| Idempotency | Prevent duplicate processing where correctly implemented and tested |
+| Dead-letter queue patterns | Isolate failed records for investigation or recovery |
+
+---
+
+## Engineering Philosophy
+
+> An automation workflow should be designed for the conditions in which it can fail, not only the conditions in which it succeeds.
+
+My engineering priorities:
+
+1. **Understand the process first.** Identify the actual business bottleneck before choosing a tool.
+2. **Protect data integrity.** Validate and normalize information before downstream processing.
+3. **Design for failure.** External APIs, services, and workflows can fail.
+4. **Keep humans involved where necessary.** Important decisions should have appropriate approval controls.
+5. **Make workflows observable.** Errors should be visible, traceable, and actionable.
+6. **Verify before claiming.** Implementation and test evidence matter more than impressive terminology.
+
+---
+
+<a id="professional-experience"></a>
+
+## Professional Experience
+
+### GTM Automation Engineer — Independent Engineering Projects
+
+*June 2026 – Present*
+
+Developing and documenting automation systems focused on revenue operations, business process automation, AI integration, and workflow reliability.
+
+**Practical work represented in the portfolio**
+
+- Built and documented 10 independent automation projects.
+- Developed lead capture, qualification, scoring, and routing workflows.
+- Integrated business applications through APIs and webhooks.
+- Implemented AI-assisted classification, enrichment, and information processing.
+- Worked with database-backed workflows and exception handling.
+- Developed human-review steps for outbound communication and financial exceptions.
+- Created centralized error handling and execution-notification workflows.
+- Documented projects through GitHub repositories, workflow images, and Loom demonstrations.
+
+*These are independent portfolio projects and engineering demonstrations, not a claim of 10 paid client deployments.*
+
+---
+
+<a id="education--credentials"></a>
+
+## Education & Credentials
+
+- **Bachelor of Science in Criminology** — Dr. Aurelio Mendoza Memorial College, March 2026.
+- **Career Service Professional Eligibility** — Civil Service Commission, Philippines.
+- **Make Academy Advanced Certification** — 2026.
+- **AI Automation Learning & Practical Projects** — n8n and Generative AI Systems Integration, 2026.
+
+---
+
+## How I Approach Automation Projects
+
+I believe the best automation starts with understanding the business process, not choosing a tool.
+
+| Stage | Focus |
+| :--- | :--- |
+| **1. Discovery** | Understand the existing business process, tools, and operational bottlenecks. |
+| **2. Process Analysis** | Identify repetitive work, data problems, and failure points. |
+| **3. System Design** | Define workflow logic, data requirements, and integration architecture. |
+| **4. Development** | Build and test a practical end-to-end solution. |
+| **5. Reliability** | Add appropriate validation, exception handling, monitoring, and human approval. |
+| **6. Handover** | Document the workflow and explain how to operate and maintain it. |
+
+**Engagement:** Remote-first · Project-based · Contract opportunities · International collaboration
+
+---
+
+## Remote Collaboration
+
+- **Location:** Zamboanga Sibugay, Philippines (PHT, UTC+8).
+- **Working style:** Remote-first and asynchronous communication with scheduled overlap.
+- **Engagement:** Project-based pilots, contract work, and longer-term collaboration.
+- **Payment platforms:** Familiar with international payment services such as Wise, Payoneer, and Deel.
+
+---
+
+<a id="contact"></a>
+
+## Contact
+
+Interested in improving lead operations, connecting business applications, or reducing repetitive manual processes?
+
+I'd be glad to discuss the operational problem and explore whether automation is an appropriate solution.
+
+<p align="center">
+  <a href="https://www.loom.com/share/5155791dfa914c43b0a09849b2ebb1fc">
+    <img src="https://img.shields.io/badge/▶%20WATCH%20PORTFOLIO%20WALKTHROUGH-0F172A?style=for-the-badge&logo=loom&logoColor=00FF87&labelColor=030712&color=0F172A" height="42" alt="Watch Portfolio Walkthrough" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/kristian-enaga">
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/kristian-jay-e%C3%B1aga-85345741a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:kchanchan2357@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>Email:</strong> kchanchan2357@gmail.com<br>
+  <strong>Location:</strong> Philippines (UTC+8)
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,40&height=140&section=footer&text=&animation=fadeIn" width="100%" />
 </p>
 
-## Education & Certifications
-
-- **Bachelor of Science in Criminology** — Dr. Aurelio Mendoza Memorial College (Graduated March 2026)
-- **Career Service Professional Eligibility** — Civil Service Commission, Philippines (Passed March 2026)
-- **Make Advanced Certification** — Make Academy (2026)
-- **AI Automation Explorer** — Credentials in n8n & Generative AI Systems Integration (2026)
-
----
-
-## How I Work (Engagement Model)
-
-I approach automation projects through a business-first engineering process.
-
-| Stage | What Happens |
-| :--- | :--- |
-| **1. Discovery** | Understand the business process, identify bottlenecks, and map the existing tools and data flows. |
-| **2. Data Model** | Define schemas, identifiers, data quality rules, and integration requirements. |
-| **3. MVP Workflow** | Build a minimal end-to-end workflow that addresses the primary business problem. |
-| **4. Production Hardening** | Add validation, retries, monitoring, documentation, and failure-handling paths. |
-| **5. Handover & Iteration** | Document the system, explain its operation, and identify opportunities for further improvement. |
-
-**Engagements:** Open to full-time remote roles, B2B contracts, and fractional GTM engineering engagements.
-
----
-
-## Remote Engagement
-
-- **Location:** Zamboanga Sibugay, Philippines (PHT, UTC+8)
-- **Collaboration:** Remote-first, asynchronous communication, and scheduled overlap.
-- **Contractor Readiness:** Familiar with international payment platforms such as Wise, Payoneer, and Deel.
-- **Engagement Model:** Project-based pilots, contract engagements, and longer-term collaboration.
-- **Engineering Handover:** Workflow documentation, centralized error handling, monitoring, and Loom walkthroughs.
-
----
-
-## Contact
-
-Interested in discussing GTM automation, CRM integration, lead operations, or business process automation?
-
-Let's talk.
-
-- **GitHub:** [@kristian-enaga](https://github.com/kristian-enaga)
-- **Email:** [kchanchan2357@gmail.com](mailto:kchanchan2357@gmail.com)
-- **LinkedIn:** [Kristian Jay Eñaga](https://www.linkedin.com/in/kristian-jay-e%C3%B1aga-85345741a/)
-- **Portfolio Walkthrough:** [Watch on Loom](https://www.loom.com/share/5155791dfa914c43b0a09849b2ebb1fc)
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,40&height=140&section=footer&text=&animation=fadeIn" width="100%" />
+  <em>Business-first thinking. Engineering-driven execution. Evidence over claims.</em>
 </p>
