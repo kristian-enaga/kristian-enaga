@@ -51,7 +51,7 @@ I approach automation from the business problem first: understand the process, i
 **Availability:** Open to remote opportunities and project-based engagements.
 
 <p align="center">
-  <a href="https://www.loom.com/share/5155791dfa914c43b0a09849b2ebb1fc">
+  <a href="https://www.loom.com/share/94749ae3e10d473d85bc6d022a45ef80">
     <img src="https://img.shields.io/badge/▶%20WATCH%20PORTFOLIO%20WALKTHROUGH-0F172A?style=for-the-badge&logo=loom&logoColor=00FF87&labelColor=030712&color=0F172A" height="45" alt="Watch Portfolio Walkthrough" />
   </a>
 </p>
