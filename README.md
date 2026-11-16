@@ -5,7 +5,7 @@
 <h1 align="center">Kristian Jay Eñaga</h1>
 
 <p align="center">
-  <strong>GTM Automation Engineer</strong><br>
+  <strong> AI GTM Engineer</strong><br>
   <em>Building automation systems that improve lead operations, connect business applications, and reduce repetitive work.</em>
 </p>
 
